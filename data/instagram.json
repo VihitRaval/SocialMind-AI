@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "platform": "Instagram",
+        "author": "Google AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_ai.png",
+        "content": "Excited to share our latest breakthrough in multimodal AI models! Understanding text, images, and audio together opens up incredible possibilities. Swipe to see a demo of real-time translation across formats.",
+        "hashtags": [
+            "#AI",
+            "#GoogleAI",
+            "#MachineLearning",
+            "#Innovation"
+        ],
+        "posted_date": "2026-01-03",
+        "likes": 12450,
+        "comments": 432,
+        "shares": 298,
+        "post_url": "https://instagram.com/post/1"
+    },
+    {
+        "id": 2,
+        "platform": "Instagram",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "New research paper dropped today on reasoning capabilities in large language models. Link in bio for the full technical breakdown. This is a big step forward for reliable AI systems.",
+        "hashtags": [
+            "#OpenAI",
+            "#LLM",
+            "#AIResearch",
+            "#DeepLearning"
+        ],
+        "posted_date": "2026-01-05",
+        "likes": 14200,
+        "comments": 610,
+        "shares": 455,
+        "post_url": "https://instagram.com/post/2"
+    },
+    {
+        "id": 3,
+        "platform": "Instagram",
+        "author": "Python Hub",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/python_hub.png",
+        "content": "5 Python one-liners that will save you hours of coding time. Save this post for later, you'll thank me during your next project deadline!",
+        "hashtags": [
+            "#Python",
+            "#CodingTips",
+            "#Programming",
+            "#PythonHub"
+        ],
+        "posted_date": "2026-01-06",
+        "likes": 8900,
+        "comments": 320,
+        "shares": 210,
+        "post_url": "https://instagram.com/post/3"
+    },
+    {
+        "id": 4,
+        "platform": "Instagram",
+        "author": "CodeWithHarry",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/codewithharry.png",
+        "content": "Just uploaded a full Flask tutorial for beginners! Building a complete blog application from scratch, including authentication and database integration. Check it out on YouTube, link in bio.",
+        "hashtags": [
+            "#Flask",
+            "#Python",
+            "#WebDevelopment",
+            "#CodeWithHarry"
+        ],
+        "posted_date": "2026-01-08",
+        "likes": 9800,
+        "comments": 540,
+        "shares": 180,
+        "post_url": "https://instagram.com/post/4"
+    },
+    {
+        "id": 5,
+        "platform": "Instagram",
+        "author": "AI India",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_india.png",
+        "content": "Prompt engineering isn't just about writing clever text, it's about understanding how models think. Here are 3 techniques that instantly improved my outputs.",
+        "hashtags": [
+            "#PromptEngineering",
+            "#AI",
+            "#AIIndia",
+            "#GenerativeAI"
+        ],
+        "posted_date": "2026-01-10",
+        "likes": 6700,
+        "comments": 210,
+        "shares": 95,
+        "post_url": "https://instagram.com/post/5"
+    },
+    {
+        "id": 6,
+        "platform": "Instagram",
+        "author": "TechBytes",
+        "author_type": "Media",
+        "profile_image": "profile_images/techbytes.png",
+        "content": "Breaking: Major cloud provider announces price cuts on GPU instances for AI training workloads. This could be a game changer for startups building foundation models.",
+        "hashtags": [
+            "#CloudComputing",
+            "#TechNews",
+            "#AI",
+            "#Startups"
+        ],
+        "posted_date": "2026-01-12",
+        "likes": 5400,
+        "comments": 180,
+        "shares": 260,
+        "post_url": "https://instagram.com/post/6"
+    },
+    {
+        "id": 7,
+        "platform": "Instagram",
+        "author": "Coding Ninja",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/coding_ninja.png",
+        "content": "Day 47 of my 100 days of code challenge! Today I tackled dynamic programming problems. Consistency beats motivation every single time.",
+        "hashtags": [
+            "#100DaysOfCode",
+            "#CodingJourney",
+            "#Programming",
+            "#DSA"
+        ],
+        "posted_date": "2026-01-14",
+        "likes": 3200,
+        "comments": 150,
+        "shares": 40,
+        "post_url": "https://instagram.com/post/7"
+    },
+    {
+        "id": 8,
+        "platform": "Instagram",
+        "author": "freeCodeCamp",
+        "author_type": "Organization",
+        "profile_image": "profile_images/freecodecamp.png",
+        "content": "New free course alert! Learn full stack web development from zero to deployment. Over 40 hours of content covering HTML, CSS, JavaScript, React, and Node.js.",
+        "hashtags": [
+            "#WebDevelopment",
+            "#FreeCodeCamp",
+            "#LearnToCode",
+            "#JavaScript"
+        ],
+        "posted_date": "2026-01-15",
+        "likes": 11200,
+        "comments": 480,
+        "shares": 390,
+        "post_url": "https://instagram.com/post/8"
+    },
+    {
+        "id": 9,
+        "platform": "Instagram",
+        "author": "Google Developers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_developers.png",
+        "content": "Announcing updates to our cloud SDK with better support for serverless functions and edge computing. Documentation and migration guide now live.",
+        "hashtags": [
+            "#CloudComputing",
+            "#GoogleDevelopers",
+            "#Serverless",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-17",
+        "likes": 7300,
+        "comments": 220,
+        "shares": 150,
+        "post_url": "https://instagram.com/post/9"
+    },
+    {
+        "id": 10,
+        "platform": "Instagram",
+        "author": "Amazon Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_careers.png",
+        "content": "We're hiring! Amazon is looking for Software Development Engineers across multiple locations. Great opportunity to work on systems that scale to millions of users. Apply through the link in bio.",
+        "hashtags": [
+            "#Hiring",
+            "#Careers",
+            "#Amazon",
+            "#TechJobs"
+        ],
+        "posted_date": "2026-01-18",
+        "likes": 9600,
+        "comments": 710,
+        "shares": 320,
+        "post_url": "https://instagram.com/post/10"
+    },
+    {
+        "id": 11,
+        "platform": "Instagram",
+        "author": "IBM Research",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm_research.png",
+        "content": "Our team published new findings on quantum-resistant cryptography algorithms. As quantum computing advances, securing data for the future becomes critical.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#IBMResearch",
+            "#QuantumComputing",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-20",
+        "likes": 4800,
+        "comments": 160,
+        "shares": 110,
+        "post_url": "https://instagram.com/post/11"
+    },
+    {
+        "id": 12,
+        "platform": "Instagram",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "How we use machine learning to recommend the perfect show for 250 million members. A peek behind the curtain of our recommendation engine.",
+        "hashtags": [
+            "#MachineLearning",
+            "#Netflix",
+            "#DataScience",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-22",
+        "likes": 13800,
+        "comments": 590,
+        "shares": 410,
+        "post_url": "https://instagram.com/post/12"
+    },
+    {
+        "id": 13,
+        "platform": "Instagram",
+        "author": "Meta AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_ai.png",
+        "content": "Introducing improvements to our open source language model family. Faster inference, smaller footprint, same great performance. Available now for researchers and developers.",
+        "hashtags": [
+            "#MetaAI",
+            "#OpenSource",
+            "#LLM",
+            "#AI"
+        ],
+        "posted_date": "2026-01-24",
+        "likes": 10500,
+        "comments": 390,
+        "shares": 280,
+        "post_url": "https://instagram.com/post/13"
+    },
+    {
+        "id": 14,
+        "platform": "Instagram",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "Our new GPU architecture delivers unprecedented performance for deep learning workloads. Training times cut in half for transformer models. The future of AI compute is here.",
+        "hashtags": [
+            "#NVIDIA",
+            "#DeepLearning",
+            "#GPU",
+            "#AI"
+        ],
+        "posted_date": "2026-01-26",
+        "likes": 14900,
+        "comments": 650,
+        "shares": 500,
+        "post_url": "https://instagram.com/post/14"
+    },
+    {
+        "id": 15,
+        "platform": "Instagram",
+        "author": "Microsoft AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_ai.png",
+        "content": "Copilot updates roll out today with better code completion and context awareness across your entire codebase. Developers, your workflow just got smoother.",
+        "hashtags": [
+            "#MicrosoftAI",
+            "#Copilot",
+            "#AI",
+            "#Coding"
+        ],
+        "posted_date": "2026-01-28",
+        "likes": 11800,
+        "comments": 420,
+        "shares": 300,
+        "post_url": "https://instagram.com/post/15"
+    },
+    {
+        "id": 16,
+        "platform": "Instagram",
+        "author": "Priya Sharma",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/priya_sharma.png",
+        "content": "Finally submitted my final year project! Three years of college life, countless late night coding sessions, and it all comes down to this. Feeling grateful and nostalgic.",
+        "hashtags": [
+            "#CollegeLife",
+            "#FinalYear",
+            "#Grateful",
+            "#StudentLife"
+        ],
+        "posted_date": "2026-01-30",
+        "likes": 2100,
+        "comments": 180,
+        "shares": 15,
+        "post_url": "https://instagram.com/post/16"
+    },
+    {
+        "id": 17,
+        "platform": "Instagram",
+        "author": "Wanderlust Meera",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/wanderlust_meera.png",
+        "content": "Sunrise over the Himalayas, worth every step of that six hour trek. Some views remind you why you keep chasing new horizons.",
+        "hashtags": [
+            "#Travel",
+            "#Himalayas",
+            "#Wanderlust",
+            "#Trekking"
+        ],
+        "posted_date": "2026-02-01",
+        "likes": 8700,
+        "comments": 290,
+        "shares": 120,
+        "post_url": "https://instagram.com/post/17"
+    },
+    {
+        "id": 18,
+        "platform": "Instagram",
+        "author": "Rohan Captures",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/rohan_captures.png",
+        "content": "Street photography session in the old city today. There's something magical about golden hour light bouncing off ancient walls.",
+        "hashtags": [
+            "#Photography",
+            "#StreetPhotography",
+            "#GoldenHour",
+            "#Travel"
+        ],
+        "posted_date": "2026-02-03",
+        "likes": 5600,
+        "comments": 140,
+        "shares": 60,
+        "post_url": "https://instagram.com/post/18"
+    },
+    {
+        "id": 19,
+        "platform": "Instagram",
+        "author": "FitWithArjun",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/fitwitharjun.png",
+        "content": "Leg day complete! Remember, consistency and proper form matter more than the number of plates on the bar. Your future self will thank you.",
+        "hashtags": [
+            "#Fitness",
+            "#LegDay",
+            "#GymMotivation",
+            "#HealthyLifestyle"
+        ],
+        "posted_date": "2026-02-05",
+        "likes": 6300,
+        "comments": 210,
+        "shares": 45,
+        "post_url": "https://instagram.com/post/19"
+    },
+    {
+        "id": 20,
+        "platform": "Instagram",
+        "author": "Foodie Ananya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/foodie_ananya.png",
+        "content": "Homemade butter chicken recipe that tastes better than restaurant style. Recipe in my next reel, trust me you don't want to miss this one.",
+        "hashtags": [
+            "#Food",
+            "#ButterChicken",
+            "#Foodie",
+            "#HomeCooking"
+        ],
+        "posted_date": "2026-02-07",
+        "likes": 7800,
+        "comments": 340,
+        "shares": 90,
+        "post_url": "https://instagram.com/post/20"
+    },
+    {
+        "id": 21,
+        "platform": "Instagram",
+        "author": "StyleByKavya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/stylebykavya.png",
+        "content": "Spring is around the corner and pastel tones are back in a big way. Here's how I styled a simple pastel outfit for a casual brunch date.",
+        "hashtags": [
+            "#Fashion",
+            "#OOTD",
+            "#SpringStyle",
+            "#Pastels"
+        ],
+        "posted_date": "2026-02-09",
+        "likes": 9100,
+        "comments": 380,
+        "shares": 150,
+        "post_url": "https://instagram.com/post/21"
+    },
+    {
+        "id": 22,
+        "platform": "Instagram",
+        "author": "IndieBeats Studio",
+        "author_type": "Musician",
+        "profile_image": "profile_images/indiebeats_studio.png",
+        "content": "New single dropping this Friday! Been working on this track for months and I cannot wait for you all to hear it. Save the date.",
+        "hashtags": [
+            "#Music",
+            "#NewRelease",
+            "#IndieMusic",
+            "#Singer"
+        ],
+        "posted_date": "2026-02-11",
+        "likes": 6900,
+        "comments": 260,
+        "shares": 80,
+        "post_url": "https://instagram.com/post/22"
+    },
+    {
+        "id": 23,
+        "platform": "Instagram",
+        "author": "CineReviews Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/cinereviews_daily.png",
+        "content": "Just watched the latest sci-fi blockbuster and honestly the visual effects alone are worth the ticket price. Full spoiler-free review on our page.",
+        "hashtags": [
+            "#Movies",
+            "#MovieReview",
+            "#Cinema",
+            "#Blockbuster"
+        ],
+        "posted_date": "2026-02-13",
+        "likes": 5200,
+        "comments": 310,
+        "shares": 70,
+        "post_url": "https://instagram.com/post/23"
+    },
+    {
+        "id": 24,
+        "platform": "Instagram",
+        "author": "StartupGrind Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/startupgrind_daily.png",
+        "content": "Founders raising their first seed round need to hear this: traction beats a perfect pitch deck every single time. Investors want to see real numbers.",
+        "hashtags": [
+            "#Startup",
+            "#Entrepreneurship",
+            "#Fundraising",
+            "#StartupLife"
+        ],
+        "posted_date": "2026-02-15",
+        "likes": 6100,
+        "comments": 230,
+        "shares": 140,
+        "post_url": "https://instagram.com/post/24"
+    },
+    {
+        "id": 25,
+        "platform": "Instagram",
+        "author": "FinanceWithRiya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/financewithriya.png",
+        "content": "Compound interest is either your best friend or worst enemy depending on which side of the loan you're on. Start investing early, even small amounts matter.",
+        "hashtags": [
+            "#Finance",
+            "#PersonalFinance",
+            "#Investing",
+            "#MoneyTips"
+        ],
+        "posted_date": "2026-02-17",
+        "likes": 8400,
+        "comments": 410,
+        "shares": 190,
+        "post_url": "https://instagram.com/post/25"
+    },
+    {
+        "id": 26,
+        "platform": "Instagram",
+        "author": "Google AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_ai.png",
+        "content": "How we're using computer vision to help farmers detect crop diseases early. This project could impact millions of smallholder farmers worldwide.",
+        "hashtags": [
+            "#AI",
+            "#ComputerVision",
+            "#GoogleAI",
+            "#Agriculture"
+        ],
+        "posted_date": "2026-02-19",
+        "likes": 9700,
+        "comments": 300,
+        "shares": 220,
+        "post_url": "https://instagram.com/post/26"
+    },
+    {
+        "id": 27,
+        "platform": "Instagram",
+        "author": "Python Hub",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/python_hub.png",
+        "content": "Understanding decorators in Python doesn't have to be confusing. Here's a simple explanation with real world examples you can use today.",
+        "hashtags": [
+            "#Python",
+            "#Programming",
+            "#CodingTips",
+            "#PythonHub"
+        ],
+        "posted_date": "2026-02-21",
+        "likes": 7600,
+        "comments": 280,
+        "shares": 130,
+        "post_url": "https://instagram.com/post/27"
+    },
+    {
+        "id": 28,
+        "platform": "Instagram",
+        "author": "TechBytes",
+        "author_type": "Media",
+        "profile_image": "profile_images/techbytes.png",
+        "content": "Ransomware attacks are up 40% this quarter according to new industry report. Small businesses are increasingly becoming primary targets. Here's how to protect yourself.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#TechNews",
+            "#Ransomware",
+            "#DataProtection"
+        ],
+        "posted_date": "2026-02-23",
+        "likes": 4300,
+        "comments": 150,
+        "shares": 190,
+        "post_url": "https://instagram.com/post/28"
+    },
+    {
+        "id": 29,
+        "platform": "Instagram",
+        "author": "CodeWithHarry",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/codewithharry.png",
+        "content": "REST API design mistakes that new developers make all the time. Number 3 will surprise you. Full breakdown in the carousel, swipe through!",
+        "hashtags": [
+            "#WebDevelopment",
+            "#API",
+            "#CodingTips",
+            "#Backend"
+        ],
+        "posted_date": "2026-02-25",
+        "likes": 10200,
+        "comments": 460,
+        "shares": 250,
+        "post_url": "https://instagram.com/post/29"
+    },
+    {
+        "id": 30,
+        "platform": "Instagram",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "Safety remains our top priority as we scale these systems. Sharing our latest update on alignment research and red teaming practices.",
+        "hashtags": [
+            "#OpenAI",
+            "#AISafety",
+            "#AIResearch",
+            "#Technology"
+        ],
+        "posted_date": "2026-02-27",
+        "likes": 13100,
+        "comments": 580,
+        "shares": 390,
+        "post_url": "https://instagram.com/post/30"
+    },
+    {
+        "id": 31,
+        "platform": "Instagram",
+        "author": "Coding Ninja",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/coding_ninja.png",
+        "content": "Placement season is here! Sharing my complete DSA sheet that helped me crack interviews at three different product based companies.",
+        "hashtags": [
+            "#Placements",
+            "#DSA",
+            "#CodingNinja",
+            "#CareerTips"
+        ],
+        "posted_date": "2026-03-01",
+        "likes": 8900,
+        "comments": 520,
+        "shares": 340,
+        "post_url": "https://instagram.com/post/31"
+    },
+    {
+        "id": 32,
+        "platform": "Instagram",
+        "author": "AI India",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_india.png",
+        "content": "Attended an incredible AI meetup in Bangalore today. So many brilliant minds working on real world problems using generative AI. Community events like this matter.",
+        "hashtags": [
+            "#AIIndia",
+            "#AICommunity",
+            "#Bangalore",
+            "#Networking"
+        ],
+        "posted_date": "2026-03-03",
+        "likes": 4100,
+        "comments": 140,
+        "shares": 60,
+        "post_url": "https://instagram.com/post/32"
+    },
+    {
+        "id": 33,
+        "platform": "Instagram",
+        "author": "Wanderlust Meera",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/wanderlust_meera.png",
+        "content": "Backpacking through Southeast Asia on a shoestring budget. Here's how I managed three countries in two weeks for under 500 dollars total.",
+        "hashtags": [
+            "#Travel",
+            "#Backpacking",
+            "#BudgetTravel",
+            "#SoutheastAsia"
+        ],
+        "posted_date": "2026-03-05",
+        "likes": 9400,
+        "comments": 350,
+        "shares": 210,
+        "post_url": "https://instagram.com/post/33"
+    },
+    {
+        "id": 34,
+        "platform": "Instagram",
+        "author": "Rohan Captures",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/rohan_captures.png",
+        "content": "Astrophotography attempt number one hundred. Finally captured the Milky Way clearly from a dark sky location three hours outside the city.",
+        "hashtags": [
+            "#Photography",
+            "#Astrophotography",
+            "#NightSky",
+            "#MilkyWay"
+        ],
+        "posted_date": "2026-03-07",
+        "likes": 7200,
+        "comments": 190,
+        "shares": 95,
+        "post_url": "https://instagram.com/post/34"
+    },
+    {
+        "id": 35,
+        "platform": "Instagram",
+        "author": "FitWithArjun",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/fitwitharjun.png",
+        "content": "Six months of consistent training and finally hit my deadlift goal today. Progress photos in the carousel. Small consistent efforts compound over time.",
+        "hashtags": [
+            "#Fitness",
+            "#Deadlift",
+            "#Progress",
+            "#GymLife"
+        ],
+        "posted_date": "2026-03-09",
+        "likes": 8100,
+        "comments": 270,
+        "shares": 55,
+        "post_url": "https://instagram.com/post/35"
+    },
+    {
+        "id": 36,
+        "platform": "Instagram",
+        "author": "Foodie Ananya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/foodie_ananya.png",
+        "content": "Tried the new ramen place downtown and I'm obsessed. The broth simmers for eighteen hours apparently. Worth the wait in line, trust me.",
+        "hashtags": [
+            "#Food",
+            "#Ramen",
+            "#Foodie",
+            "#RestaurantReview"
+        ],
+        "posted_date": "2026-03-11",
+        "likes": 6400,
+        "comments": 220,
+        "shares": 75,
+        "post_url": "https://instagram.com/post/36"
+    },
+    {
+        "id": 37,
+        "platform": "Instagram",
+        "author": "StyleByKavya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/stylebykavya.png",
+        "content": "Thrifting haul from this weekend! Sustainable fashion doesn't mean sacrificing style. Found some incredible vintage pieces for under twenty dollars total.",
+        "hashtags": [
+            "#Fashion",
+            "#Thrifting",
+            "#SustainableFashion",
+            "#OOTD"
+        ],
+        "posted_date": "2026-03-13",
+        "likes": 7300,
+        "comments": 290,
+        "shares": 110,
+        "post_url": "https://instagram.com/post/37"
+    },
+    {
+        "id": 38,
+        "platform": "Instagram",
+        "author": "IndieBeats Studio",
+        "author_type": "Musician",
+        "profile_image": "profile_images/indiebeats_studio.png",
+        "content": "Behind the scenes from our studio session yesterday. Recording live instruments for the upcoming album has been such a rewarding creative challenge.",
+        "hashtags": [
+            "#Music",
+            "#StudioLife",
+            "#IndieMusic",
+            "#BehindTheScenes"
+        ],
+        "posted_date": "2026-03-15",
+        "likes": 5800,
+        "comments": 200,
+        "shares": 65,
+        "post_url": "https://instagram.com/post/38"
+    },
+    {
+        "id": 39,
+        "platform": "Instagram",
+        "author": "CineReviews Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/cinereviews_daily.png",
+        "content": "This underrated indie film deserves way more attention than it's getting. Powerful storytelling with a modest budget. Adding it to our must watch list.",
+        "hashtags": [
+            "#Movies",
+            "#IndieFilm",
+            "#MovieReview",
+            "#Cinema"
+        ],
+        "posted_date": "2026-03-17",
+        "likes": 3900,
+        "comments": 180,
+        "shares": 50,
+        "post_url": "https://instagram.com/post/39"
+    },
+    {
+        "id": 40,
+        "platform": "Instagram",
+        "author": "StartupGrind Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/startupgrind_daily.png",
+        "content": "This founder bootstrapped to seven figures without any external funding. Sharing key lessons from her journey in today's feature interview.",
+        "hashtags": [
+            "#Startup",
+            "#Bootstrapped",
+            "#Entrepreneurship",
+            "#Business"
+        ],
+        "posted_date": "2026-03-19",
+        "likes": 5700,
+        "comments": 210,
+        "shares": 130,
+        "post_url": "https://instagram.com/post/40"
+    },
+    {
+        "id": 41,
+        "platform": "Instagram",
+        "author": "FinanceWithRiya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/financewithriya.png",
+        "content": "Emergency funds aren't optional, they're essential. Here's how much you should actually be saving based on your monthly expenses and job stability.",
+        "hashtags": [
+            "#Finance",
+            "#EmergencyFund",
+            "#PersonalFinance",
+            "#SavingMoney"
+        ],
+        "posted_date": "2026-03-21",
+        "likes": 6900,
+        "comments": 330,
+        "shares": 160,
+        "post_url": "https://instagram.com/post/41"
+    },
+    {
+        "id": 42,
+        "platform": "Instagram",
+        "author": "Meta AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_ai.png",
+        "content": "Our new research explores how AI agents can collaborate on complex multi-step tasks. Early results show promising improvements in reasoning chains.",
+        "hashtags": [
+            "#MetaAI",
+            "#AIAgents",
+            "#Research",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-03-23",
+        "likes": 9200,
+        "comments": 340,
+        "shares": 240,
+        "post_url": "https://instagram.com/post/42"
+    },
+    {
+        "id": 43,
+        "platform": "Instagram",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "Robotics simulation just got a major upgrade. Our new physics engine enables training robots in photorealistic virtual environments before real world deployment.",
+        "hashtags": [
+            "#NVIDIA",
+            "#Robotics",
+            "#Simulation",
+            "#AI"
+        ],
+        "posted_date": "2026-03-25",
+        "likes": 11400,
+        "comments": 410,
+        "shares": 310,
+        "post_url": "https://instagram.com/post/43"
+    },
+    {
+        "id": 44,
+        "platform": "Instagram",
+        "author": "Microsoft AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_ai.png",
+        "content": "Azure now supports faster deployment pipelines for fine-tuned language models. Enterprises can go from prototype to production in days, not months.",
+        "hashtags": [
+            "#MicrosoftAI",
+            "#Azure",
+            "#CloudComputing",
+            "#Enterprise"
+        ],
+        "posted_date": "2026-03-27",
+        "likes": 8600,
+        "comments": 270,
+        "shares": 180,
+        "post_url": "https://instagram.com/post/44"
+    },
+    {
+        "id": 45,
+        "platform": "Instagram",
+        "author": "Priya Sharma",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/priya_sharma.png",
+        "content": "Hostel life taught me more about independence than any classroom ever could. Sharing five life lessons from three years of dorm living.",
+        "hashtags": [
+            "#CollegeLife",
+            "#HostelLife",
+            "#StudentLife",
+            "#LifeLessons"
+        ],
+        "posted_date": "2026-03-29",
+        "likes": 3400,
+        "comments": 190,
+        "shares": 25,
+        "post_url": "https://instagram.com/post/45"
+    },
+    {
+        "id": 46,
+        "platform": "Instagram",
+        "author": "Amazon Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_careers.png",
+        "content": "Internship applications open now for summer 2026! Great chance for students to work on real projects impacting millions of customers globally.",
+        "hashtags": [
+            "#Internship",
+            "#Careers",
+            "#Amazon",
+            "#StudentOpportunity"
+        ],
+        "posted_date": "2026-03-31",
+        "likes": 10800,
+        "comments": 650,
+        "shares": 380,
+        "post_url": "https://instagram.com/post/46"
+    },
+    {
+        "id": 47,
+        "platform": "Instagram",
+        "author": "IBM Research",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm_research.png",
+        "content": "Our team's work on federated learning enables hospitals to collaboratively train diagnostic models without ever sharing patient data. Privacy and progress can coexist.",
+        "hashtags": [
+            "#IBMResearch",
+            "#FederatedLearning",
+            "#AI",
+            "#Healthcare"
+        ],
+        "posted_date": "2026-04-02",
+        "likes": 6200,
+        "comments": 180,
+        "shares": 140,
+        "post_url": "https://instagram.com/post/47"
+    },
+    {
+        "id": 48,
+        "platform": "Instagram",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "Scaling our streaming infrastructure to handle peak traffic during global launches is no small feat. A look at how our engineering team handles millions of concurrent streams.",
+        "hashtags": [
+            "#Netflix",
+            "#Engineering",
+            "#CloudComputing",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-04",
+        "likes": 9800,
+        "comments": 320,
+        "shares": 270,
+        "post_url": "https://instagram.com/post/48"
+    },
+    {
+        "id": 49,
+        "platform": "Instagram",
+        "author": "Google Developers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_developers.png",
+        "content": "New Flutter update brings improved performance for web applications. Build once, deploy everywhere just got even smoother for developers.",
+        "hashtags": [
+            "#Flutter",
+            "#WebDevelopment",
+            "#GoogleDevelopers",
+            "#MobileDev"
+        ],
+        "posted_date": "2026-04-06",
+        "likes": 7900,
+        "comments": 250,
+        "shares": 160,
+        "post_url": "https://instagram.com/post/49"
+    },
+    {
+        "id": 50,
+        "platform": "Instagram",
+        "author": "TechBytes",
+        "author_type": "Media",
+        "profile_image": "profile_images/techbytes.png",
+        "content": "Major chipmaker unveils next generation processor architecture promising 30% better efficiency. Details on release timeline and pricing inside.",
+        "hashtags": [
+            "#TechNews",
+            "#Technology",
+            "#Semiconductors",
+            "#Innovation"
+        ],
+        "posted_date": "2026-04-08",
+        "likes": 6300,
+        "comments": 190,
+        "shares": 170,
+        "post_url": "https://instagram.com/post/50"
+    },
+    {
+        "id": 51,
+        "platform": "Instagram",
+        "author": "Python Hub",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/python_hub.png",
+        "content": "List comprehensions vs generator expressions, when should you actually use each one? A practical guide with memory usage comparisons.",
+        "hashtags": [
+            "#Python",
+            "#Programming",
+            "#CodingTips",
+            "#PythonHub"
+        ],
+        "posted_date": "2026-04-10",
+        "likes": 6800,
+        "comments": 230,
+        "shares": 100,
+        "post_url": "https://instagram.com/post/51"
+    },
+    {
+        "id": 52,
+        "platform": "Instagram",
+        "author": "CodeWithHarry",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/codewithharry.png",
+        "content": "Deployed my first Flask application to production today using Docker and Nginx. Full tutorial coming this weekend covering the entire deployment pipeline.",
+        "hashtags": [
+            "#Flask",
+            "#Docker",
+            "#WebDevelopment",
+            "#DevOps"
+        ],
+        "posted_date": "2026-04-12",
+        "likes": 9300,
+        "comments": 410,
+        "shares": 220,
+        "post_url": "https://instagram.com/post/52"
+    },
+    {
+        "id": 53,
+        "platform": "Instagram",
+        "author": "AI India",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_india.png",
+        "content": "Fine-tuning open source models on custom datasets is more accessible than ever. Sharing our step by step guide using consumer grade GPUs.",
+        "hashtags": [
+            "#AIIndia",
+            "#FineTuning",
+            "#OpenSource",
+            "#DeepLearning"
+        ],
+        "posted_date": "2026-04-14",
+        "likes": 5900,
+        "comments": 210,
+        "shares": 140,
+        "post_url": "https://instagram.com/post/53"
+    },
+    {
+        "id": 54,
+        "platform": "Instagram",
+        "author": "Coding Ninja",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/coding_ninja.png",
+        "content": "System design interviews scare most candidates but they don't need to. Breaking down how to approach designing a URL shortener from scratch.",
+        "hashtags": [
+            "#SystemDesign",
+            "#CodingNinja",
+            "#InterviewPrep",
+            "#CareerTips"
+        ],
+        "posted_date": "2026-04-16",
+        "likes": 8200,
+        "comments": 390,
+        "shares": 260,
+        "post_url": "https://instagram.com/post/54"
+    },
+    {
+        "id": 55,
+        "platform": "Instagram",
+        "author": "freeCodeCamp",
+        "author_type": "Organization",
+        "profile_image": "profile_images/freecodecamp.png",
+        "content": "Our new certification on machine learning with Python just launched. Over 300 hours of hands on projects covering everything from regression to neural networks.",
+        "hashtags": [
+            "#MachineLearning",
+            "#FreeCodeCamp",
+            "#Python",
+            "#LearnToCode"
+        ],
+        "posted_date": "2026-04-18",
+        "likes": 10600,
+        "comments": 470,
+        "shares": 350,
+        "post_url": "https://instagram.com/post/55"
+    },
+    {
+        "id": 56,
+        "platform": "Instagram",
+        "author": "Wanderlust Meera",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/wanderlust_meera.png",
+        "content": "Road trip along the coastal highway with stops at three hidden beaches most tourists never find. Sharing the full itinerary and map in my stories.",
+        "hashtags": [
+            "#Travel",
+            "#RoadTrip",
+            "#HiddenGems",
+            "#Wanderlust"
+        ],
+        "posted_date": "2026-04-20",
+        "likes": 8500,
+        "comments": 300,
+        "shares": 190,
+        "post_url": "https://instagram.com/post/56"
+    },
+    {
+        "id": 57,
+        "platform": "Instagram",
+        "author": "Rohan Captures",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/rohan_captures.png",
+        "content": "Portrait session with natural window light only, no artificial lighting equipment needed. Sometimes the simplest setups produce the most striking results.",
+        "hashtags": [
+            "#Photography",
+            "#PortraitPhotography",
+            "#NaturalLight",
+            "#PhotoTips"
+        ],
+        "posted_date": "2026-04-22",
+        "likes": 6100,
+        "comments": 170,
+        "shares": 70,
+        "post_url": "https://instagram.com/post/57"
+    },
+    {
+        "id": 58,
+        "platform": "Instagram",
+        "author": "FitWithArjun",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/fitwitharjun.png",
+        "content": "Recovery days matter just as much as training days. Here's my full mobility and stretching routine that keeps injuries away.",
+        "hashtags": [
+            "#Fitness",
+            "#Recovery",
+            "#Mobility",
+            "#HealthyLifestyle"
+        ],
+        "posted_date": "2026-04-24",
+        "likes": 5400,
+        "comments": 190,
+        "shares": 40,
+        "post_url": "https://instagram.com/post/58"
+    },
+    {
+        "id": 59,
+        "platform": "Instagram",
+        "author": "Foodie Ananya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/foodie_ananya.png",
+        "content": "Meal prep Sunday! Five days of healthy lunches prepared in under ninety minutes. Recipes and grocery list linked in my bio for anyone who wants to try.",
+        "hashtags": [
+            "#Food",
+            "#MealPrep",
+            "#HealthyEating",
+            "#Foodie"
+        ],
+        "posted_date": "2026-04-26",
+        "likes": 7100,
+        "comments": 260,
+        "shares": 85,
+        "post_url": "https://instagram.com/post/59"
+    },
+    {
+        "id": 60,
+        "platform": "Instagram",
+        "author": "StyleByKavya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/stylebykavya.png",
+        "content": "Capsule wardrobe update for summer, twenty pieces that mix and match into over fifty outfit combinations. Minimalism meets versatility.",
+        "hashtags": [
+            "#Fashion",
+            "#CapsuleWardrobe",
+            "#SummerStyle",
+            "#OOTD"
+        ],
+        "posted_date": "2026-04-28",
+        "likes": 8300,
+        "comments": 340,
+        "shares": 130,
+        "post_url": "https://instagram.com/post/60"
+    },
+    {
+        "id": 61,
+        "platform": "Instagram",
+        "author": "IndieBeats Studio",
+        "author_type": "Musician",
+        "profile_image": "profile_images/indiebeats_studio.png",
+        "content": "Our single hit 100k streams this week! Thank you to everyone who shared it and sent messages. This community means everything to us.",
+        "hashtags": [
+            "#Music",
+            "#Milestone",
+            "#IndieMusic",
+            "#ThankYou"
+        ],
+        "posted_date": "2026-04-30",
+        "likes": 9100,
+        "comments": 450,
+        "shares": 210,
+        "post_url": "https://instagram.com/post/61"
+    },
+    {
+        "id": 62,
+        "platform": "Instagram",
+        "author": "CineReviews Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/cinereviews_daily.png",
+        "content": "Summer blockbuster season kicks off with a bang. Our ranking of the five most anticipated releases coming to theaters over the next three months.",
+        "hashtags": [
+            "#Movies",
+            "#SummerMovies",
+            "#Cinema",
+            "#MovieReview"
+        ],
+        "posted_date": "2026-05-02",
+        "likes": 6700,
+        "comments": 280,
+        "shares": 110,
+        "post_url": "https://instagram.com/post/62"
+    },
+    {
+        "id": 63,
+        "platform": "Instagram",
+        "author": "StartupGrind Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/startupgrind_daily.png",
+        "content": "Product market fit isn't a milestone you hit once, it's something you constantly have to defend as markets evolve. Key insight from today's founder panel.",
+        "hashtags": [
+            "#Startup",
+            "#ProductMarketFit",
+            "#Entrepreneurship",
+            "#Business"
+        ],
+        "posted_date": "2026-05-04",
+        "likes": 5300,
+        "comments": 200,
+        "shares": 120,
+        "post_url": "https://instagram.com/post/63"
+    },
+    {
+        "id": 64,
+        "platform": "Instagram",
+        "author": "FinanceWithRiya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/financewithriya.png",
+        "content": "Index funds versus actively managed funds, here's the data on long term performance that every new investor should see before making decisions.",
+        "hashtags": [
+            "#Finance",
+            "#IndexFunds",
+            "#Investing",
+            "#PersonalFinance"
+        ],
+        "posted_date": "2026-05-06",
+        "likes": 7400,
+        "comments": 350,
+        "shares": 180,
+        "post_url": "https://instagram.com/post/64"
+    },
+    {
+        "id": 65,
+        "platform": "Instagram",
+        "author": "Google AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_ai.png",
+        "content": "Our new open weights model for on-device inference brings powerful AI capabilities to phones and edge devices without needing constant internet connectivity.",
+        "hashtags": [
+            "#GoogleAI",
+            "#EdgeAI",
+            "#OnDeviceAI",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-05-08",
+        "likes": 12800,
+        "comments": 530,
+        "shares": 420,
+        "post_url": "https://instagram.com/post/65"
+    },
+    {
+        "id": 66,
+        "platform": "Instagram",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "Developers can now build more reliable applications with our updated function calling capabilities. Structured outputs make integration significantly easier.",
+        "hashtags": [
+            "#OpenAI",
+            "#API",
+            "#DeveloperTools",
+            "#AI"
+        ],
+        "posted_date": "2026-05-10",
+        "likes": 11900,
+        "comments": 460,
+        "shares": 340,
+        "post_url": "https://instagram.com/post/66"
+    },
+    {
+        "id": 67,
+        "platform": "Instagram",
+        "author": "Meta AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_ai.png",
+        "content": "Exploring how synthetic data generation can improve model training when real world data is scarce or sensitive. New paper published this week with our findings.",
+        "hashtags": [
+            "#MetaAI",
+            "#SyntheticData",
+            "#MachineLearning",
+            "#Research"
+        ],
+        "posted_date": "2026-05-12",
+        "likes": 8700,
+        "comments": 290,
+        "shares": 200,
+        "post_url": "https://instagram.com/post/67"
+    },
+    {
+        "id": 68,
+        "platform": "Instagram",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "Our latest developer kit makes building autonomous drone systems more accessible than ever, combining edge AI processing with real time sensor fusion.",
+        "hashtags": [
+            "#NVIDIA",
+            "#AutonomousSystems",
+            "#EdgeAI",
+            "#Robotics"
+        ],
+        "posted_date": "2026-05-14",
+        "likes": 9600,
+        "comments": 320,
+        "shares": 230,
+        "post_url": "https://instagram.com/post/68"
+    },
+    {
+        "id": 69,
+        "platform": "Instagram",
+        "author": "Microsoft AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_ai.png",
+        "content": "Security researchers at our lab discovered and patched a critical vulnerability affecting cloud identity management systems. Details and mitigation steps published today.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#MicrosoftAI",
+            "#CloudSecurity",
+            "#Technology"
+        ],
+        "posted_date": "2026-05-16",
+        "likes": 6800,
+        "comments": 240,
+        "shares": 190,
+        "post_url": "https://instagram.com/post/69"
+    },
+    {
+        "id": 70,
+        "platform": "Instagram",
+        "author": "Priya Sharma",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/priya_sharma.png",
+        "content": "Graduation day is finally here! Four years of exams, projects, and friendships that will last a lifetime. Onwards to whatever comes next.",
+        "hashtags": [
+            "#Graduation",
+            "#CollegeLife",
+            "#NewBeginnings",
+            "#StudentLife"
+        ],
+        "posted_date": "2026-05-18",
+        "likes": 4900,
+        "comments": 420,
+        "shares": 60,
+        "post_url": "https://instagram.com/post/70"
+    },
+    {
+        "id": 71,
+        "platform": "Instagram",
+        "author": "Amazon Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_careers.png",
+        "content": "Congratulations to our newest cohort of graduate hires joining teams across engineering, operations, and design this month. Welcome aboard!",
+        "hashtags": [
+            "#Careers",
+            "#Amazon",
+            "#NewHires",
+            "#TechJobs"
+        ],
+        "posted_date": "2026-05-20",
+        "likes": 7200,
+        "comments": 380,
+        "shares": 150,
+        "post_url": "https://instagram.com/post/71"
+    },
+    {
+        "id": 72,
+        "platform": "Instagram",
+        "author": "IBM Research",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm_research.png",
+        "content": "Exploring how explainable AI techniques can build trust between clinicians and diagnostic algorithms in high stakes medical decisions. New whitepaper available now.",
+        "hashtags": [
+            "#IBMResearch",
+            "#ExplainableAI",
+            "#Healthcare",
+            "#AI"
+        ],
+        "posted_date": "2026-05-22",
+        "likes": 5600,
+        "comments": 190,
+        "shares": 110,
+        "post_url": "https://instagram.com/post/72"
+    },
+    {
+        "id": 73,
+        "platform": "Instagram",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "A behind the scenes look at how our data science teams use A/B testing to continuously improve the member experience across every device and region.",
+        "hashtags": [
+            "#DataScience",
+            "#Netflix",
+            "#ABTesting",
+            "#Technology"
+        ],
+        "posted_date": "2026-05-24",
+        "likes": 8900,
+        "comments": 310,
+        "shares": 250,
+        "post_url": "https://instagram.com/post/73"
+    },
+    {
+        "id": 74,
+        "platform": "Instagram",
+        "author": "Google Developers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_developers.png",
+        "content": "Our new workshop series on building scalable microservices architecture kicks off next week. Free registration open now, limited seats available.",
+        "hashtags": [
+            "#WebDevelopment",
+            "#Microservices",
+            "#GoogleDevelopers",
+            "#CloudComputing"
+        ],
+        "posted_date": "2026-05-26",
+        "likes": 6500,
+        "comments": 220,
+        "shares": 140,
+        "post_url": "https://instagram.com/post/74"
+    },
+    {
+        "id": 75,
+        "platform": "Instagram",
+        "author": "TechBytes",
+        "author_type": "Media",
+        "profile_image": "profile_images/techbytes.png",
+        "content": "A new zero-day vulnerability has been discovered affecting widely used enterprise software. Patch immediately if your organization uses this system.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#TechNews",
+            "#ZeroDay",
+            "#Technology"
+        ],
+        "posted_date": "2026-05-28",
+        "likes": 5900,
+        "comments": 210,
+        "shares": 260,
+        "post_url": "https://instagram.com/post/75"
+    },
+    {
+        "id": 76,
+        "platform": "Instagram",
+        "author": "Python Hub",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/python_hub.png",
+        "content": "Async programming in Python explained with simple analogies. If asyncio has ever confused you, this breakdown will finally make it click.",
+        "hashtags": [
+            "#Python",
+            "#AsyncProgramming",
+            "#CodingTips",
+            "#PythonHub"
+        ],
+        "posted_date": "2026-05-30",
+        "likes": 7900,
+        "comments": 300,
+        "shares": 150,
+        "post_url": "https://instagram.com/post/76"
+    },
+    {
+        "id": 77,
+        "platform": "Instagram",
+        "author": "CodeWithHarry",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/codewithharry.png",
+        "content": "Built a real time chat application using Flask and websockets over the weekend. Full source code and tutorial video now available for everyone.",
+        "hashtags": [
+            "#Flask",
+            "#WebDevelopment",
+            "#Websockets",
+            "#Python"
+        ],
+        "posted_date": "2026-06-01",
+        "likes": 10100,
+        "comments": 440,
+        "shares": 230,
+        "post_url": "https://instagram.com/post/77"
+    },
+    {
+        "id": 78,
+        "platform": "Instagram",
+        "author": "AI India",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_india.png",
+        "content": "Vector databases are becoming essential infrastructure for retrieval augmented generation systems. Here's a beginner friendly explanation of how they work.",
+        "hashtags": [
+            "#AIIndia",
+            "#VectorDatabase",
+            "#RAG",
+            "#AI"
+        ],
+        "posted_date": "2026-06-03",
+        "likes": 6300,
+        "comments": 230,
+        "shares": 150,
+        "post_url": "https://instagram.com/post/78"
+    },
+    {
+        "id": 79,
+        "platform": "Instagram",
+        "author": "Coding Ninja",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/coding_ninja.png",
+        "content": "Got three job offers this placement season and want to share exactly how I prepared over the last six months. Full roadmap in this carousel post.",
+        "hashtags": [
+            "#Placements",
+            "#CodingNinja",
+            "#CareerTips",
+            "#JobOffer"
+        ],
+        "posted_date": "2026-06-05",
+        "likes": 9500,
+        "comments": 610,
+        "shares": 390,
+        "post_url": "https://instagram.com/post/79"
+    },
+    {
+        "id": 80,
+        "platform": "Instagram",
+        "author": "freeCodeCamp",
+        "author_type": "Organization",
+        "profile_image": "profile_images/freecodecamp.png",
+        "content": "New deep learning specialization now live covering convolutional networks, transformers, and generative models. All projects are hands-on and portfolio ready.",
+        "hashtags": [
+            "#DeepLearning",
+            "#FreeCodeCamp",
+            "#AI",
+            "#LearnToCode"
+        ],
+        "posted_date": "2026-06-07",
+        "likes": 10900,
+        "comments": 490,
+        "shares": 360,
+        "post_url": "https://instagram.com/post/80"
+    },
+    {
+        "id": 81,
+        "platform": "Instagram",
+        "author": "Wanderlust Meera",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/wanderlust_meera.png",
+        "content": "Island hopping across the archipelago for two weeks straight. Crystal clear waters and the friendliest locals I've ever met. Full guide coming soon.",
+        "hashtags": [
+            "#Travel",
+            "#IslandHopping",
+            "#Wanderlust",
+            "#TravelGuide"
+        ],
+        "posted_date": "2026-06-09",
+        "likes": 9200,
+        "comments": 330,
+        "shares": 200,
+        "post_url": "https://instagram.com/post/81"
+    },
+    {
+        "id": 82,
+        "platform": "Instagram",
+        "author": "Rohan Captures",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/rohan_captures.png",
+        "content": "Wildlife photography from this morning's safari. Patience is everything in this craft, waited four hours for this single shot of the tiger.",
+        "hashtags": [
+            "#Photography",
+            "#WildlifePhotography",
+            "#Safari",
+            "#NatureLovers"
+        ],
+        "posted_date": "2026-06-11",
+        "likes": 8400,
+        "comments": 260,
+        "shares": 140,
+        "post_url": "https://instagram.com/post/82"
+    },
+    {
+        "id": 83,
+        "platform": "Instagram",
+        "author": "FitWithArjun",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/fitwitharjun.png",
+        "content": "Started a new strength training program focused on compound lifts only. Simplifying my routine has actually accelerated my progress. Sometimes less is more.",
+        "hashtags": [
+            "#Fitness",
+            "#StrengthTraining",
+            "#GymMotivation",
+            "#WorkoutRoutine"
+        ],
+        "posted_date": "2026-06-13",
+        "likes": 6700,
+        "comments": 220,
+        "shares": 50,
+        "post_url": "https://instagram.com/post/83"
+    },
+    {
+        "id": 84,
+        "platform": "Instagram",
+        "author": "Foodie Ananya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/foodie_ananya.png",
+        "content": "Farmers market haul this morning! Nothing beats fresh seasonal produce for weekend cooking experiments. Making a rainbow salad with everything I found.",
+        "hashtags": [
+            "#Food",
+            "#FarmersMarket",
+            "#Foodie",
+            "#HealthyEating"
+        ],
+        "posted_date": "2026-06-15",
+        "likes": 5800,
+        "comments": 190,
+        "shares": 65,
+        "post_url": "https://instagram.com/post/84"
+    },
+    {
+        "id": 85,
+        "platform": "Instagram",
+        "author": "StyleByKavya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/stylebykavya.png",
+        "content": "Accessorizing on a budget doesn't mean compromising on style. Five affordable jewelry pieces that instantly elevate any basic outfit.",
+        "hashtags": [
+            "#Fashion",
+            "#Accessories",
+            "#BudgetStyle",
+            "#OOTD"
+        ],
+        "posted_date": "2026-06-17",
+        "likes": 6900,
+        "comments": 270,
+        "shares": 100,
+        "post_url": "https://instagram.com/post/85"
+    },
+    {
+        "id": 86,
+        "platform": "Instagram",
+        "author": "IndieBeats Studio",
+        "author_type": "Musician",
+        "profile_image": "profile_images/indiebeats_studio.png",
+        "content": "Announcing our first ever live tour across five cities this fall! Tickets go on sale Friday at noon. Link in bio for all tour dates.",
+        "hashtags": [
+            "#Music",
+            "#TourAnnouncement",
+            "#IndieMusic",
+            "#LiveShow"
+        ],
+        "posted_date": "2026-06-19",
+        "likes": 10300,
+        "comments": 580,
+        "shares": 320,
+        "post_url": "https://instagram.com/post/86"
+    },
+    {
+        "id": 87,
+        "platform": "Instagram",
+        "author": "CineReviews Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/cinereviews_daily.png",
+        "content": "The best animated film of the year just released and it's a masterclass in storytelling for both kids and adults. Full spoiler-free review now on our page.",
+        "hashtags": [
+            "#Movies",
+            "#Animation",
+            "#MovieReview",
+            "#Cinema"
+        ],
+        "posted_date": "2026-06-21",
+        "likes": 7100,
+        "comments": 300,
+        "shares": 120,
+        "post_url": "https://instagram.com/post/87"
+    },
+    {
+        "id": 88,
+        "platform": "Instagram",
+        "author": "StartupGrind Daily",
+        "author_type": "Media",
+        "profile_image": "profile_images/startupgrind_daily.png",
+        "content": "This fintech startup went from idea to unicorn status in under four years. Breaking down their growth strategy and key pivots in today's deep dive.",
+        "hashtags": [
+            "#Startup",
+            "#Fintech",
+            "#Unicorn",
+            "#Business"
+        ],
+        "posted_date": "2026-06-23",
+        "likes": 6400,
+        "comments": 240,
+        "shares": 150,
+        "post_url": "https://instagram.com/post/88"
+    },
+    {
+        "id": 89,
+        "platform": "Instagram",
+        "author": "FinanceWithRiya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/financewithriya.png",
+        "content": "Understanding your credit score doesn't have to feel like rocket science. Here are the five factors that actually impact your number the most.",
+        "hashtags": [
+            "#Finance",
+            "#CreditScore",
+            "#PersonalFinance",
+            "#MoneyTips"
+        ],
+        "posted_date": "2026-06-25",
+        "likes": 7600,
+        "comments": 360,
+        "shares": 170,
+        "post_url": "https://instagram.com/post/89"
+    },
+    {
+        "id": 90,
+        "platform": "Instagram",
+        "author": "Google AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_ai.png",
+        "content": "Our research team's latest work on protein structure prediction could accelerate drug discovery timelines from years down to months in some cases.",
+        "hashtags": [
+            "#GoogleAI",
+            "#AI",
+            "#DrugDiscovery",
+            "#Research"
+        ],
+        "posted_date": "2026-06-27",
+        "likes": 13600,
+        "comments": 540,
+        "shares": 440,
+        "post_url": "https://instagram.com/post/90"
+    },
+    {
+        "id": 91,
+        "platform": "Instagram",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "Voice mode updates are here with more natural conversational flow and reduced latency. Try it today and let us know what you think.",
+        "hashtags": [
+            "#OpenAI",
+            "#AI",
+            "#VoiceAI",
+            "#ProductUpdate"
+        ],
+        "posted_date": "2026-06-29",
+        "likes": 12300,
+        "comments": 500,
+        "shares": 370,
+        "post_url": "https://instagram.com/post/91"
+    },
+    {
+        "id": 92,
+        "platform": "Instagram",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "Partnering with leading automotive manufacturers to bring advanced driver assistance systems powered by our latest AI chips to production vehicles next year.",
+        "hashtags": [
+            "#NVIDIA",
+            "#AutonomousDriving",
+            "#AI",
+            "#Automotive"
+        ],
+        "posted_date": "2026-07-01",
+        "likes": 10700,
+        "comments": 380,
+        "shares": 270,
+        "post_url": "https://instagram.com/post/92"
+    },
+    {
+        "id": 93,
+        "platform": "Instagram",
+        "author": "Microsoft AI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_ai.png",
+        "content": "Our new enterprise security suite integrates AI-driven threat detection directly into existing workflows, catching anomalies before they become breaches.",
+        "hashtags": [
+            "#MicrosoftAI",
+            "#CyberSecurity",
+            "#Enterprise",
+            "#AI"
+        ],
+        "posted_date": "2026-07-02",
+        "likes": 8100,
+        "comments": 260,
+        "shares": 190,
+        "post_url": "https://instagram.com/post/93"
+    },
+    {
+        "id": 94,
+        "platform": "Instagram",
+        "author": "Priya Sharma",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/priya_sharma.png",
+        "content": "Started my first job today after months of interviews and preparation. College life feels like a distant memory already but I'll always cherish those years.",
+        "hashtags": [
+            "#FirstJob",
+            "#CareerTips",
+            "#NewBeginnings",
+            "#CollegeLife"
+        ],
+        "posted_date": "2026-07-03",
+        "likes": 5100,
+        "comments": 290,
+        "shares": 45,
+        "post_url": "https://instagram.com/post/94"
+    },
+    {
+        "id": 95,
+        "platform": "Instagram",
+        "author": "Amazon Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_careers.png",
+        "content": "Our leadership principles guide everything we do, from hiring decisions to product launches. Sharing what customer obsession really looks like day to day.",
+        "hashtags": [
+            "#Careers",
+            "#Amazon",
+            "#Leadership",
+            "#Business"
+        ],
+        "posted_date": "2026-07-04",
+        "likes": 6600,
+        "comments": 310,
+        "shares": 140,
+        "post_url": "https://instagram.com/post/95"
+    },
+    {
+        "id": 96,
+        "platform": "Instagram",
+        "author": "IBM Research",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm_research.png",
+        "content": "Our latest work on climate modeling uses machine learning to predict extreme weather events with greater accuracy than traditional simulation methods alone.",
+        "hashtags": [
+            "#IBMResearch",
+            "#ClimateModeling",
+            "#MachineLearning",
+            "#DataScience"
+        ],
+        "posted_date": "2026-07-05",
+        "likes": 5400,
+        "comments": 170,
+        "shares": 100,
+        "post_url": "https://instagram.com/post/96"
+    },
+    {
+        "id": 97,
+        "platform": "Instagram",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "How our infrastructure team maintains 99.99% uptime across a global network serving hundreds of millions of hours of content daily. A deep technical dive.",
+        "hashtags": [
+            "#Netflix",
+            "#CloudComputing",
+            "#Engineering",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-01",
+        "likes": 8300,
+        "comments": 270,
+        "shares": 200,
+        "post_url": "https://instagram.com/post/97"
+    },
+    {
+        "id": 98,
+        "platform": "Instagram",
+        "author": "TechBytes",
+        "author_type": "Media",
+        "profile_image": "profile_images/techbytes.png",
+        "content": "Foldable phone sales surged last quarter as prices finally became more accessible to mainstream consumers. Full market analysis and predictions inside.",
+        "hashtags": [
+            "#TechNews",
+            "#Technology",
+            "#Smartphones",
+            "#MarketTrends"
+        ],
+        "posted_date": "2026-02-06",
+        "likes": 4700,
+        "comments": 160,
+        "shares": 110,
+        "post_url": "https://instagram.com/post/98"
+    },
+    {
+        "id": 99,
+        "platform": "Instagram",
+        "author": "Coding Ninja",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/coding_ninja.png",
+        "content": "Mock interviews with peers helped me more than any paid course ever did. Here's how to structure your own peer interview practice sessions effectively.",
+        "hashtags": [
+            "#CodingNinja",
+            "#InterviewPrep",
+            "#CareerTips",
+            "#Programming"
+        ],
+        "posted_date": "2026-03-14",
+        "likes": 5900,
+        "comments": 250,
+        "shares": 90,
+        "post_url": "https://instagram.com/post/99"
+    },
+    {
+        "id": 100,
+        "platform": "Instagram",
+        "author": "StyleByKavya",
+        "author_type": "Influencer",
+        "profile_image": "profile_images/stylebykavya.png",
+        "content": "Transitioning your wardrobe from spring to summer doesn't require a whole new closet. Here are the key pieces that work across both seasons effortlessly.",
+        "hashtags": [
+            "#Fashion",
+            "#SeasonalStyle",
+            "#OOTD",
+            "#WardrobeTips"
+        ],
+        "posted_date": "2026-05-15",
+        "likes": 7000,
+        "comments": 280,
+        "shares": 115,
+        "post_url": "https://instagram.com/post/100"
+    }
+]

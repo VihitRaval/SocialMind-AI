@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "We are thrilled to announce a major expansion of our data center infrastructure across three new regions this year. This investment will bring faster, more reliable cloud services to millions of businesses and developers around the world. Our teams have worked tirelessly over the past eighteen months to design these facilities with sustainability at the core, using 100% renewable energy sources. We believe that access to powerful computing should not be a barrier for innovation, and this expansion is a direct step toward that vision. Stay tuned for more updates as construction progresses.",
+        "hashtags": [
+            "#Google",
+            "#CloudComputing",
+            "#Sustainability",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-02",
+        "likes": 9800,
+        "comments": 540,
+        "shares": 410,
+        "post_url": "https://facebook.com/post/1"
+    },
+    {
+        "id": 2,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "Today marks an exciting milestone for our Azure AI services team. We are rolling out new enterprise grade tools that make it easier than ever for organizations to build, deploy, and monitor machine learning models at scale. From automated model retraining to built-in compliance checks, these features were designed based on direct feedback from thousands of our enterprise customers. We remain committed to democratizing access to AI so that businesses of every size can compete and innovate in this rapidly evolving landscape. Read the full announcement on our blog linked below.",
+        "hashtags": [
+            "#Microsoft",
+            "#Azure",
+            "#AI",
+            "#Enterprise"
+        ],
+        "posted_date": "2026-01-04",
+        "likes": 8700,
+        "comments": 420,
+        "shares": 330,
+        "post_url": "https://facebook.com/post/2"
+    },
+    {
+        "id": 3,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We want to share an update on our ongoing research into making language models safer and more aligned with human values. Over the past few months, our safety team has published several papers exploring red teaming methodologies, interpretability research, and techniques for reducing harmful outputs. We believe transparency is essential as these systems become more capable and more widely used. We are also expanding our external safety advisory board to include voices from academia, civil society, and industry. Thank you to everyone who continues to engage with us on these critical issues.",
+        "hashtags": [
+            "#OpenAI",
+            "#AISafety",
+            "#Research",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-06",
+        "likes": 12400,
+        "comments": 680,
+        "shares": 510,
+        "post_url": "https://facebook.com/post/3"
+    },
+    {
+        "id": 4,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Our engineering team has been hard at work improving the performance and accessibility of our platforms for users with slower internet connections around the world. This quarter, we rolled out a lightweight mode that reduces data usage by up to 70% without sacrificing core functionality. We know that connectivity is not equal everywhere, and we are committed to making sure everyone can stay connected with the people who matter most to them, regardless of their bandwidth constraints. More improvements are on the way throughout the year.",
+        "hashtags": [
+            "#Meta",
+            "#Technology",
+            "#Accessibility",
+            "#Connectivity"
+        ],
+        "posted_date": "2026-01-08",
+        "likes": 7600,
+        "comments": 390,
+        "shares": 260,
+        "post_url": "https://facebook.com/post/4"
+    },
+    {
+        "id": 5,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "We are proud to announce that we have created over fifty thousand new jobs across our fulfillment centers and corporate offices globally this past year. From warehouse associates to software engineers, we continue to invest in building teams that can deliver for our customers every single day. If you or someone you know is looking for new career opportunities, we encourage you to visit our careers page and explore the roles currently open across departments and locations. We look forward to welcoming many new faces to the Amazon family this year.",
+        "hashtags": [
+            "#Amazon",
+            "#Careers",
+            "#Hiring",
+            "#Jobs"
+        ],
+        "posted_date": "2026-01-10",
+        "likes": 11200,
+        "comments": 890,
+        "shares": 620,
+        "post_url": "https://facebook.com/post/5"
+    },
+    {
+        "id": 6,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "We are delighted to share that Infosys has been recognized as one of the top employers in the IT services industry for the fifth consecutive year. This recognition reflects our continued commitment to employee wellbeing, professional development, and fostering an inclusive workplace culture. Our learning and development programs have trained over two hundred thousand employees this year alone in emerging technologies including cloud computing, artificial intelligence, and cybersecurity. We remain dedicated to empowering our workforce with the skills needed to navigate an ever changing digital landscape.",
+        "hashtags": [
+            "#Infosys",
+            "#Careers",
+            "#ITServices",
+            "#EmployeeDevelopment"
+        ],
+        "posted_date": "2026-01-12",
+        "likes": 6400,
+        "comments": 510,
+        "shares": 280,
+        "post_url": "https://facebook.com/post/6"
+    },
+    {
+        "id": 7,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "Tata Consultancy Services is pleased to announce a new strategic partnership focused on accelerating digital transformation for financial institutions across Asia and Europe. Through this collaboration, we aim to deliver cutting edge solutions in areas such as fraud detection, regulatory compliance, and customer experience modernization. Our teams bring decades of domain expertise combined with the latest advancements in cloud and AI technologies. This partnership underscores our ongoing mission to help enterprises navigate complex challenges while unlocking new opportunities for growth in an increasingly digital economy.",
+        "hashtags": [
+            "#TCS",
+            "#DigitalTransformation",
+            "#Business",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-14",
+        "likes": 5800,
+        "comments": 340,
+        "shares": 210,
+        "post_url": "https://facebook.com/post/7"
+    },
+    {
+        "id": 8,
+        "platform": "Facebook",
+        "author": "Coding Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/coding_community.png",
+        "content": "Our monthly coding challenge results are finally in, and we are amazed by the creativity and skill demonstrated by participants from over thirty countries. This month's theme focused on building efficient sorting algorithms under strict time constraints. Congratulations to our top three winners who will receive mentorship sessions with senior engineers from leading tech companies. We want to thank everyone who submitted a solution, participated in the discussions, or simply cheered on their fellow coders. Next month's challenge will be announced this Friday, so stay tuned!",
+        "hashtags": [
+            "#CodingCommunity",
+            "#Programming",
+            "#Challenge",
+            "#LearnToCode"
+        ],
+        "posted_date": "2026-01-16",
+        "likes": 3200,
+        "comments": 280,
+        "shares": 95,
+        "post_url": "https://facebook.com/post/8"
+    },
+    {
+        "id": 9,
+        "platform": "Facebook",
+        "author": "Tech Jobs India",
+        "author_type": "Community",
+        "profile_image": "profile_images/tech_jobs_india.png",
+        "content": "Big update for job seekers in the tech industry! We have compiled a list of over two hundred open positions across leading companies in Bangalore, Hyderabad, Pune, and Chennai. Roles range from entry level software developer positions to senior architect and engineering manager roles. We know how overwhelming job hunting can feel, especially in this competitive market, so we have organized these listings by experience level and technology stack to make your search easier. Links to all applications are available in the comments section below. Good luck to everyone applying!",
+        "hashtags": [
+            "#TechJobsIndia",
+            "#Hiring",
+            "#JobSearch",
+            "#Careers"
+        ],
+        "posted_date": "2026-01-18",
+        "likes": 8900,
+        "comments": 760,
+        "shares": 540,
+        "post_url": "https://facebook.com/post/9"
+    },
+    {
+        "id": 10,
+        "platform": "Facebook",
+        "author": "Developers Club",
+        "author_type": "Community",
+        "profile_image": "profile_images/developers_club.png",
+        "content": "Last night's meetup on building scalable backend systems was an absolute success, with over one hundred and fifty developers joining us both in person and online. Our guest speaker shared incredible insights on how their company handles millions of requests per second while maintaining sub-100 millisecond response times. The Q&A session ran nearly an hour longer than scheduled because attendees had so many great questions. Recordings and slides will be shared in our community group by the end of the week for anyone who could not make it live.",
+        "hashtags": [
+            "#DevelopersClub",
+            "#BackendDevelopment",
+            "#TechMeetup",
+            "#Programming"
+        ],
+        "posted_date": "2026-01-20",
+        "likes": 4100,
+        "comments": 230,
+        "shares": 120,
+        "post_url": "https://facebook.com/post/10"
+    },
+    {
+        "id": 11,
+        "platform": "Facebook",
+        "author": "AI World",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_world.png",
+        "content": "There has been so much discussion lately about whether artificial general intelligence is closer than we think, and we wanted to open this conversation to our community. Some researchers argue that current architectures are fundamentally limited and will hit a ceiling without new breakthroughs, while others believe scaling existing approaches combined with better data will be enough. What do you all think? Drop your perspectives in the comments, we would love to feature some of the most thoughtful responses in our upcoming newsletter roundup on this exact topic.",
+        "hashtags": [
+            "#AIWorld",
+            "#ArtificialIntelligence",
+            "#Discussion",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-22",
+        "likes": 5600,
+        "comments": 890,
+        "shares": 310,
+        "post_url": "https://facebook.com/post/11"
+    },
+    {
+        "id": 12,
+        "platform": "Facebook",
+        "author": "Python Developers",
+        "author_type": "Community",
+        "profile_image": "profile_images/python_developers.png",
+        "content": "We just published our comprehensive guide to Python performance optimization, covering everything from basic profiling techniques to advanced topics like Cython integration and multiprocessing strategies. Whether you are working on data pipelines, web applications, or scientific computing projects, understanding where your bottlenecks live can save you countless hours of debugging and infrastructure costs down the line. The guide includes real benchmark comparisons across different approaches so you can make informed decisions for your specific use case. Link to the full article is in the comments.",
+        "hashtags": [
+            "#PythonDevelopers",
+            "#Python",
+            "#Programming",
+            "#Performance"
+        ],
+        "posted_date": "2026-01-24",
+        "likes": 6700,
+        "comments": 410,
+        "shares": 290,
+        "post_url": "https://facebook.com/post/12"
+    },
+    {
+        "id": 13,
+        "platform": "Facebook",
+        "author": "Data Science Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/data_science_community.png",
+        "content": "Our annual survey results are out, and they reveal some fascinating trends about the state of data science careers this year. Salaries for senior data scientists have grown steadily, but perhaps more interesting is the shift toward specialized roles like machine learning engineers and analytics translators. We also found that professionals with strong domain expertise combined with technical skills are commanding significantly higher compensation than generalists. Full report with detailed breakdowns by region, industry, and experience level is available for download through the link below.",
+        "hashtags": [
+            "#DataScienceCommunity",
+            "#DataScience",
+            "#CareerTips",
+            "#Survey"
+        ],
+        "posted_date": "2026-01-26",
+        "likes": 7300,
+        "comments": 380,
+        "shares": 260,
+        "post_url": "https://facebook.com/post/13"
+    },
+    {
+        "id": 14,
+        "platform": "Facebook",
+        "author": "Rajesh Patel",
+        "author_type": "Individual",
+        "profile_image": "profile_images/rajesh_patel.png",
+        "content": "After eight months of interviews, rejections, and countless hours of preparation, I am beyond thrilled to share that I have accepted a software engineering position at a company I have admired for years. This journey taught me so much about resilience and the importance of continuous learning. To everyone still in the job search grind, please do not lose hope. Every rejection brought me closer to the right opportunity. Thank you to my family and friends who supported me through the toughest moments of this process. Onward to this exciting new chapter!",
+        "hashtags": [
+            "#CareerTips",
+            "#NewJob",
+            "#SoftwareEngineering",
+            "#Grateful"
+        ],
+        "posted_date": "2026-01-28",
+        "likes": 2400,
+        "comments": 320,
+        "shares": 40,
+        "post_url": "https://facebook.com/post/14"
+    },
+    {
+        "id": 15,
+        "platform": "Facebook",
+        "author": "Priya Nair",
+        "author_type": "Individual",
+        "profile_image": "profile_images/priya_nair.png",
+        "content": "Just got back from an incredible ten day trip through Northern Europe, and I have so many stories to share. We visited five countries, tried more strange local foods than I can count, and got completely lost in a beautiful old town more than once. The highlight was definitely watching the sunset over the fjords, something photos truly cannot capture properly. Already planning my next adventure and taking suggestions from anyone who has traveled through the Balkans recently. Would love some recommendations for next spring!",
+        "hashtags": [
+            "#Travel",
+            "#Europe",
+            "#Adventure",
+            "#Wanderlust"
+        ],
+        "posted_date": "2026-01-30",
+        "likes": 3100,
+        "comments": 260,
+        "shares": 50,
+        "post_url": "https://facebook.com/post/15"
+    },
+    {
+        "id": 16,
+        "platform": "Facebook",
+        "author": "Amit Verma",
+        "author_type": "Individual",
+        "profile_image": "profile_images/amit_verma.png",
+        "content": "Six months ago I decided to completely overhaul my lifestyle after a routine checkup revealed some concerning numbers. Since then I have lost eighteen kilograms through consistent strength training and a much more mindful approach to eating. It has not been easy, there were plenty of weeks where motivation was nowhere to be found, but showing up consistently even on the hard days made all the difference. Sharing my before and after photos today because I hope it encourages someone else who might be at the start of their own journey.",
+        "hashtags": [
+            "#Fitness",
+            "#WeightLoss",
+            "#HealthyLifestyle",
+            "#Transformation"
+        ],
+        "posted_date": "2026-02-01",
+        "likes": 5800,
+        "comments": 480,
+        "shares": 110,
+        "post_url": "https://facebook.com/post/16"
+    },
+    {
+        "id": 17,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "Education has always been at the heart of what we do, and today we are proud to announce a significant expansion of our scholarship program for students pursuing degrees in computer science and related fields. Over the next three years, we plan to award scholarships to more than ten thousand students from underrepresented communities around the world. Recipients will also receive mentorship from our engineers and access to exclusive internship opportunities. We believe that talent exists everywhere, but opportunity does not always follow, and we are committed to closing that gap.",
+        "hashtags": [
+            "#Google",
+            "#Education",
+            "#Scholarship",
+            "#Diversity"
+        ],
+        "posted_date": "2026-02-03",
+        "likes": 9200,
+        "comments": 610,
+        "shares": 480,
+        "post_url": "https://facebook.com/post/17"
+    },
+    {
+        "id": 18,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "We are excited to share highlights from our annual developer conference held earlier this week, where we unveiled major updates across our entire product portfolio. From improved integration between our cloud services and development tools to new frameworks that simplify building cross platform applications, this year's announcements reflect thousands of hours of listening to developer feedback. We were also honored to host incredible keynote speakers who shared their vision for the future of technology. If you missed the live sessions, full recordings are now available on our website.",
+        "hashtags": [
+            "#Microsoft",
+            "#DeveloperConference",
+            "#Technology",
+            "#Innovation"
+        ],
+        "posted_date": "2026-02-05",
+        "likes": 8100,
+        "comments": 450,
+        "shares": 340,
+        "post_url": "https://facebook.com/post/18"
+    },
+    {
+        "id": 19,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We often get asked how we think about the balance between rapid innovation and responsible deployment of powerful AI systems. Today we want to share more detail on our internal review process, which includes extensive testing for potential misuse, bias evaluation across diverse demographic groups, and staged rollouts that allow us to monitor real world impact before wider release. We believe this measured approach, while sometimes slower than our critics would prefer, is essential given the stakes involved. We will continue refining this process as we learn more.",
+        "hashtags": [
+            "#OpenAI",
+            "#AISafety",
+            "#ResponsibleAI",
+            "#Technology"
+        ],
+        "posted_date": "2026-02-07",
+        "likes": 10800,
+        "comments": 590,
+        "shares": 420,
+        "post_url": "https://facebook.com/post/19"
+    },
+    {
+        "id": 20,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Family safety online continues to be one of our top priorities, and this month we are rolling out enhanced parental control features across our platforms. Parents will now have more visibility into their teen's activity, including screen time reports and the ability to set stricter content filters based on age appropriateness. We worked closely with child safety experts and parent advocacy groups throughout the development of these features to ensure they genuinely address the concerns families have raised. We will continue to invest heavily in this space moving forward.",
+        "hashtags": [
+            "#Meta",
+            "#OnlineSafety",
+            "#Family",
+            "#Technology"
+        ],
+        "posted_date": "2026-02-09",
+        "likes": 6900,
+        "comments": 510,
+        "shares": 300,
+        "post_url": "https://facebook.com/post/20"
+    },
+    {
+        "id": 21,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "Sustainability remains a core pillar of our long term strategy, and we are proud to share that we have now deployed over one hundred thousand electric delivery vehicles across our logistics network worldwide. This transition has already reduced our carbon emissions significantly, and we remain on track to meet our net zero commitment ahead of schedule. Beyond vehicles, we continue to invest in renewable energy projects, sustainable packaging materials, and warehouse efficiency improvements. Thank you to our incredible operations teams who make these ambitious goals achievable through their daily dedication.",
+        "hashtags": [
+            "#Amazon",
+            "#Sustainability",
+            "#ClimateAction",
+            "#Business"
+        ],
+        "posted_date": "2026-02-11",
+        "likes": 8400,
+        "comments": 420,
+        "shares": 390,
+        "post_url": "https://facebook.com/post/21"
+    },
+    {
+        "id": 22,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "Our quarterly results were announced this week, reflecting steady growth driven by strong demand for our digital transformation and cloud migration services across all major geographies. We continue to see increasing interest from clients looking to modernize legacy systems and adopt AI driven automation to improve operational efficiency. Our leadership team remains focused on long term value creation for our shareholders while continuing to invest in employee training programs and expanding our global delivery capabilities. We are grateful to our clients and employees for their continued trust and partnership.",
+        "hashtags": [
+            "#Infosys",
+            "#Business",
+            "#QuarterlyResults",
+            "#DigitalTransformation"
+        ],
+        "posted_date": "2026-02-13",
+        "likes": 4600,
+        "comments": 280,
+        "shares": 180,
+        "post_url": "https://facebook.com/post/22"
+    },
+    {
+        "id": 23,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "We are honored to have been named a leader in the latest industry analyst report evaluating cloud transformation service providers globally. This recognition reflects the hard work of thousands of our consultants, engineers, and delivery teams who partner with clients every day to solve complex business challenges. Our approach combines deep industry knowledge with cutting edge technology capabilities, allowing us to deliver measurable outcomes rather than just technical implementations. We remain committed to being the trusted partner of choice for enterprises navigating their digital transformation journeys around the world.",
+        "hashtags": [
+            "#TCS",
+            "#CloudComputing",
+            "#Business",
+            "#Recognition"
+        ],
+        "posted_date": "2026-02-15",
+        "likes": 4200,
+        "comments": 220,
+        "shares": 160,
+        "post_url": "https://facebook.com/post/23"
+    },
+    {
+        "id": 24,
+        "platform": "Facebook",
+        "author": "Coding Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/coding_community.png",
+        "content": "We want to take a moment to celebrate one of our long time members who just landed their dream job after two years of consistent practice within our community. They started as a complete beginner, struggling with basic loops and conditionals, and through daily practice, peer code reviews, and participation in our weekly challenges, they have grown into a confident full stack developer. Stories like this remind us why this community exists. Keep showing up, keep practicing, and trust that consistent effort compounds over time into real results.",
+        "hashtags": [
+            "#CodingCommunity",
+            "#Success",
+            "#Programming",
+            "#Motivation"
+        ],
+        "posted_date": "2026-02-17",
+        "likes": 5100,
+        "comments": 390,
+        "shares": 150,
+        "post_url": "https://facebook.com/post/24"
+    },
+    {
+        "id": 25,
+        "platform": "Facebook",
+        "author": "Tech Jobs India",
+        "author_type": "Community",
+        "profile_image": "profile_images/tech_jobs_india.png",
+        "content": "With the new financial year approaching, many companies are ramping up hiring across engineering, product, and design roles. We have noticed a significant increase in demand for professionals with expertise in cloud infrastructure, cybersecurity, and applied machine learning. If you are currently upskilling in these areas, now is a great time to start applying as companies are actively looking to fill positions before the next quarter begins. We will continue posting curated job opportunities daily, so make sure to turn on notifications for our page to stay updated.",
+        "hashtags": [
+            "#TechJobsIndia",
+            "#Hiring",
+            "#CareerTips",
+            "#JobSearch"
+        ],
+        "posted_date": "2026-02-19",
+        "likes": 6700,
+        "comments": 540,
+        "shares": 410,
+        "post_url": "https://facebook.com/post/25"
+    },
+    {
+        "id": 26,
+        "platform": "Facebook",
+        "author": "Developers Club",
+        "author_type": "Community",
+        "profile_image": "profile_images/developers_club.png",
+        "content": "Our upcoming hackathon registrations are now open, and this year's theme centers around building solutions for climate resilience using open data sets from environmental agencies. Teams of up to four members will have thirty six hours to design, build, and pitch their solutions to a panel of judges from leading tech companies and environmental organizations. Prizes include cash awards, mentorship opportunities, and potential incubation support for the most promising projects. Whether you are a student or a working professional, we welcome participants of all skill levels to join us for this exciting event.",
+        "hashtags": [
+            "#DevelopersClub",
+            "#Hackathon",
+            "#ClimateAction",
+            "#Programming"
+        ],
+        "posted_date": "2026-02-21",
+        "likes": 3800,
+        "comments": 210,
+        "shares": 140,
+        "post_url": "https://facebook.com/post/26"
+    },
+    {
+        "id": 27,
+        "platform": "Facebook",
+        "author": "AI World",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_world.png",
+        "content": "There is an ongoing debate within our community about the environmental impact of training massive language models, and we think it deserves more attention than it currently gets. While companies are increasingly transparent about their carbon offset efforts, the actual energy consumption required to train and run these systems continues to grow exponentially. Some researchers are exploring more efficient architectures and training techniques that could reduce this footprint significantly. We would love to hear your thoughts on how the industry should balance innovation with environmental responsibility in the comments below.",
+        "hashtags": [
+            "#AIWorld",
+            "#AI",
+            "#Sustainability",
+            "#Discussion"
+        ],
+        "posted_date": "2026-02-23",
+        "likes": 4900,
+        "comments": 610,
+        "shares": 220,
+        "post_url": "https://facebook.com/post/27"
+    },
+    {
+        "id": 28,
+        "platform": "Facebook",
+        "author": "Python Developers",
+        "author_type": "Community",
+        "profile_image": "profile_images/python_developers.png",
+        "content": "We surveyed over five thousand Python developers this month to understand which frameworks and libraries are seeing the fastest adoption growth in production environments. Unsurprisingly, tools related to data processing and machine learning topped the list, but we were surprised by how quickly certain lightweight web frameworks are gaining traction among startups prioritizing rapid development cycles. Full survey results including breakdowns by company size, industry, and years of experience are now available in our community resource library for anyone interested in the detailed findings.",
+        "hashtags": [
+            "#PythonDevelopers",
+            "#Python",
+            "#Survey",
+            "#Programming"
+        ],
+        "posted_date": "2026-02-25",
+        "likes": 5400,
+        "comments": 320,
+        "shares": 230,
+        "post_url": "https://facebook.com/post/28"
+    },
+    {
+        "id": 29,
+        "platform": "Facebook",
+        "author": "Data Science Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/data_science_community.png",
+        "content": "This week we hosted a panel discussion featuring data scientists from healthcare, finance, and retail industries discussing how they approach building models that need to work reliably across diverse real world conditions. One consistent theme across all panelists was the importance of investing time in data quality and feature engineering rather than jumping straight to complex modeling techniques. Another key takeaway was the growing emphasis on model monitoring and drift detection once systems are deployed in production. Recording of the full session is now available for community members.",
+        "hashtags": [
+            "#DataScienceCommunity",
+            "#DataScience",
+            "#Panel",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-02-27",
+        "likes": 4300,
+        "comments": 260,
+        "shares": 170,
+        "post_url": "https://facebook.com/post/29"
+    },
+    {
+        "id": 30,
+        "platform": "Facebook",
+        "author": "Sneha Reddy",
+        "author_type": "Individual",
+        "profile_image": "profile_images/sneha_reddy.png",
+        "content": "Today my daughter took her very first steps, and honestly I do not think words can capture how emotional this moment was for our entire family. She had been pulling herself up on furniture for weeks, and we knew it was only a matter of time, but nothing prepares you for actually witnessing it happen. My husband nearly dropped his phone trying to record it in time. These are the moments that make all the sleepless nights and endless worry completely worth it. Cherishing every single second of this beautiful journey of parenthood.",
+        "hashtags": [
+            "#Family",
+            "#Parenthood",
+            "#Milestone",
+            "#Blessed"
+        ],
+        "posted_date": "2026-03-01",
+        "likes": 4700,
+        "comments": 580,
+        "shares": 90,
+        "post_url": "https://facebook.com/post/30"
+    },
+    {
+        "id": 31,
+        "platform": "Facebook",
+        "author": "Vikram Singh",
+        "author_type": "Individual",
+        "profile_image": "profile_images/vikram_singh.png",
+        "content": "Just wrapped up an unforgettable weekend camping trip in the mountains with three of my closest friends from college. We have been doing this annual trip for over five years now, and every single time it reminds me how important it is to disconnect from screens and reconnect with nature and genuine friendship. We cooked over an open fire, told terrible jokes late into the night, and woke up to the most stunning sunrise I have seen in years. Already looking forward to planning next year's adventure together.",
+        "hashtags": [
+            "#Travel",
+            "#Camping",
+            "#Friendship",
+            "#Adventure"
+        ],
+        "posted_date": "2026-03-03",
+        "likes": 3300,
+        "comments": 210,
+        "shares": 60,
+        "post_url": "https://facebook.com/post/31"
+    },
+    {
+        "id": 32,
+        "platform": "Facebook",
+        "author": "Neha Kapoor",
+        "author_type": "Individual",
+        "profile_image": "profile_images/neha_kapoor.png",
+        "content": "After years of following strict diet plans that never seemed to work long term, I finally found an approach to eating that actually feels sustainable and enjoyable. Instead of restricting entire food groups, I focus on balanced meals, mindful portions, and allowing myself occasional treats without guilt. I have maintained my current weight for over a year now, something I could never achieve with extreme dieting in the past. Sharing this today because I know so many people struggle with the same yo-yo dieting cycle I used to be stuck in.",
+        "hashtags": [
+            "#Fitness",
+            "#HealthyEating",
+            "#Nutrition",
+            "#Wellness"
+        ],
+        "posted_date": "2026-03-05",
+        "likes": 4100,
+        "comments": 350,
+        "shares": 80,
+        "post_url": "https://facebook.com/post/32"
+    },
+    {
+        "id": 33,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "We are proud to celebrate the tenth anniversary of our developer certification program, which has now helped over two million professionals validate their skills in cloud computing, mobile development, and data analytics. Certified professionals consistently report higher salaries and better job opportunities compared to their non-certified peers. To mark this milestone, we are offering discounted certification exams for the entire month, along with free access to our updated study materials. We believe continuous learning is essential in technology, and we are honored to have played a role in so many career journeys over the past decade.",
+        "hashtags": [
+            "#Google",
+            "#Certification",
+            "#CareerTips",
+            "#LearnToCode"
+        ],
+        "posted_date": "2026-03-07",
+        "likes": 7900,
+        "comments": 460,
+        "shares": 350,
+        "post_url": "https://facebook.com/post/33"
+    },
+    {
+        "id": 34,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "Cybersecurity threats continue to evolve at an alarming pace, and today we are sharing our latest threat intelligence report highlighting key trends observed across our global network of security researchers. Ransomware attacks targeting critical infrastructure have increased significantly, while phishing techniques have become more sophisticated through the use of generative AI tools. We are committed to sharing this intelligence openly with the broader security community because we believe collaboration, not competition, is essential to staying ahead of increasingly organized and well funded threat actors. Full report available through the link in comments.",
+        "hashtags": [
+            "#Microsoft",
+            "#CyberSecurity",
+            "#ThreatIntelligence",
+            "#Technology"
+        ],
+        "posted_date": "2026-03-09",
+        "likes": 6300,
+        "comments": 310,
+        "shares": 280,
+        "post_url": "https://facebook.com/post/34"
+    },
+    {
+        "id": 35,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "Education continues to be one of the most impactful applications of our technology, and today we are sharing stories from teachers around the world who have integrated our tools into their classrooms in creative and thoughtful ways. From helping students brainstorm essay ideas to providing personalized tutoring support for concepts they find challenging, educators are finding ways to enhance rather than replace traditional teaching methods. We are also launching a dedicated resource hub specifically designed for educators, including guidelines on responsible use and sample lesson plans that incorporate AI tools effectively.",
+        "hashtags": [
+            "#OpenAI",
+            "#Education",
+            "#AI",
+            "#Teaching"
+        ],
+        "posted_date": "2026-03-11",
+        "likes": 9600,
+        "comments": 520,
+        "shares": 390,
+        "post_url": "https://facebook.com/post/35"
+    },
+    {
+        "id": 36,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Small businesses are the backbone of local economies everywhere, and we are proud to announce an expanded grant program providing funding and advertising credits to small business owners who have been disproportionately impacted by economic challenges over the past year. Applications open next week, and we encourage eligible businesses to apply early given the high demand we anticipate. Beyond financial support, recipients will also gain access to free training resources on how to effectively use our advertising tools to reach new customers and grow their online presence sustainably.",
+        "hashtags": [
+            "#Meta",
+            "#SmallBusiness",
+            "#Grants",
+            "#Business"
+        ],
+        "posted_date": "2026-03-13",
+        "likes": 5800,
+        "comments": 390,
+        "shares": 270,
+        "post_url": "https://facebook.com/post/36"
+    },
+    {
+        "id": 37,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "We are excited to share that our latest employee benefits expansion now includes fully funded college tuition for hourly employees pursuing degrees in high demand fields such as healthcare, computer science, and skilled trades. This program removes upfront costs entirely and allows employees to study at their own pace while continuing to work. We believe that investing in our people's long term growth, even beyond their time with our company, reflects our core values. Over the past five years, tens of thousands of employees have already benefited from similar education initiatives we have offered.",
+        "hashtags": [
+            "#Amazon",
+            "#Education",
+            "#EmployeeBenefits",
+            "#Careers"
+        ],
+        "posted_date": "2026-03-15",
+        "likes": 10400,
+        "comments": 720,
+        "shares": 510,
+        "post_url": "https://facebook.com/post/37"
+    },
+    {
+        "id": 38,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "Innovation thrives when diverse minds come together, and this belief drove us to launch our annual innovation challenge, inviting employees from every department and location to submit ideas that could transform how we serve our clients. This year we received over three thousand submissions covering everything from AI powered automation tools to sustainability initiatives within our operations. The top ten finalists will present their ideas to our executive leadership team next month, with winning projects receiving dedicated resources and support to bring them to life. We cannot wait to see these ideas come to fruition.",
+        "hashtags": [
+            "#Infosys",
+            "#Innovation",
+            "#Business",
+            "#Technology"
+        ],
+        "posted_date": "2026-03-17",
+        "likes": 3900,
+        "comments": 220,
+        "shares": 140,
+        "post_url": "https://facebook.com/post/38"
+    },
+    {
+        "id": 39,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "Our commitment to sustainability extends beyond our own operations to the communities we serve around the world. This quarter, our foundation completed the installation of solar powered water purification systems in over two hundred villages across rural regions, providing clean drinking water access to more than one hundred thousand people. This initiative reflects our broader corporate social responsibility strategy, which focuses on education, healthcare, and environmental sustainability. We remain deeply grateful to our employees who volunteer their time and expertise to make projects like this possible year after year.",
+        "hashtags": [
+            "#TCS",
+            "#CSR",
+            "#Sustainability",
+            "#Community"
+        ],
+        "posted_date": "2026-03-19",
+        "likes": 4500,
+        "comments": 260,
+        "shares": 200,
+        "post_url": "https://facebook.com/post/39"
+    },
+    {
+        "id": 40,
+        "platform": "Facebook",
+        "author": "Coding Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/coding_community.png",
+        "content": "We want to address something that comes up frequently in our group discussions, the feeling of imposter syndrome that so many developers experience regardless of their actual skill level or years of experience. Even senior engineers with impressive track records admit to feeling like they do not belong or that they will eventually be exposed as frauds. If you are feeling this way, please know that you are not alone, and these feelings do not reflect your actual competence. Focus on your own growth journey rather than comparing yourself to others who are often further along their own unique paths.",
+        "hashtags": [
+            "#CodingCommunity",
+            "#ImposterSyndrome",
+            "#Motivation",
+            "#Programming"
+        ],
+        "posted_date": "2026-03-21",
+        "likes": 6200,
+        "comments": 540,
+        "shares": 190,
+        "post_url": "https://facebook.com/post/40"
+    },
+    {
+        "id": 41,
+        "platform": "Facebook",
+        "author": "Tech Jobs India",
+        "author_type": "Community",
+        "profile_image": "profile_images/tech_jobs_india.png",
+        "content": "We conducted an in-depth analysis of salary trends across different tech roles in India this quarter, and the results reveal some interesting shifts worth sharing with our community. Machine learning engineers and cloud architects continue to command premium salaries, often exceeding traditional software engineering roles by twenty to thirty percent depending on experience level. We also noticed a growing gap between metro and non-metro cities, though remote work opportunities are helping bridge this divide for many professionals. Full detailed report with city wise and role wise breakdowns is available through the link below for anyone curious.",
+        "hashtags": [
+            "#TechJobsIndia",
+            "#SalaryTrends",
+            "#CareerTips",
+            "#Technology"
+        ],
+        "posted_date": "2026-03-23",
+        "likes": 7800,
+        "comments": 610,
+        "shares": 450,
+        "post_url": "https://facebook.com/post/41"
+    },
+    {
+        "id": 42,
+        "platform": "Facebook",
+        "author": "Developers Club",
+        "author_type": "Community",
+        "profile_image": "profile_images/developers_club.png",
+        "content": "Congratulations to all the winning teams from last weekend's hackathon focused on climate resilience solutions using open environmental data. The first place team built an impressive early flood warning system that combines satellite imagery with local sensor data to predict flooding events up to seventy two hours in advance. Judges were particularly impressed by how thoughtfully the team approached the user interface, designing it to work effectively even in low bandwidth rural areas. We are exploring potential partnerships to help bring this project into real world pilot testing over the coming months.",
+        "hashtags": [
+            "#DevelopersClub",
+            "#Hackathon",
+            "#ClimateAction",
+            "#Innovation"
+        ],
+        "posted_date": "2026-03-25",
+        "likes": 4400,
+        "comments": 270,
+        "shares": 170,
+        "post_url": "https://facebook.com/post/42"
+    },
+    {
+        "id": 43,
+        "platform": "Facebook",
+        "author": "AI World",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_world.png",
+        "content": "An interesting research paper caught our attention this week exploring how large language models perform on tasks requiring genuine causal reasoning versus simple pattern matching learned during training. The findings suggest that while these models excel at tasks resembling their training data, they still struggle significantly with novel causal reasoning problems that require understanding underlying mechanisms rather than surface level correlations. This distinction matters greatly for applications in high stakes domains like medicine and law, where genuine reasoning capability, not just pattern recognition, is essential for trustworthy outputs.",
+        "hashtags": [
+            "#AIWorld",
+            "#AI",
+            "#Research",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-03-27",
+        "likes": 5300,
+        "comments": 480,
+        "shares": 240,
+        "post_url": "https://facebook.com/post/43"
+    },
+    {
+        "id": 44,
+        "platform": "Facebook",
+        "author": "Python Developers",
+        "author_type": "Community",
+        "profile_image": "profile_images/python_developers.png",
+        "content": "We just wrapped up our three day virtual conference dedicated entirely to the Python ecosystem, featuring talks from core language contributors, industry practitioners, and community educators. Sessions covered everything from upcoming language features in the next major release to practical case studies of Python powering large scale production systems at major companies. Attendance exceeded our expectations with over fifteen thousand registered participants from more than eighty countries. All session recordings are now being processed and will be available on our platform within the next week for anyone who could not attend live.",
+        "hashtags": [
+            "#PythonDevelopers",
+            "#Python",
+            "#Conference",
+            "#Programming"
+        ],
+        "posted_date": "2026-03-29",
+        "likes": 6100,
+        "comments": 350,
+        "shares": 260,
+        "post_url": "https://facebook.com/post/44"
+    },
+    {
+        "id": 45,
+        "platform": "Facebook",
+        "author": "Data Science Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/data_science_community.png",
+        "content": "One question we get asked constantly by aspiring data scientists is whether pursuing an advanced degree is necessary to break into the field. Our community members with hiring experience overwhelmingly agree that a strong portfolio demonstrating real world problem solving skills matters far more than academic credentials alone. Several of our most successful community members transitioned into data science from completely unrelated fields through self study, personal projects, and networking. That said, advanced degrees can still open certain doors, particularly in research heavy roles. Ultimately it depends on your specific career goals and circumstances.",
+        "hashtags": [
+            "#DataScienceCommunity",
+            "#DataScience",
+            "#CareerTips",
+            "#Education"
+        ],
+        "posted_date": "2026-03-31",
+        "likes": 5700,
+        "comments": 420,
+        "shares": 200,
+        "post_url": "https://facebook.com/post/45"
+    },
+    {
+        "id": 46,
+        "platform": "Facebook",
+        "author": "Rahul Malhotra",
+        "author_type": "Individual",
+        "profile_image": "profile_images/rahul_malhotra.png",
+        "content": "Today I celebrated my fortieth birthday surrounded by family and friends who have supported me through every high and low over the past four decades. Looking back, I am filled with gratitude for the health I have been blessed with, the career opportunities that shaped who I am today, and most importantly the relationships that have given my life meaning. My kids surprised me with a photo album documenting memories I had completely forgotten about. Growing older is truly a privilege denied to many, and I do not take a single day for granted.",
+        "hashtags": [
+            "#Birthday",
+            "#Family",
+            "#Gratitude",
+            "#Milestone"
+        ],
+        "posted_date": "2026-04-02",
+        "likes": 3600,
+        "comments": 410,
+        "shares": 50,
+        "post_url": "https://facebook.com/post/46"
+    },
+    {
+        "id": 47,
+        "platform": "Facebook",
+        "author": "Ananya Joshi",
+        "author_type": "Individual",
+        "profile_image": "profile_images/ananya_joshi.png",
+        "content": "I finally worked up the courage to run my first half marathon this past weekend, something I never thought was possible given how much I used to dread even short jogs a few years ago. Training consistently for four months, sticking to a structured plan even on days I really did not feel like lacing up my shoes, made all the difference on race day. Crossing that finish line brought tears to my eyes. If you are considering signing up for your first race, just do it, you will surprise yourself with what your body and mind can accomplish together.",
+        "hashtags": [
+            "#Fitness",
+            "#Running",
+            "#HalfMarathon",
+            "#Achievement"
+        ],
+        "posted_date": "2026-04-04",
+        "likes": 4800,
+        "comments": 390,
+        "shares": 100,
+        "post_url": "https://facebook.com/post/47"
+    },
+    {
+        "id": 48,
+        "platform": "Facebook",
+        "author": "Karan Mehta",
+        "author_type": "Individual",
+        "profile_image": "profile_images/karan_mehta.png",
+        "content": "Spent the entire weekend experimenting with different regional cuisines in my kitchen, trying recipes passed down from my grandmother alongside some new dishes I discovered from cooking shows. There is something deeply satisfying about recreating flavors from childhood memories while also pushing myself to try techniques completely outside my comfort zone. Made a slow cooked mutton curry that took nearly six hours but was absolutely worth every minute of patience. Cooking has become my favorite way to decompress after stressful work weeks, and I encourage everyone to find that similar creative outlet.",
+        "hashtags": [
+            "#Food",
+            "#Cooking",
+            "#HomeCooking",
+            "#Recipes"
+        ],
+        "posted_date": "2026-04-06",
+        "likes": 3200,
+        "comments": 280,
+        "shares": 60,
+        "post_url": "https://facebook.com/post/48"
+    },
+    {
+        "id": 49,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "We are honored to be recognized once again as one of the best places to work globally, a distinction that reflects the incredible culture our employees have helped build over the years. This recognition considers factors including career growth opportunities, workplace flexibility, compensation and benefits, and overall employee satisfaction across all levels of the organization. We know that a thriving workplace culture directly translates into better products and services for the billions of people who use our tools every day. Thank you to every single employee who contributes to making this such a special place to work.",
+        "hashtags": [
+            "#Google",
+            "#WorkplaceCulture",
+            "#Careers",
+            "#Recognition"
+        ],
+        "posted_date": "2026-04-08",
+        "likes": 8300,
+        "comments": 410,
+        "shares": 320,
+        "post_url": "https://facebook.com/post/49"
+    },
+    {
+        "id": 50,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "Accessibility has always been core to our mission, and today we are announcing a series of new features designed specifically for users with visual, auditory, and motor impairments across our entire product suite. These include improved screen reader compatibility, customizable interface scaling, and voice control enhancements that give users more independence in how they interact with technology. We worked directly with disability advocacy organizations and users with lived experience throughout the entire design process to ensure these features genuinely address real world needs rather than assumptions about what accessibility should look like.",
+        "hashtags": [
+            "#Microsoft",
+            "#Accessibility",
+            "#Inclusion",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-10",
+        "likes": 7100,
+        "comments": 380,
+        "shares": 290,
+        "post_url": "https://facebook.com/post/50"
+    },
+    {
+        "id": 51,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We are seeing incredible adoption of our tools within the scientific research community, particularly among researchers working on complex problems in biology, chemistry, and materials science. Several university labs have shared how our models have accelerated their literature review processes, helped identify promising research directions, and even assisted in generating hypotheses for experiments. While AI cannot replace the rigorous scientific method and experimental validation, it is proving to be a powerful tool for accelerating certain aspects of the research process. We look forward to continuing to support the scientific community as these applications mature further.",
+        "hashtags": [
+            "#OpenAI",
+            "#Research",
+            "#Science",
+            "#AI"
+        ],
+        "posted_date": "2026-04-12",
+        "likes": 10200,
+        "comments": 480,
+        "shares": 370,
+        "post_url": "https://facebook.com/post/51"
+    },
+    {
+        "id": 52,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Creator economy continues to grow rapidly, and we are proud to announce new monetization tools that make it easier for creators of all sizes to earn sustainable income from their content. These updates include improved brand partnership discovery tools, expanded subscription options, and more transparent analytics dashboards that help creators understand exactly which content resonates most with their audience. We have heard directly from thousands of creators about what tools would genuinely help their businesses grow, and these updates reflect that feedback. We remain committed to building a platform where creativity can be a sustainable career path.",
+        "hashtags": [
+            "#Meta",
+            "#CreatorEconomy",
+            "#Business",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-14",
+        "likes": 6700,
+        "comments": 420,
+        "shares": 280,
+        "post_url": "https://facebook.com/post/52"
+    },
+    {
+        "id": 53,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "Small and medium sized businesses selling on our marketplace generated over four hundred billion dollars in sales last year, supporting millions of jobs across the global economy. We remain deeply committed to providing these sellers with the tools, logistics infrastructure, and customer reach needed to compete effectively regardless of their size. This quarter we are launching new seller support programs specifically designed for first time entrepreneurs, including free training workshops and reduced fees for the first six months. We believe in the power of entrepreneurship to create economic opportunity, and we are proud to be a partner in that journey.",
+        "hashtags": [
+            "#Amazon",
+            "#SmallBusiness",
+            "#Entrepreneurship",
+            "#Business"
+        ],
+        "posted_date": "2026-04-16",
+        "likes": 9100,
+        "comments": 540,
+        "shares": 410,
+        "post_url": "https://facebook.com/post/53"
+    },
+    {
+        "id": 54,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "We are pleased to announce a significant expansion of our global delivery centers, creating thousands of new employment opportunities across engineering, consulting, and support functions. This expansion reflects continued strong demand from clients across banking, healthcare, retail, and manufacturing sectors seeking to modernize their technology infrastructure. New hires will undergo an extensive twelve week training program covering both technical skills and client engagement best practices before joining project teams. We remain focused on building a workforce equipped to deliver exceptional value to our clients while offering fulfilling long term career paths to our employees.",
+        "hashtags": [
+            "#Infosys",
+            "#Careers",
+            "#Hiring",
+            "#Business"
+        ],
+        "posted_date": "2026-04-18",
+        "likes": 5200,
+        "comments": 390,
+        "shares": 220,
+        "post_url": "https://facebook.com/post/54"
+    },
+    {
+        "id": 55,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "Our marathon sponsorship this year brought together over fifty thousand runners across multiple cities, all participating to raise funds for education initiatives supporting underprivileged children. As a company deeply committed to community welfare, we believe sports and fitness events like these create meaningful opportunities to bring people together for a shared cause. Funds raised this year will support scholarship programs, school infrastructure improvements, and digital literacy initiatives in rural areas. We extend our heartfelt gratitude to every runner, volunteer, and sponsor who made this year's event our most successful one yet.",
+        "hashtags": [
+            "#TCS",
+            "#Marathon",
+            "#CSR",
+            "#Community"
+        ],
+        "posted_date": "2026-04-20",
+        "likes": 6300,
+        "comments": 340,
+        "shares": 250,
+        "post_url": "https://facebook.com/post/55"
+    },
+    {
+        "id": 56,
+        "platform": "Facebook",
+        "author": "Coding Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/coding_community.png",
+        "content": "We want to highlight the importance of building genuine relationships within our developer community rather than just treating it as a networking transaction. Some of our members have formed lasting friendships, business partnerships, and even found co-founders for their startups through connections made in this very group. Technology can sometimes feel isolating with so much remote and solitary work, but communities like this remind us that collaboration and genuine human connection remain essential to both our professional growth and personal wellbeing. Keep engaging authentically, and you never know what opportunities might emerge from these relationships.",
+        "hashtags": [
+            "#CodingCommunity",
+            "#Networking",
+            "#Programming",
+            "#Community"
+        ],
+        "posted_date": "2026-04-22",
+        "likes": 3900,
+        "comments": 280,
+        "shares": 110,
+        "post_url": "https://facebook.com/post/56"
+    },
+    {
+        "id": 57,
+        "platform": "Facebook",
+        "author": "Tech Jobs India",
+        "author_type": "Community",
+        "profile_image": "profile_images/tech_jobs_india.png",
+        "content": "We are seeing a notable trend this quarter of companies increasingly prioritizing skills based hiring over strict degree requirements, particularly for roles in software development and data analysis. This shift opens doors for self taught developers and career changers who may not have traditional computer science degrees but possess strong practical skills demonstrated through portfolios and technical assessments. If you fall into this category, focus your applications on companies explicitly mentioning skills based hiring policies, and make sure your portfolio clearly showcases real projects rather than just listing technologies you know. We will continue tracking this important trend for our community.",
+        "hashtags": [
+            "#TechJobsIndia",
+            "#SkillsBasedHiring",
+            "#CareerTips",
+            "#JobSearch"
+        ],
+        "posted_date": "2026-04-24",
+        "likes": 6900,
+        "comments": 450,
+        "shares": 320,
+        "post_url": "https://facebook.com/post/57"
+    },
+    {
+        "id": 58,
+        "platform": "Facebook",
+        "author": "Developers Club",
+        "author_type": "Community",
+        "profile_image": "profile_images/developers_club.png",
+        "content": "Our weekly code review sessions have become one of the most valued offerings within our community, giving developers the opportunity to receive detailed feedback on their personal and professional projects from experienced engineers. This week's session focused on reviewing a complex e-commerce checkout flow, uncovering several potential security vulnerabilities that the original developer had not considered. These sessions consistently demonstrate why peer review, even informal community based review, remains one of the most effective ways to level up your skills and catch issues before they reach production environments.",
+        "hashtags": [
+            "#DevelopersClub",
+            "#CodeReview",
+            "#Programming",
+            "#SoftwareEngineering"
+        ],
+        "posted_date": "2026-04-26",
+        "likes": 3400,
+        "comments": 230,
+        "shares": 90,
+        "post_url": "https://facebook.com/post/58"
+    },
+    {
+        "id": 59,
+        "platform": "Facebook",
+        "author": "AI World",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_world.png",
+        "content": "A thought provoking discussion emerged in our community this week around the ethics of using AI generated content in creative industries without proper disclosure to audiences. Some argue that transparency should be mandatory regardless of the medium, while others believe the quality of the output should be the primary consideration rather than its origin. This debate touches on broader questions about authenticity, labor, and creativity in an increasingly automated world. We do not have all the answers, but we believe these conversations are essential as AI capabilities continue to advance rapidly across creative domains.",
+        "hashtags": [
+            "#AIWorld",
+            "#AIEthics",
+            "#Discussion",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-28",
+        "likes": 5600,
+        "comments": 720,
+        "shares": 260,
+        "post_url": "https://facebook.com/post/59"
+    },
+    {
+        "id": 60,
+        "platform": "Facebook",
+        "author": "Python Developers",
+        "author_type": "Community",
+        "profile_image": "profile_images/python_developers.png",
+        "content": "We compiled a comprehensive list of common mistakes beginner Python developers make when transitioning from tutorial based learning to building actual projects independently. Some of the most frequent issues include overcomplicating solutions before understanding basic patterns, neglecting proper error handling, and copying code without genuinely understanding how it works. We believe building real projects, even small and imperfect ones, teaches far more than passively consuming endless tutorials. Our community resource library now includes a curated list of beginner friendly project ideas specifically designed to reinforce fundamental concepts through hands-on practice.",
+        "hashtags": [
+            "#PythonDevelopers",
+            "#Python",
+            "#Programming",
+            "#Beginners"
+        ],
+        "posted_date": "2026-04-30",
+        "likes": 4700,
+        "comments": 310,
+        "shares": 180,
+        "post_url": "https://facebook.com/post/60"
+    },
+    {
+        "id": 61,
+        "platform": "Facebook",
+        "author": "Data Science Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/data_science_community.png",
+        "content": "We hosted an incredible workshop this week on building end to end machine learning pipelines that go beyond just training models in a notebook environment. Topics covered included data validation, feature stores, model versioning, and automated retraining triggers based on performance degradation metrics. Many participants shared that this was their first exposure to the operational side of machine learning, having previously only worked on academic exercises focused purely on model accuracy. Understanding production considerations early in your career can significantly differentiate you in job interviews for industry data science and machine learning engineering roles.",
+        "hashtags": [
+            "#DataScienceCommunity",
+            "#MachineLearning",
+            "#MLOps",
+            "#DataScience"
+        ],
+        "posted_date": "2026-05-02",
+        "likes": 4200,
+        "comments": 270,
+        "shares": 150,
+        "post_url": "https://facebook.com/post/61"
+    },
+    {
+        "id": 62,
+        "platform": "Facebook",
+        "author": "Divya Iyer",
+        "author_type": "Individual",
+        "profile_image": "profile_images/divya_iyer.png",
+        "content": "Last night I attended the most incredible live orchestra performance of classical compositions I have loved since childhood, and it completely reminded me why live music experiences are irreplaceable compared to recordings. The way the entire concert hall seemed to breathe together during the quieter passages, and the collective energy during the crescendos, created an atmosphere that simply cannot be replicated through headphones at home. I went with my mother who introduced me to this music decades ago, making the experience even more meaningful. Already looking into tickets for their next performance season.",
+        "hashtags": [
+            "#Music",
+            "#LiveMusic",
+            "#Orchestra",
+            "#Entertainment"
+        ],
+        "posted_date": "2026-05-04",
+        "likes": 2900,
+        "comments": 190,
+        "shares": 40,
+        "post_url": "https://facebook.com/post/62"
+    },
+    {
+        "id": 63,
+        "platform": "Facebook",
+        "author": "Arjun Kumar",
+        "author_type": "Individual",
+        "profile_image": "profile_images/arjun_kumar.png",
+        "content": "Finally watched the highly anticipated sequel everyone has been talking about, and I have mixed feelings I wanted to share without spoiling anything for those who have not seen it yet. The visual effects and world building are genuinely impressive, easily some of the best I have seen in recent cinema, but the pacing in the middle act dragged on longer than necessary for my taste. Still, the emotional payoff in the final act made the entire theater audibly gasp, myself included. Would recommend watching it on the biggest screen possible if you get the chance.",
+        "hashtags": [
+            "#Movies",
+            "#MovieReview",
+            "#Cinema",
+            "#Entertainment"
+        ],
+        "posted_date": "2026-05-06",
+        "likes": 3500,
+        "comments": 280,
+        "shares": 70,
+        "post_url": "https://facebook.com/post/63"
+    },
+    {
+        "id": 64,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "Climate technology remains one of the most important areas where we believe innovation can drive genuine global impact, and today we are announcing significant new funding for startups working on carbon capture, renewable energy storage, and sustainable agriculture technologies. Through our climate innovation fund, selected startups will receive not just capital but also access to our cloud infrastructure, technical mentorship from our engineering teams, and connections to potential enterprise customers. We believe technology companies have a responsibility to actively support solutions to the climate crisis, not just reduce their own operational footprint.",
+        "hashtags": [
+            "#Google",
+            "#ClimateAction",
+            "#Sustainability",
+            "#Innovation"
+        ],
+        "posted_date": "2026-05-08",
+        "likes": 8600,
+        "comments": 510,
+        "shares": 420,
+        "post_url": "https://facebook.com/post/64"
+    },
+    {
+        "id": 65,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "We are proud to share the results of our latest diversity and inclusion report, showing meaningful progress in representation across leadership positions and technical roles throughout the organization globally. While we acknowledge there is still significant work ahead, we remain committed to transparency in reporting our progress, including areas where we have fallen short of our own targets. Our employee resource groups continue to play a critical role in shaping policies that genuinely support underrepresented employees, from flexible parental leave policies to mentorship programs specifically designed to support career advancement for women and minorities in technology.",
+        "hashtags": [
+            "#Microsoft",
+            "#DiversityAndInclusion",
+            "#Careers",
+            "#Business"
+        ],
+        "posted_date": "2026-05-10",
+        "likes": 6400,
+        "comments": 380,
+        "shares": 270,
+        "post_url": "https://facebook.com/post/65"
+    },
+    {
+        "id": 66,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We continue to expand our partnerships with nonprofit organizations working on some of the world's most pressing challenges, from disaster response coordination to accessibility tools for people with disabilities. This month we are highlighting a partnership with an organization developing AI powered tools that translate sign language in real time, helping bridge communication gaps for deaf and hard of hearing individuals in everyday situations. We believe technology should actively work to include rather than exclude, and partnerships like this one demonstrate the kind of meaningful impact possible when powerful tools are directed toward genuine human needs.",
+        "hashtags": [
+            "#OpenAI",
+            "#Accessibility",
+            "#AI",
+            "#SocialImpact"
+        ],
+        "posted_date": "2026-05-12",
+        "likes": 9300,
+        "comments": 440,
+        "shares": 360,
+        "post_url": "https://facebook.com/post/66"
+    },
+    {
+        "id": 67,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Mental health remains a critical priority for us as a platform used by billions of people daily, and this quarter we are rolling out expanded resources including direct access to crisis support hotlines, improved content moderation for topics related to self harm, and new features that help users manage their time spent online more mindfully. We worked closely with mental health professionals and advocacy organizations throughout the development of these features. We recognize that technology companies have a responsibility to support user wellbeing, not just maximize engagement, and we remain committed to continuously improving in this area.",
+        "hashtags": [
+            "#Meta",
+            "#MentalHealth",
+            "#OnlineSafety",
+            "#Wellbeing"
+        ],
+        "posted_date": "2026-05-14",
+        "likes": 7800,
+        "comments": 610,
+        "shares": 340,
+        "post_url": "https://facebook.com/post/67"
+    },
+    {
+        "id": 68,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "We are excited to announce the grand opening of five new fulfillment centers across underserved regions, creating over fifteen thousand new local jobs with competitive wages and comprehensive benefits starting from day one of employment. These facilities incorporate our latest robotics and automation technologies, allowing employees to work alongside advanced systems in safer and more efficient environments. Beyond job creation, these facilities are expected to significantly reduce delivery times for customers in these regions, bringing faster access to everyday essentials. We look forward to becoming an integral part of these communities for years to come.",
+        "hashtags": [
+            "#Amazon",
+            "#Jobs",
+            "#Careers",
+            "#Business"
+        ],
+        "posted_date": "2026-05-16",
+        "likes": 11500,
+        "comments": 680,
+        "shares": 520,
+        "post_url": "https://facebook.com/post/68"
+    },
+    {
+        "id": 69,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "We are delighted to announce a strategic partnership with leading universities to launch specialized industry certification programs designed to bridge the gap between academic curricula and real world enterprise technology needs. Students enrolled in these programs will gain hands-on experience with cloud platforms, enterprise software systems, and agile project management methodologies, all taught by our senior technical professionals. Upon successful completion, top performing students will be offered fast tracked interview opportunities for full time positions within our organization. We believe partnerships like these are essential to building a future ready workforce capable of driving digital transformation.",
+        "hashtags": [
+            "#Infosys",
+            "#Education",
+            "#Careers",
+            "#Partnership"
+        ],
+        "posted_date": "2026-05-18",
+        "likes": 4900,
+        "comments": 310,
+        "shares": 200,
+        "post_url": "https://facebook.com/post/69"
+    },
+    {
+        "id": 70,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "We are proud to share updates on our ongoing healthcare initiative, which has now provided free medical camps to over five hundred thousand individuals across rural communities lacking adequate access to quality healthcare services. These camps offer general health checkups, specialist consultations, and free medications for common ailments, staffed entirely by volunteer doctors and healthcare professionals who generously donate their time. We also provide health education sessions focused on preventive care, nutrition, and hygiene practices. This initiative reflects our deep commitment to giving back to the communities that have supported our growth over the decades.",
+        "hashtags": [
+            "#TCS",
+            "#Healthcare",
+            "#CSR",
+            "#Community"
+        ],
+        "posted_date": "2026-05-20",
+        "likes": 5600,
+        "comments": 320,
+        "shares": 230,
+        "post_url": "https://facebook.com/post/70"
+    },
+    {
+        "id": 71,
+        "platform": "Facebook",
+        "author": "Coding Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/coding_community.png",
+        "content": "We want to share some encouraging news about a community member who recently transitioned careers from working as a mechanical engineer into software development after eighteen months of dedicated self study using resources shared within this very group. They started with absolutely zero programming background, spending evenings and weekends learning fundamentals before eventually building a portfolio of personal projects that landed them their first developer role. Career transitions like this can feel intimidating, but stories like this prove that with consistent effort and the right community support, meaningful career pivots are absolutely achievable at any stage of life.",
+        "hashtags": [
+            "#CodingCommunity",
+            "#CareerChange",
+            "#Programming",
+            "#Motivation"
+        ],
+        "posted_date": "2026-05-22",
+        "likes": 5900,
+        "comments": 470,
+        "shares": 210,
+        "post_url": "https://facebook.com/post/71"
+    },
+    {
+        "id": 72,
+        "platform": "Facebook",
+        "author": "Tech Jobs India",
+        "author_type": "Community",
+        "profile_image": "profile_images/tech_jobs_india.png",
+        "content": "Remote work opportunities within the Indian tech industry have continued to expand significantly, with several global companies now hiring remote employees directly rather than requiring physical office presence in specific cities. This shift has opened doors for talented professionals living in smaller cities and towns who previously faced limited access to premium job opportunities without relocating. We have compiled a curated list of companies actively hiring for fully remote positions across various technology roles, along with tips on how to stand out during remote interview processes where demonstrating self motivation and communication skills becomes especially important.",
+        "hashtags": [
+            "#TechJobsIndia",
+            "#RemoteWork",
+            "#CareerTips",
+            "#Jobs"
+        ],
+        "posted_date": "2026-05-24",
+        "likes": 6700,
+        "comments": 490,
+        "shares": 380,
+        "post_url": "https://facebook.com/post/72"
+    },
+    {
+        "id": 73,
+        "platform": "Facebook",
+        "author": "Developers Club",
+        "author_type": "Community",
+        "profile_image": "profile_images/developers_club.png",
+        "content": "This month's guest speaker session featured an engineering leader who shared invaluable insights on transitioning from an individual contributor role into engineering management, a career path many developers consider but few feel adequately prepared for. Key takeaways included the importance of shifting your definition of success from personal output to team output, developing genuine empathy for different working styles, and learning to delegate effectively even when you could technically complete tasks faster yourself. The session sparked such engaged discussion that we are planning a follow up series specifically dedicated to engineering leadership topics based on member requests.",
+        "hashtags": [
+            "#DevelopersClub",
+            "#EngineeringManagement",
+            "#CareerTips",
+            "#Leadership"
+        ],
+        "posted_date": "2026-05-26",
+        "likes": 4100,
+        "comments": 300,
+        "shares": 160,
+        "post_url": "https://facebook.com/post/73"
+    },
+    {
+        "id": 74,
+        "platform": "Facebook",
+        "author": "AI World",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_world.png",
+        "content": "An interesting shift is happening within enterprise AI adoption, with companies increasingly favoring smaller specialized models fine tuned for specific tasks over massive general purpose models for many production use cases. This trend is driven by lower operational costs, faster inference times, and often comparable or even better performance on narrow, well defined tasks compared to using large general models. Several community members working in industry have shared case studies demonstrating significant cost savings after transitioning to this approach. We think this trend will continue accelerating as tooling for fine tuning smaller models becomes increasingly accessible to teams of all sizes.",
+        "hashtags": [
+            "#AIWorld",
+            "#AI",
+            "#MachineLearning",
+            "#EnterpriseAI"
+        ],
+        "posted_date": "2026-05-28",
+        "likes": 5200,
+        "comments": 410,
+        "shares": 230,
+        "post_url": "https://facebook.com/post/74"
+    },
+    {
+        "id": 75,
+        "platform": "Facebook",
+        "author": "Python Developers",
+        "author_type": "Community",
+        "profile_image": "profile_images/python_developers.png",
+        "content": "We are excited to announce the launch of our new mentorship program pairing experienced Python developers with newcomers looking to accelerate their learning journey through personalized guidance rather than generic tutorials alone. Mentors will commit to monthly check ins, code review sessions, and career advice tailored to each mentee's specific goals, whether that means landing their first developer job, transitioning into data science, or building expertise in a specialized framework. Applications for both mentors and mentees are now open, and we encourage experienced community members to consider giving back by volunteering their time and expertise.",
+        "hashtags": [
+            "#PythonDevelopers",
+            "#Mentorship",
+            "#Python",
+            "#Programming"
+        ],
+        "posted_date": "2026-05-30",
+        "likes": 3800,
+        "comments": 260,
+        "shares": 140,
+        "post_url": "https://facebook.com/post/75"
+    },
+    {
+        "id": 76,
+        "platform": "Facebook",
+        "author": "Data Science Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/data_science_community.png",
+        "content": "We want to address a common misconception we see frequently among aspiring data scientists, the belief that you need to master every single algorithm and technique before you are ready to apply for jobs. In reality, most industry roles require deep proficiency in a handful of commonly used techniques combined with strong problem solving skills and business acumen, rather than superficial familiarity with dozens of obscure methods. Focus your learning on building genuine depth in fundamentals like regression, classification, and basic deep learning concepts, then supplement with specialized knowledge relevant to your target industry or role as needed.",
+        "hashtags": [
+            "#DataScienceCommunity",
+            "#DataScience",
+            "#CareerTips",
+            "#Learning"
+        ],
+        "posted_date": "2026-06-01",
+        "likes": 4600,
+        "comments": 330,
+        "shares": 170,
+        "post_url": "https://facebook.com/post/76"
+    },
+    {
+        "id": 77,
+        "platform": "Facebook",
+        "author": "Meera Chatterjee",
+        "author_type": "Individual",
+        "profile_image": "profile_images/meera_chatterjee.png",
+        "content": "Today marks twenty five years since my parents got married, and our entire extended family gathered together for a beautiful celebration filled with laughter, old photographs, and stories none of us had heard before. Watching my parents dance together to the same song from their wedding day brought tears to almost everyone in the room. Their relationship has always been an example of patience, partnership, and genuine friendship for the rest of us to aspire toward. Grateful beyond words for the values and love they have instilled in our family over these incredible twenty five years together.",
+        "hashtags": [
+            "#Family",
+            "#Anniversary",
+            "#Celebration",
+            "#Grateful"
+        ],
+        "posted_date": "2026-06-03",
+        "likes": 3900,
+        "comments": 510,
+        "shares": 70,
+        "post_url": "https://facebook.com/post/77"
+    },
+    {
+        "id": 78,
+        "platform": "Facebook",
+        "author": "Suresh Nambiar",
+        "author_type": "Individual",
+        "profile_image": "profile_images/suresh_nambiar.png",
+        "content": "After months of research and comparing different lenders, I finally closed on my very first home this week, and the feeling of holding those keys for the first time is genuinely indescribable. The entire process taught me so much about mortgages, credit scores, and negotiation that I honestly wish schools taught as basic life skills. Happy to answer any questions for friends currently navigating their own home buying journey, since I remember how overwhelming and confusing the process felt when I first started looking at listings just over a year ago.",
+        "hashtags": [
+            "#Finance",
+            "#HomeBuying",
+            "#Milestone",
+            "#PersonalFinance"
+        ],
+        "posted_date": "2026-06-05",
+        "likes": 4300,
+        "comments": 380,
+        "shares": 90,
+        "post_url": "https://facebook.com/post/78"
+    },
+    {
+        "id": 79,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "We are proud to share the impact of our digital literacy program, which has now trained over fifteen million individuals across underserved communities in basic computer skills, internet safety, and essential digital tools needed for today's job market. This program specifically targets communities where access to technology education has historically been limited, partnering with local governments and nonprofit organizations to deliver training in accessible community centers rather than requiring participants to travel to distant training facilities. We believe closing the digital divide is essential to ensuring everyone can participate fully in an increasingly digital economy, regardless of their background or starting circumstances.",
+        "hashtags": [
+            "#Google",
+            "#DigitalLiteracy",
+            "#Education",
+            "#SocialImpact"
+        ],
+        "posted_date": "2026-06-07",
+        "likes": 7400,
+        "comments": 420,
+        "shares": 330,
+        "post_url": "https://facebook.com/post/79"
+    },
+    {
+        "id": 80,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "Small businesses form the backbone of local economies, and today we are announcing expanded access to our cloud productivity tools at significantly discounted rates for nonprofit organizations and small businesses in developing economies. This initiative aims to level the playing field, giving smaller organizations access to enterprise grade collaboration and security tools that were previously financially out of reach for many. Alongside discounted access, we are also providing free training webinars to help teams maximize the value of these tools for their specific operational needs. We believe technology should empower organizations of every size to thrive, not just large enterprises.",
+        "hashtags": [
+            "#Microsoft",
+            "#SmallBusiness",
+            "#CloudComputing",
+            "#Business"
+        ],
+        "posted_date": "2026-06-09",
+        "likes": 5900,
+        "comments": 340,
+        "shares": 250,
+        "post_url": "https://facebook.com/post/80"
+    },
+    {
+        "id": 81,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We continue to see remarkable applications of our technology within the accessibility space, and today we want to highlight developers who have built tools helping visually impaired individuals navigate their daily lives more independently, from describing surroundings in real time to reading printed text aloud instantly. These developer built applications, powered through our API, demonstrate the incredible creativity that emerges when powerful tools are made accessible to a broad developer community rather than being restricted to large organizations alone. We are committed to continuing to lower barriers to entry so that even more meaningful applications like these can be built by developers everywhere.",
+        "hashtags": [
+            "#OpenAI",
+            "#Accessibility",
+            "#AI",
+            "#DeveloperTools"
+        ],
+        "posted_date": "2026-06-11",
+        "likes": 8900,
+        "comments": 460,
+        "shares": 350,
+        "post_url": "https://facebook.com/post/81"
+    },
+    {
+        "id": 82,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Virtual reality technology continues to evolve rapidly, and this week we are showcasing new applications being built by developers within our ecosystem that go far beyond gaming and entertainment. From virtual physical therapy sessions helping patients recover mobility to immersive training simulations for surgeons practicing complex procedures before real operations, these applications demonstrate the genuine practical value emerging from this technology. We remain committed to supporting developers building meaningful applications across healthcare, education, and professional training, not just entertainment focused experiences, as we continue investing heavily in this space over the coming years.",
+        "hashtags": [
+            "#Meta",
+            "#VirtualReality",
+            "#Technology",
+            "#Innovation"
+        ],
+        "posted_date": "2026-06-13",
+        "likes": 6800,
+        "comments": 390,
+        "shares": 300,
+        "post_url": "https://facebook.com/post/82"
+    },
+    {
+        "id": 83,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "We are excited to share updates on our warehouse safety initiatives, which have resulted in a significant reduction in workplace injury rates across our fulfillment network over the past two years. These improvements stem from substantial investments in ergonomic equipment, expanded safety training programs, and technology that helps identify potential hazards before incidents occur. Employee wellbeing remains a top priority as we continue scaling our operations globally, and we are committed to transparently sharing our safety data and progress with the public. We remain grateful to our operations teams whose feedback continues to directly shape these ongoing safety improvements.",
+        "hashtags": [
+            "#Amazon",
+            "#WorkplaceSafety",
+            "#Business",
+            "#Careers"
+        ],
+        "posted_date": "2026-06-15",
+        "likes": 7200,
+        "comments": 410,
+        "shares": 280,
+        "post_url": "https://facebook.com/post/83"
+    },
+    {
+        "id": 84,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "We are proud to celebrate the graduation of our latest batch of trainees from our flagship global education center, one of the largest corporate training facilities in the world. Over the past six months, these new employees underwent intensive training covering programming fundamentals, enterprise software platforms, and client communication skills, preparing them for immediate contribution to client projects across industries. Watching fresh graduates transform into confident technology professionals ready to tackle real world challenges never gets old for us. We wish this new cohort tremendous success as they embark on their professional journeys with our organization and beyond.",
+        "hashtags": [
+            "#Infosys",
+            "#Training",
+            "#Careers",
+            "#Education"
+        ],
+        "posted_date": "2026-06-17",
+        "likes": 4700,
+        "comments": 300,
+        "shares": 180,
+        "post_url": "https://facebook.com/post/84"
+    },
+    {
+        "id": 85,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "Our innovation labs have been working closely with academic researchers to explore practical applications of quantum computing in solving complex optimization problems relevant to logistics, finance, and pharmaceutical research. While widespread commercial quantum computing applications remain several years away, we believe early investment in research and talent development is essential to positioning our organization and clients at the forefront of this transformative technology once it matures. We recently expanded our partnership with leading research institutions to accelerate this work, and we look forward to sharing more concrete results as our research progresses over the coming years.",
+        "hashtags": [
+            "#TCS",
+            "#QuantumComputing",
+            "#Research",
+            "#Technology"
+        ],
+        "posted_date": "2026-06-19",
+        "likes": 3800,
+        "comments": 210,
+        "shares": 150,
+        "post_url": "https://facebook.com/post/85"
+    },
+    {
+        "id": 86,
+        "platform": "Facebook",
+        "author": "Coding Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/coding_community.png",
+        "content": "We are launching a brand new initiative specifically designed to support women in technology within our community, including dedicated mentorship pairings, monthly virtual meetups, and a private discussion space to share experiences and advice openly. Despite significant progress over the years, women remain underrepresented in many technical roles, and we believe targeted support systems can help address some of the unique challenges women often face throughout their careers in this industry. Interested members can sign up through the link in the comments below, and we welcome allies of all genders to support this initiative in whatever way feels meaningful to them.",
+        "hashtags": [
+            "#CodingCommunity",
+            "#WomenInTech",
+            "#Diversity",
+            "#Programming"
+        ],
+        "posted_date": "2026-06-21",
+        "likes": 6100,
+        "comments": 480,
+        "shares": 260,
+        "post_url": "https://facebook.com/post/86"
+    },
+    {
+        "id": 87,
+        "platform": "Facebook",
+        "author": "Tech Jobs India",
+        "author_type": "Community",
+        "profile_image": "profile_images/tech_jobs_india.png",
+        "content": "We want to share some practical advice for candidates preparing for technical interviews at product based companies, based on feedback collected from hundreds of successful and unsuccessful candidates within our community over the past year. Beyond just solving coding problems correctly, interviewers consistently value candidates who communicate their thought process clearly, ask clarifying questions before jumping into solutions, and handle feedback gracefully during the discussion. Technical competence alone rarely differentiates strong candidates since most applicants at this stage already possess solid fundamentals. Soft skills demonstrated during the interview process often become the deciding factor between similarly qualified candidates.",
+        "hashtags": [
+            "#TechJobsIndia",
+            "#InterviewTips",
+            "#CareerTips",
+            "#JobSearch"
+        ],
+        "posted_date": "2026-06-23",
+        "likes": 8100,
+        "comments": 620,
+        "shares": 470,
+        "post_url": "https://facebook.com/post/87"
+    },
+    {
+        "id": 88,
+        "platform": "Facebook",
+        "author": "Developers Club",
+        "author_type": "Community",
+        "profile_image": "profile_images/developers_club.png",
+        "content": "This month we are shining a spotlight on open source contributions, encouraging our community members to make their first meaningful contribution to a project they personally use and appreciate. Many developers feel intimidated by open source, assuming they need to be experts before contributing anything valuable, but in reality documentation improvements, bug reports, and small fixes are always welcomed and appreciated by maintainers. We have compiled a list of beginner friendly open source projects actively looking for new contributors, along with guides on how to approach your first pull request without feeling overwhelmed by the entire process.",
+        "hashtags": [
+            "#DevelopersClub",
+            "#OpenSource",
+            "#Programming",
+            "#Contribution"
+        ],
+        "posted_date": "2026-06-25",
+        "likes": 4400,
+        "comments": 270,
+        "shares": 190,
+        "post_url": "https://facebook.com/post/88"
+    },
+    {
+        "id": 89,
+        "platform": "Facebook",
+        "author": "AI World",
+        "author_type": "Community",
+        "profile_image": "profile_images/ai_world.png",
+        "content": "We often discuss the technical capabilities of AI systems within this community, but today we want to focus on the human side of this transformation, specifically how professionals across various industries are adapting their skill sets to remain relevant as automation capabilities expand. Rather than viewing this shift purely through a lens of fear, many community members report finding new, often more fulfilling responsibilities that focus on tasks requiring genuine human judgment, creativity, and interpersonal skills that remain difficult to automate effectively. We would love to hear how your own role has evolved in response to these technological changes over the past few years.",
+        "hashtags": [
+            "#AIWorld",
+            "#AI",
+            "#FutureOfWork",
+            "#Discussion"
+        ],
+        "posted_date": "2026-06-27",
+        "likes": 5500,
+        "comments": 650,
+        "shares": 230,
+        "post_url": "https://facebook.com/post/89"
+    },
+    {
+        "id": 90,
+        "platform": "Facebook",
+        "author": "Python Developers",
+        "author_type": "Community",
+        "profile_image": "profile_images/python_developers.png",
+        "content": "We just released a comprehensive comparison guide covering the most popular Python web frameworks, examining factors including learning curve, performance benchmarks, community support, and suitability for different project scales. While frameworks like Flask remain popular for smaller projects and rapid prototyping due to their minimalist and flexible approach, more comprehensive frameworks offer built-in features that can accelerate development for larger enterprise applications with complex requirements. Ultimately the right choice depends heavily on your specific project needs, team experience, and long term maintenance considerations rather than simply following current trends within the developer community.",
+        "hashtags": [
+            "#PythonDevelopers",
+            "#Flask",
+            "#WebDevelopment",
+            "#Python"
+        ],
+        "posted_date": "2026-06-29",
+        "likes": 5300,
+        "comments": 320,
+        "shares": 210,
+        "post_url": "https://facebook.com/post/90"
+    },
+    {
+        "id": 91,
+        "platform": "Facebook",
+        "author": "Data Science Community",
+        "author_type": "Community",
+        "profile_image": "profile_images/data_science_community.png",
+        "content": "This week we want to address the growing importance of data ethics and privacy considerations that every practicing data scientist should understand deeply, regardless of their specific role or industry focus. As models increasingly influence decisions affecting people's lives, from loan approvals to hiring recommendations, understanding concepts like algorithmic bias, fairness metrics, and privacy preserving techniques becomes essential rather than optional knowledge. We have curated a reading list covering foundational papers and practical frameworks that we believe every data professional should be familiar with as these considerations become increasingly central to responsible practice within our field.",
+        "hashtags": [
+            "#DataScienceCommunity",
+            "#DataEthics",
+            "#DataScience",
+            "#Responsibility"
+        ],
+        "posted_date": "2026-07-01",
+        "likes": 4900,
+        "comments": 350,
+        "shares": 190,
+        "post_url": "https://facebook.com/post/91"
+    },
+    {
+        "id": 92,
+        "platform": "Facebook",
+        "author": "Ritu Bhatia",
+        "author_type": "Individual",
+        "profile_image": "profile_images/ritu_bhatia.png",
+        "content": "Just returned from an emotional visit back to my childhood hometown after nearly fifteen years away, and walking through streets that shaped my earliest memories brought up feelings I did not expect. So much has changed, familiar shops replaced by new businesses, childhood friends now scattered across different cities, yet somehow the essence of the place still felt exactly the same in ways that are hard to articulate. Reconnecting with a few old neighbors who still remembered me as a child brought unexpected warmth to what started as simply a nostalgic trip down memory lane.",
+        "hashtags": [
+            "#Travel",
+            "#Nostalgia",
+            "#Hometown",
+            "#Memories"
+        ],
+        "posted_date": "2026-04-28",
+        "likes": 2700,
+        "comments": 230,
+        "shares": 40,
+        "post_url": "https://facebook.com/post/92"
+    },
+    {
+        "id": 93,
+        "platform": "Facebook",
+        "author": "Manoj Desai",
+        "author_type": "Individual",
+        "profile_image": "profile_images/manoj_desai.png",
+        "content": "After years of putting off learning to swim due to a childhood fear of water, I finally overcame that anxiety and completed my first proper swimming lesson series this month at the age of thirty five. My instructor was incredibly patient with me, especially during the first few sessions when I could barely put my face underwater without panicking. It is never too late to conquer fears you have carried since childhood, and I genuinely feel a sense of accomplishment that goes far beyond just learning a physical skill. Highly recommend facing your own long avoided fears this year.",
+        "hashtags": [
+            "#Fitness",
+            "#PersonalGrowth",
+            "#Swimming",
+            "#Achievement"
+        ],
+        "posted_date": "2026-03-08",
+        "likes": 3100,
+        "comments": 260,
+        "shares": 50,
+        "post_url": "https://facebook.com/post/93"
+    },
+    {
+        "id": 94,
+        "platform": "Facebook",
+        "author": "Google",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google.png",
+        "content": "We are proud to share results from our latest research collaboration exploring how AI can assist in early detection of diabetic retinopathy, a leading cause of preventable blindness worldwide, particularly in regions with limited access to specialist ophthalmologists. Our model, developed in partnership with healthcare institutions across multiple countries, has shown promising accuracy in identifying warning signs from routine eye scans, potentially enabling earlier intervention for patients who might otherwise go undiagnosed until the condition progresses significantly. We continue to believe that thoughtfully applied AI can meaningfully expand access to quality healthcare, especially in underserved regions facing specialist shortages.",
+        "hashtags": [
+            "#Google",
+            "#AI",
+            "#Healthcare",
+            "#Research"
+        ],
+        "posted_date": "2026-02-14",
+        "likes": 9900,
+        "comments": 530,
+        "shares": 410,
+        "post_url": "https://facebook.com/post/94"
+    },
+    {
+        "id": 95,
+        "platform": "Facebook",
+        "author": "Microsoft",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft.png",
+        "content": "Today we are announcing an expanded partnership with several leading universities to support research into quantum computing, renewable energy storage, and advanced materials science through dedicated computing grants and research funding. These partnerships reflect our belief that some of the most important breakthroughs benefit from close collaboration between industry resources and academic research expertise. Selected research teams will receive access to our advanced computing infrastructure along with direct collaboration opportunities with our research scientists. We look forward to seeing the innovative discoveries that emerge from these partnerships over the coming years as research progresses.",
+        "hashtags": [
+            "#Microsoft",
+            "#Research",
+            "#Innovation",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-25",
+        "likes": 6600,
+        "comments": 320,
+        "shares": 260,
+        "post_url": "https://facebook.com/post/95"
+    },
+    {
+        "id": 96,
+        "platform": "Facebook",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We want to share reflections on our journey over the past several years, from a small research focused organization to a company whose tools are now used by hundreds of millions of people worldwide for tasks ranging from creative writing to complex problem solving. This growth has come with tremendous responsibility, and we remain focused on ensuring our systems are developed and deployed thoughtfully, with safety and broad benefit as guiding principles rather than afterthoughts. Thank you to our incredible team, research partners, and the broader community who continue pushing us to think carefully about the implications of this powerful technology.",
+        "hashtags": [
+            "#OpenAI",
+            "#AI",
+            "#Reflection",
+            "#Technology"
+        ],
+        "posted_date": "2026-05-31",
+        "likes": 11700,
+        "comments": 590,
+        "shares": 460,
+        "post_url": "https://facebook.com/post/96"
+    },
+    {
+        "id": 97,
+        "platform": "Facebook",
+        "author": "Meta",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta.png",
+        "content": "Connectivity remains out of reach for nearly a third of the world's population, and we continue investing significantly in initiatives aimed at expanding internet access to remote and underserved regions through innovative infrastructure solutions including low orbit satellites and community mesh networks. This quarter, our connectivity initiatives brought reliable internet access to an additional two million people across several countries in Africa and Southeast Asia for the very first time. We believe internet access has become as fundamental to economic opportunity as basic infrastructure like roads and electricity, and we remain committed to closing this global connectivity gap.",
+        "hashtags": [
+            "#Meta",
+            "#Connectivity",
+            "#SocialImpact",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-11",
+        "likes": 7300,
+        "comments": 380,
+        "shares": 310,
+        "post_url": "https://facebook.com/post/97"
+    },
+    {
+        "id": 98,
+        "platform": "Facebook",
+        "author": "Amazon",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon.png",
+        "content": "We are proud to announce the expansion of our disaster relief program, which provides free shipping of critical supplies including food, water, and medical equipment to regions affected by natural disasters around the world. Over the past year, this program has supported relief efforts across multiple countries facing hurricanes, earthquakes, and flooding events. Our logistics network, built to handle complex global supply chains efficiently, allows us to mobilize resources rapidly when disasters strike, often faster than traditional relief organizations working alone. We remain committed to using our infrastructure capabilities to support communities during their most difficult moments of need.",
+        "hashtags": [
+            "#Amazon",
+            "#DisasterRelief",
+            "#SocialImpact",
+            "#Community"
+        ],
+        "posted_date": "2026-03-02",
+        "likes": 8700,
+        "comments": 470,
+        "shares": 390,
+        "post_url": "https://facebook.com/post/98"
+    },
+    {
+        "id": 99,
+        "platform": "Facebook",
+        "author": "Infosys",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys.png",
+        "content": "We are proud to share updates on our sustainability journey, having achieved carbon neutrality across our global operations two years ahead of our original target timeline. This achievement reflects investments across renewable energy adoption, energy efficient office infrastructure, and comprehensive employee travel policies designed to minimize unnecessary carbon emissions. Beyond our own operations, we continue helping clients across industries reduce their environmental footprint through technology solutions focused on energy optimization and supply chain efficiency. We believe technology companies have a unique responsibility to lead by example when it comes to environmental stewardship in today's rapidly changing climate.",
+        "hashtags": [
+            "#Infosys",
+            "#Sustainability",
+            "#ClimateAction",
+            "#Business"
+        ],
+        "posted_date": "2026-06-30",
+        "likes": 5400,
+        "comments": 290,
+        "shares": 230,
+        "post_url": "https://facebook.com/post/99"
+    },
+    {
+        "id": 100,
+        "platform": "Facebook",
+        "author": "TCS",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs.png",
+        "content": "As we reflect on another remarkable year of growth and impact, we want to extend our deepest gratitude to our employees, clients, and communities who have been integral partners in our journey. From pioneering digital transformation initiatives for global enterprises to supporting grassroots community development programs, our purpose remains rooted in creating meaningful value that extends beyond quarterly financial results. Looking ahead, we remain committed to investing in emerging technologies, nurturing talent, and strengthening the communities we operate within. Thank you for being part of this incredible journey, and here is to another year of shared success and growth together.",
+        "hashtags": [
+            "#TCS",
+            "#Business",
+            "#Gratitude",
+            "#Growth"
+        ],
+        "posted_date": "2026-07-05",
+        "likes": 6900,
+        "comments": 410,
+        "shares": 340,
+        "post_url": "https://facebook.com/post/100"
+    }
+]

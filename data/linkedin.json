@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 1,
+        "platform": "LinkedIn",
+        "author": "Google Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_careers.png",
+        "content": "We are excited to open applications for our Summer 2026 AI Internship Program. This twelve week program offers students hands-on experience working alongside our research scientists on projects spanning natural language processing, computer vision, and reinforcement learning. Interns will be paired with dedicated mentors, receive weekly technical workshops, and present their final projects to senior leadership. We are looking for students pursuing degrees in computer science, mathematics, or related fields with a strong foundation in Python and machine learning fundamentals. Applications close in three weeks, so we encourage interested candidates to apply early.",
+        "hashtags": [
+            "#AIInternship",
+            "#GoogleCareers",
+            "#MachineLearning",
+            "#Hiring"
+        ],
+        "posted_date": "2026-01-03",
+        "likes": 8900,
+        "comments": 410,
+        "shares": 320,
+        "post_url": "https://linkedin.com/post/1"
+    },
+    {
+        "id": 2,
+        "platform": "LinkedIn",
+        "author": "Priya Sharma",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/priya_sharma_recruiter.png",
+        "content": "I am thrilled to share that our team is actively hiring Python Developers with two to five years of experience in building scalable backend systems. The ideal candidate will have strong experience with Flask or Django, RESTful API design, and relational databases. This role offers the opportunity to work on high impact products used by millions of users daily, alongside a collaborative engineering culture that values mentorship and continuous learning. If you or someone in your network is looking for a new opportunity, please feel free to reach out directly or apply through the link in the comments below.",
+        "hashtags": [
+            "#PythonDeveloper",
+            "#Hiring",
+            "#SoftwareEngineering",
+            "#Careers"
+        ],
+        "posted_date": "2026-01-05",
+        "likes": 3200,
+        "comments": 280,
+        "shares": 90,
+        "post_url": "https://linkedin.com/post/2"
+    },
+    {
+        "id": 3,
+        "platform": "LinkedIn",
+        "author": "Microsoft Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_careers.png",
+        "content": "Our Software Engineer roles across Azure, Cloud Infrastructure, and Developer Tools teams are now open for applications. We are seeking engineers who are passionate about building reliable, scalable systems that power millions of businesses globally. Candidates should have strong fundamentals in data structures, algorithms, and distributed systems design, along with a genuine curiosity for solving complex technical challenges. Our interview process includes technical screening rounds followed by an in-depth virtual onsite covering coding, system design, and behavioral discussions. We value diverse perspectives and encourage candidates from all backgrounds to apply.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#MicrosoftCareers",
+            "#Hiring",
+            "#CloudComputing"
+        ],
+        "posted_date": "2026-01-07",
+        "likes": 9400,
+        "comments": 520,
+        "shares": 380,
+        "post_url": "https://linkedin.com/post/3"
+    },
+    {
+        "id": 4,
+        "platform": "LinkedIn",
+        "author": "OpenAI",
+        "author_type": "Organization",
+        "profile_image": "profile_images/openai.png",
+        "content": "We are looking for exceptional research scientists and engineers to join our team working on the frontier of large language model development. This role involves designing novel training methodologies, conducting rigorous safety evaluations, and collaborating closely with cross functional teams to bring research breakthroughs into production systems used by millions. Strong candidates typically have a PhD or equivalent research experience in machine learning, along with published work in top tier conferences. We offer a highly collaborative research environment with access to significant computational resources and the opportunity to shape the future of AI development responsibly.",
+        "hashtags": [
+            "#Research",
+            "#MachineLearning",
+            "#OpenAI",
+            "#AIJobs"
+        ],
+        "posted_date": "2026-01-09",
+        "likes": 12300,
+        "comments": 610,
+        "shares": 470,
+        "post_url": "https://linkedin.com/post/4"
+    },
+    {
+        "id": 5,
+        "platform": "LinkedIn",
+        "author": "Rahul Mehta",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/rahul_mehta_recruiter.png",
+        "content": "Excited to announce that our campus hiring drive will be visiting five engineering colleges across the country over the next month, looking to recruit final year students for full time Software Engineer and Data Analyst roles. Our process includes an online assessment, followed by technical interviews and a final HR discussion. We are particularly interested in candidates with strong problem solving skills, a solid understanding of computer science fundamentals, and genuine enthusiasm for learning new technologies. Students interested in attending our pre-placement talk sessions should reach out to their college placement cell for scheduling details.",
+        "hashtags": [
+            "#CampusHiring",
+            "#Careers",
+            "#Internships",
+            "#Placements"
+        ],
+        "posted_date": "2026-01-11",
+        "likes": 4100,
+        "comments": 390,
+        "shares": 180,
+        "post_url": "https://linkedin.com/post/5"
+    },
+    {
+        "id": 6,
+        "platform": "LinkedIn",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "We are hiring Deep Learning Engineers to join our AI infrastructure team, working on optimizing training and inference pipelines for some of the largest neural networks in production today. This role requires strong proficiency in CUDA programming, distributed training frameworks, and a deep understanding of GPU architecture and performance optimization techniques. You will collaborate directly with our hardware teams to ensure our software stack fully leverages the capabilities of our latest chip architectures. This is a unique opportunity to work at the intersection of hardware and software innovation shaping the future of AI compute.",
+        "hashtags": [
+            "#DeepLearning",
+            "#NVIDIA",
+            "#Hiring",
+            "#AI"
+        ],
+        "posted_date": "2026-01-13",
+        "likes": 7800,
+        "comments": 340,
+        "shares": 260,
+        "post_url": "https://linkedin.com/post/6"
+    },
+    {
+        "id": 7,
+        "platform": "LinkedIn",
+        "author": "IBM",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm.png",
+        "content": "Our Data Science team is expanding, and we are looking for candidates passionate about applying machine learning to solve real world enterprise problems across healthcare, finance, and manufacturing industries. The ideal candidate has strong experience with Python, SQL, and statistical modeling, along with the ability to communicate complex technical findings to non-technical stakeholders effectively. We offer extensive learning and development resources, including access to our internal AI research publications and mentorship from senior data scientists. If you are excited about applying data science to drive meaningful business outcomes, we would love to hear from you.",
+        "hashtags": [
+            "#DataScience",
+            "#IBM",
+            "#Hiring",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-01-15",
+        "likes": 5600,
+        "comments": 280,
+        "shares": 190,
+        "post_url": "https://linkedin.com/post/7"
+    },
+    {
+        "id": 8,
+        "platform": "LinkedIn",
+        "author": "Oracle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/oracle.png",
+        "content": "We are seeking experienced Cloud Computing professionals to join our infrastructure engineering team, focused on building and maintaining highly available cloud services used by enterprise customers worldwide. Candidates should have deep expertise in containerization, orchestration platforms, and infrastructure as code tools, along with a strong understanding of networking and security fundamentals. This role offers significant ownership over critical infrastructure components and the opportunity to work with cutting edge cloud native technologies. We value engineers who take pride in building resilient systems and who thrive in fast paced, collaborative environments.",
+        "hashtags": [
+            "#CloudComputing",
+            "#Oracle",
+            "#Hiring",
+            "#Infrastructure"
+        ],
+        "posted_date": "2026-01-17",
+        "likes": 4200,
+        "comments": 210,
+        "shares": 140,
+        "post_url": "https://linkedin.com/post/8"
+    },
+    {
+        "id": 9,
+        "platform": "LinkedIn",
+        "author": "Intel",
+        "author_type": "Organization",
+        "profile_image": "profile_images/intel.png",
+        "content": "Intel is hiring Cyber Security Engineers to strengthen our product security capabilities across our expanding portfolio of chips and platforms. This role involves conducting security assessments, threat modeling, and working closely with hardware and firmware teams to identify and remediate vulnerabilities before products reach the market. Strong candidates will have experience with penetration testing, secure coding practices, and a solid understanding of hardware level security considerations. As security threats continue to evolve in sophistication, we remain committed to building a world class security team dedicated to protecting our products and customers globally.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#Intel",
+            "#Hiring",
+            "#Technology"
+        ],
+        "posted_date": "2026-01-19",
+        "likes": 3800,
+        "comments": 190,
+        "shares": 120,
+        "post_url": "https://linkedin.com/post/9"
+    },
+    {
+        "id": 10,
+        "platform": "LinkedIn",
+        "author": "Adobe",
+        "author_type": "Organization",
+        "profile_image": "profile_images/adobe.png",
+        "content": "Our Creative Cloud engineering team is looking for talented Software Engineers passionate about building tools that empower millions of creative professionals worldwide. This role involves working on performance critical features across our desktop and web applications, collaborating closely with designers and product managers to deliver intuitive user experiences. Candidates should have strong experience with modern frontend frameworks, along with a genuine appreciation for the creative workflows our products support. We offer a highly collaborative environment where engineering excellence and creative empathy come together to build products loved by our global user base.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#Adobe",
+            "#Hiring",
+            "#WebDevelopment"
+        ],
+        "posted_date": "2026-01-21",
+        "likes": 4900,
+        "comments": 230,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/10"
+    },
+    {
+        "id": 11,
+        "platform": "LinkedIn",
+        "author": "Infosys Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys_careers.png",
+        "content": "We are pleased to announce our upcoming campus hiring drive targeting final year engineering and computer applications students across the country. Selected candidates will undergo comprehensive training in enterprise technologies before being deployed onto client projects spanning banking, healthcare, and retail industries. Our selection process includes an aptitude assessment, technical interview, and HR discussion focused on communication skills and cultural fit. This is an excellent opportunity for students seeking a structured career path with extensive learning resources and global project exposure right from the start of their professional journey.",
+        "hashtags": [
+            "#CampusHiring",
+            "#InfosysCareers",
+            "#Placements",
+            "#Careers"
+        ],
+        "posted_date": "2026-01-23",
+        "likes": 6700,
+        "comments": 510,
+        "shares": 320,
+        "post_url": "https://linkedin.com/post/11"
+    },
+    {
+        "id": 12,
+        "platform": "LinkedIn",
+        "author": "TCS Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs_careers.png",
+        "content": "TCS is proud to announce the opening of applications for our National Qualifier Test, our flagship recruitment program for engineering graduates across all disciplines. This program has helped launch the careers of hundreds of thousands of professionals over the years, offering training in cutting edge technologies including cloud computing, artificial intelligence, and cybersecurity. Selected candidates will have the opportunity to work on transformative projects for clients across the globe while building a strong foundation for long term career growth within our organization. We encourage all eligible graduating students to register before the deadline.",
+        "hashtags": [
+            "#TCSCareers",
+            "#CampusHiring",
+            "#Placements",
+            "#Careers"
+        ],
+        "posted_date": "2026-01-25",
+        "likes": 7200,
+        "comments": 480,
+        "shares": 300,
+        "post_url": "https://linkedin.com/post/12"
+    },
+    {
+        "id": 13,
+        "platform": "LinkedIn",
+        "author": "Accenture",
+        "author_type": "Organization",
+        "profile_image": "profile_images/accenture.png",
+        "content": "We are hiring Business Intelligence Analysts to join our data and analytics practice, helping enterprise clients transform raw data into actionable business insights that drive strategic decision making. The ideal candidate has strong proficiency in SQL, data visualization tools, and a solid understanding of business processes across industries such as retail, finance, or healthcare. This role offers exposure to diverse client engagements and the opportunity to work alongside experienced consultants who will mentor you throughout your career development journey. If you enjoy translating complex data into clear business narratives, we would love to connect with you.",
+        "hashtags": [
+            "#BusinessIntelligence",
+            "#Accenture",
+            "#Hiring",
+            "#DataAnalytics"
+        ],
+        "posted_date": "2026-01-27",
+        "likes": 4300,
+        "comments": 220,
+        "shares": 140,
+        "post_url": "https://linkedin.com/post/13"
+    },
+    {
+        "id": 14,
+        "platform": "LinkedIn",
+        "author": "PwC",
+        "author_type": "Organization",
+        "profile_image": "profile_images/pwc.png",
+        "content": "PwC is expanding our technology consulting practice and is looking for professionals passionate about helping organizations navigate complex digital transformation initiatives. This role involves working directly with client stakeholders to assess technology needs, design solutions, and manage implementation timelines across cloud migration, cybersecurity, and data analytics projects. Strong candidates will have a combination of technical acumen and business communication skills, along with the ability to manage multiple client relationships simultaneously. We offer extensive professional development resources and clear pathways for career progression within our global consulting network.",
+        "hashtags": [
+            "#Consulting",
+            "#PwC",
+            "#Hiring",
+            "#DigitalTransformation"
+        ],
+        "posted_date": "2026-01-29",
+        "likes": 3600,
+        "comments": 190,
+        "shares": 110,
+        "post_url": "https://linkedin.com/post/14"
+    },
+    {
+        "id": 15,
+        "platform": "LinkedIn",
+        "author": "Deloitte",
+        "author_type": "Organization",
+        "profile_image": "profile_images/deloitte.png",
+        "content": "We are seeking experienced Cyber Security Consultants to join our risk advisory practice, helping clients across industries strengthen their security posture against increasingly sophisticated threats. This role involves conducting security assessments, developing incident response strategies, and advising executive stakeholders on cybersecurity governance frameworks. Candidates should have relevant security certifications along with hands-on experience in areas such as vulnerability management, threat intelligence, and regulatory compliance. This is an excellent opportunity for security professionals looking to broaden their impact by working across diverse industries and organizational contexts within a collaborative consulting environment.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#Deloitte",
+            "#Hiring",
+            "#Consulting"
+        ],
+        "posted_date": "2026-01-31",
+        "likes": 4100,
+        "comments": 210,
+        "shares": 130,
+        "post_url": "https://linkedin.com/post/15"
+    },
+    {
+        "id": 16,
+        "platform": "LinkedIn",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "We are hiring Senior Software Engineers for our content delivery and streaming infrastructure teams, responsible for ensuring seamless playback experiences for over two hundred million subscribers worldwide. This role involves solving complex distributed systems challenges related to caching, load balancing, and real time performance monitoring at massive scale. Strong candidates will have deep experience with distributed systems design and a track record of shipping reliable, high performance software in production environments. We offer significant autonomy, a culture built on freedom and responsibility, and the opportunity to solve engineering problems at a scale few companies encounter.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#Netflix",
+            "#Hiring",
+            "#DistributedSystems"
+        ],
+        "posted_date": "2026-02-02",
+        "likes": 10200,
+        "comments": 580,
+        "shares": 420,
+        "post_url": "https://linkedin.com/post/16"
+    },
+    {
+        "id": 17,
+        "platform": "LinkedIn",
+        "author": "GitHub",
+        "author_type": "Organization",
+        "profile_image": "profile_images/github.png",
+        "content": "We are celebrating the incredible growth of open source contributions on our platform this past year, with over one hundred million pull requests submitted across public and private repositories. To support this thriving ecosystem, we are hiring Developer Advocates who are passionate about open source and can help bridge the gap between our product teams and the developer community through documentation, community events, and direct engagement. Strong candidates will have hands-on open source contribution experience along with excellent written and verbal communication skills. If you love empowering developers, we would love to hear from you.",
+        "hashtags": [
+            "#OpenSource",
+            "#GitHub",
+            "#Hiring",
+            "#DeveloperAdvocacy"
+        ],
+        "posted_date": "2026-02-04",
+        "likes": 8100,
+        "comments": 390,
+        "shares": 310,
+        "post_url": "https://linkedin.com/post/17"
+    },
+    {
+        "id": 18,
+        "platform": "LinkedIn",
+        "author": "Kaggle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/kaggle.png",
+        "content": "Our latest global machine learning competition just concluded with over twenty thousand participants submitting solutions to a challenging real world problem involving satellite imagery classification for disaster response applications. We are incredibly proud of the innovative approaches submitted by our community, several of which outperformed baseline models by significant margins. Winning solutions and detailed writeups are now available on our platform for anyone interested in learning from the top performing approaches. We continue to believe that competitive machine learning challenges accelerate learning and innovation across the entire data science community in meaningful ways.",
+        "hashtags": [
+            "#Kaggle",
+            "#MachineLearning",
+            "#DataScience",
+            "#Competition"
+        ],
+        "posted_date": "2026-02-06",
+        "likes": 6900,
+        "comments": 420,
+        "shares": 280,
+        "post_url": "https://linkedin.com/post/18"
+    },
+    {
+        "id": 19,
+        "platform": "LinkedIn",
+        "author": "Coursera",
+        "author_type": "Organization",
+        "profile_image": "profile_images/coursera.png",
+        "content": "We are excited to announce a new professional certificate program in prompt engineering, developed in partnership with leading AI companies, designed to equip professionals with practical skills for effectively working with modern language models. The curriculum covers foundational concepts, advanced prompting techniques, and real world case studies across industries including marketing, software development, and customer support. This program is designed for professionals at any career stage looking to build practical AI skills applicable to their current roles. Enrollment is now open, with a limited time discount available for early registrants.",
+        "hashtags": [
+            "#PromptEngineering",
+            "#Coursera",
+            "#AI",
+            "#Learning"
+        ],
+        "posted_date": "2026-02-08",
+        "likes": 7300,
+        "comments": 350,
+        "shares": 290,
+        "post_url": "https://linkedin.com/post/19"
+    },
+    {
+        "id": 20,
+        "platform": "LinkedIn",
+        "author": "Ananya Krishnan",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/ananya_krishnan_recruiter.png",
+        "content": "I am excited to share that my team is looking for Machine Learning Engineers with strong experience in deploying models to production environments at scale. Ideal candidates will have hands-on experience with model serving frameworks, monitoring pipelines, and a solid understanding of MLOps best practices. This role offers the opportunity to work closely with research teams to bring cutting edge models from experimentation into reliable production systems serving millions of requests daily. If you are passionate about the intersection of research and engineering, please send me a message or apply through the link in the comments below.",
+        "hashtags": [
+            "#MachineLearning",
+            "#Hiring",
+            "#MLOps",
+            "#Careers"
+        ],
+        "posted_date": "2026-02-10",
+        "likes": 3900,
+        "comments": 260,
+        "shares": 110,
+        "post_url": "https://linkedin.com/post/20"
+    },
+    {
+        "id": 21,
+        "platform": "LinkedIn",
+        "author": "Amazon Jobs",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_jobs.png",
+        "content": "We are excited to open applications for our Software Development Engineer Internship Program for students graduating in 2027. Interns will work on real production systems alongside experienced engineers, contributing to projects that directly impact our customers globally. Throughout the twelve week program, interns will receive dedicated mentorship, participate in technical workshops, and have the opportunity to convert to a full time offer based on performance. We are looking for students with strong fundamentals in data structures, algorithms, and object oriented programming, along with genuine curiosity about solving large scale technical problems.",
+        "hashtags": [
+            "#Internships",
+            "#AmazonJobs",
+            "#SoftwareEngineer",
+            "#Hiring"
+        ],
+        "posted_date": "2026-02-12",
+        "likes": 9600,
+        "comments": 580,
+        "shares": 410,
+        "post_url": "https://linkedin.com/post/21"
+    },
+    {
+        "id": 22,
+        "platform": "LinkedIn",
+        "author": "Meta Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_careers.png",
+        "content": "We are hiring experienced Data Scientists to join our core analytics team, helping shape product decisions that impact billions of users across our family of applications. This role involves designing experiments, building predictive models, and communicating insights clearly to product and engineering leadership. Strong candidates will have advanced proficiency in statistical analysis, SQL, and experience with large scale data processing frameworks. We offer significant opportunities for cross functional collaboration and the chance to directly influence product strategy at a scale that few companies in the world can offer their data science professionals.",
+        "hashtags": [
+            "#DataScience",
+            "#MetaCareers",
+            "#Hiring",
+            "#Analytics"
+        ],
+        "posted_date": "2026-02-14",
+        "likes": 8700,
+        "comments": 460,
+        "shares": 350,
+        "post_url": "https://linkedin.com/post/22"
+    },
+    {
+        "id": 23,
+        "platform": "LinkedIn",
+        "author": "Vikram Rao",
+        "author_type": "HR Manager",
+        "profile_image": "profile_images/vikram_rao_hr.png",
+        "content": "Reflecting on this past hiring season, I wanted to share some resume tips that consistently helped candidates stand out during our screening process. Quantify your achievements wherever possible rather than simply listing responsibilities, since numbers provide concrete evidence of your impact. Tailor your resume for each specific role rather than sending a generic version to every application, highlighting the skills and experiences most relevant to that particular position. Finally, keep your resume concise and well formatted, since recruiters often spend less than a minute on initial screening. Hope these tips help job seekers currently navigating the market.",
+        "hashtags": [
+            "#ResumeTips",
+            "#CareerAdvice",
+            "#JobSearch",
+            "#Hiring"
+        ],
+        "posted_date": "2026-02-16",
+        "likes": 6200,
+        "comments": 540,
+        "shares": 390,
+        "post_url": "https://linkedin.com/post/23"
+    },
+    {
+        "id": 24,
+        "platform": "LinkedIn",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "We are proud to sponsor this year's national university hackathon focused on applying AI to solve challenges in robotics and autonomous systems. Over five hundred students across fifty teams competed over forty eight hours, building impressive prototypes ranging from autonomous delivery robots to computer vision systems for agricultural monitoring. Our engineers had the pleasure of mentoring several teams throughout the event, providing technical guidance and feedback on their approaches. We remain committed to supporting the next generation of engineers and researchers through hackathons, scholarships, and educational partnerships around the world.",
+        "hashtags": [
+            "#Hackathon",
+            "#NVIDIA",
+            "#AI",
+            "#Robotics"
+        ],
+        "posted_date": "2026-02-18",
+        "likes": 5800,
+        "comments": 310,
+        "shares": 220,
+        "post_url": "https://linkedin.com/post/24"
+    },
+    {
+        "id": 25,
+        "platform": "LinkedIn",
+        "author": "IBM",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm.png",
+        "content": "Our research division has published a new paper exploring novel approaches to quantum error correction, a critical challenge on the path toward practical, fault tolerant quantum computing systems. This research represents years of collaboration between our quantum scientists and academic partners across multiple institutions. As quantum computing technology continues to mature, addressing error correction remains one of the most significant technical hurdles the field must overcome. We remain committed to advancing this research openly and are actively hiring quantum researchers interested in contributing to this exciting frontier of computer science.",
+        "hashtags": [
+            "#Research",
+            "#IBM",
+            "#QuantumComputing",
+            "#Hiring"
+        ],
+        "posted_date": "2026-02-20",
+        "likes": 4700,
+        "comments": 260,
+        "shares": 190,
+        "post_url": "https://linkedin.com/post/25"
+    },
+    {
+        "id": 26,
+        "platform": "LinkedIn",
+        "author": "Oracle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/oracle.png",
+        "content": "We are seeking Data Science professionals to join our enterprise analytics team, working on solutions that help organizations across industries make data driven decisions at scale. This role involves developing predictive models, building automated reporting pipelines, and collaborating with product teams to embed analytics capabilities directly into our enterprise software offerings. Strong candidates will have experience with cloud based data platforms, statistical modeling, and the ability to translate business requirements into technical solutions effectively. We offer a collaborative environment with significant opportunities for professional growth within our expanding cloud and analytics organization.",
+        "hashtags": [
+            "#DataScience",
+            "#Oracle",
+            "#Hiring",
+            "#Analytics"
+        ],
+        "posted_date": "2026-02-22",
+        "likes": 3700,
+        "comments": 200,
+        "shares": 130,
+        "post_url": "https://linkedin.com/post/26"
+    },
+    {
+        "id": 27,
+        "platform": "LinkedIn",
+        "author": "Intel",
+        "author_type": "Organization",
+        "profile_image": "profile_images/intel.png",
+        "content": "We are hosting our annual research symposium bringing together academics, industry researchers, and graduate students to discuss the latest advancements in semiconductor technology and AI accelerator design. This year's sessions will cover topics including next generation chip architectures, energy efficient computing, and emerging applications in edge AI. We are also using this event to identify promising research talent for our university recruiting pipeline, including PhD internship opportunities within our research labs. Registration is now open for students and researchers interested in attending this year's symposium sessions.",
+        "hashtags": [
+            "#Research",
+            "#Intel",
+            "#AI",
+            "#Hiring"
+        ],
+        "posted_date": "2026-02-24",
+        "likes": 3400,
+        "comments": 170,
+        "shares": 110,
+        "post_url": "https://linkedin.com/post/27"
+    },
+    {
+        "id": 28,
+        "platform": "LinkedIn",
+        "author": "Adobe",
+        "author_type": "Organization",
+        "profile_image": "profile_images/adobe.png",
+        "content": "We are hiring Machine Learning Engineers to join our AI research group, focused on developing generative models that power creative tools used by millions of designers and artists worldwide. This role involves researching novel model architectures, optimizing inference performance for real time creative applications, and collaborating closely with product teams to bring research innovations into shipped features. Strong candidates will have experience with deep learning frameworks and a genuine passion for the intersection of AI and creative expression. We offer a unique opportunity to shape how AI transforms creative workflows across the industry.",
+        "hashtags": [
+            "#MachineLearning",
+            "#Adobe",
+            "#Hiring",
+            "#AI"
+        ],
+        "posted_date": "2026-02-26",
+        "likes": 5900,
+        "comments": 290,
+        "shares": 210,
+        "post_url": "https://linkedin.com/post/28"
+    },
+    {
+        "id": 29,
+        "platform": "LinkedIn",
+        "author": "Infosys Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys_careers.png",
+        "content": "We are proud to announce a new partnership offering specialized internship opportunities for students pursuing degrees in data science and artificial intelligence. Selected interns will work on live client projects under the guidance of experienced data scientists, gaining hands-on exposure to enterprise scale machine learning applications across banking, healthcare, and retail domains. This twelve week program includes structured training modules alongside project work, and top performing interns will be considered for full time offers upon graduation. Applications are now open for students in their pre-final year of study across all engineering disciplines.",
+        "hashtags": [
+            "#Internships",
+            "#InfosysCareers",
+            "#DataScience",
+            "#AI"
+        ],
+        "posted_date": "2026-02-28",
+        "likes": 5300,
+        "comments": 410,
+        "shares": 260,
+        "post_url": "https://linkedin.com/post/29"
+    },
+    {
+        "id": 30,
+        "platform": "LinkedIn",
+        "author": "TCS Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs_careers.png",
+        "content": "We are launching a new campus hackathon series inviting engineering students across the country to solve real world business problems using emerging technologies including cloud computing and generative AI. Winning teams will receive cash prizes, mentorship opportunities, and fast tracked interview processes for our full time hiring programs. This initiative reflects our commitment to identifying and nurturing top technical talent early in their academic journey while giving students exposure to industry relevant problem statements. Registration details and problem statements will be shared with participating college placement cells over the coming weeks.",
+        "hashtags": [
+            "#Hackathon",
+            "#TCSCareers",
+            "#CampusHiring",
+            "#Innovation"
+        ],
+        "posted_date": "2026-03-02",
+        "likes": 4800,
+        "comments": 340,
+        "shares": 220,
+        "post_url": "https://linkedin.com/post/30"
+    },
+    {
+        "id": 31,
+        "platform": "LinkedIn",
+        "author": "Accenture",
+        "author_type": "Organization",
+        "profile_image": "profile_images/accenture.png",
+        "content": "We are hiring Cloud Computing specialists to join our technology consulting practice, helping enterprise clients migrate legacy infrastructure to modern cloud native architectures. This role involves designing migration strategies, optimizing cloud costs, and ensuring robust security postures throughout the transformation process. Strong candidates will have relevant cloud certifications along with hands-on experience across major cloud platforms. This is an excellent opportunity for professionals looking to work across diverse client engagements while developing deep expertise in cloud architecture and enterprise transformation strategies within a globally recognized consulting organization.",
+        "hashtags": [
+            "#CloudComputing",
+            "#Accenture",
+            "#Hiring",
+            "#Consulting"
+        ],
+        "posted_date": "2026-03-04",
+        "likes": 4100,
+        "comments": 210,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/31"
+    },
+    {
+        "id": 32,
+        "platform": "LinkedIn",
+        "author": "PwC",
+        "author_type": "Organization",
+        "profile_image": "profile_images/pwc.png",
+        "content": "We are pleased to share insights from our latest industry report examining how organizations across sectors are adopting artificial intelligence to drive operational efficiency and competitive advantage. Key findings reveal that companies with clearly defined AI governance frameworks are seeing significantly better returns on their AI investments compared to those pursuing ad hoc implementation approaches. Our consulting teams continue to help clients navigate this complex landscape, from initial strategy development through full scale implementation. We are also actively hiring AI strategy consultants to support our growing practice in this rapidly evolving area.",
+        "hashtags": [
+            "#AI",
+            "#PwC",
+            "#Consulting",
+            "#Hiring"
+        ],
+        "posted_date": "2026-03-06",
+        "likes": 3900,
+        "comments": 190,
+        "shares": 140,
+        "post_url": "https://linkedin.com/post/32"
+    },
+    {
+        "id": 33,
+        "platform": "LinkedIn",
+        "author": "Deloitte",
+        "author_type": "Organization",
+        "profile_image": "profile_images/deloitte.png",
+        "content": "We are hiring Business Intelligence Consultants to help our clients build robust data infrastructure and reporting capabilities that support strategic decision making across their organizations. This role involves working closely with client stakeholders to understand business requirements, designing scalable data models, and building intuitive dashboards using leading visualization tools. Strong candidates will have experience with data warehousing concepts, SQL, and the ability to translate complex business questions into actionable analytical solutions. We offer extensive professional development opportunities and exposure to diverse industries throughout your consulting career with us.",
+        "hashtags": [
+            "#BusinessIntelligence",
+            "#Deloitte",
+            "#Hiring",
+            "#DataAnalytics"
+        ],
+        "posted_date": "2026-03-08",
+        "likes": 3600,
+        "comments": 180,
+        "shares": 120,
+        "post_url": "https://linkedin.com/post/33"
+    },
+    {
+        "id": 34,
+        "platform": "LinkedIn",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "We are hiring Machine Learning Engineers to join our recommendations and personalization team, working on systems that help hundreds of millions of members discover content they will love. This role involves designing and training recommendation models, running large scale experiments, and continuously iterating based on real user engagement data. Strong candidates will have experience with recommendation systems, statistical modeling, and a genuine passion for understanding user behavior at scale. We offer significant technical ownership and the opportunity to directly shape the experience of one of the largest streaming platforms in the world.",
+        "hashtags": [
+            "#MachineLearning",
+            "#Netflix",
+            "#Hiring",
+            "#Recommendations"
+        ],
+        "posted_date": "2026-03-10",
+        "likes": 9100,
+        "comments": 480,
+        "shares": 370,
+        "post_url": "https://linkedin.com/post/34"
+    },
+    {
+        "id": 35,
+        "platform": "LinkedIn",
+        "author": "GitHub",
+        "author_type": "Organization",
+        "profile_image": "profile_images/github.png",
+        "content": "We are excited to share updates on our latest features designed to make open source contribution more accessible for developers at every experience level. New tools include improved issue discovery for first time contributors, automated dependency vulnerability alerts, and enhanced code review workflows that streamline collaboration across distributed teams. We remain deeply committed to supporting the open source ecosystem that powers so much of modern software development. We are also hiring engineers passionate about building developer tools that genuinely improve how software gets built collaboratively around the world.",
+        "hashtags": [
+            "#OpenSource",
+            "#GitHub",
+            "#DeveloperTools",
+            "#Hiring"
+        ],
+        "posted_date": "2026-03-12",
+        "likes": 7200,
+        "comments": 350,
+        "shares": 280,
+        "post_url": "https://linkedin.com/post/35"
+    },
+    {
+        "id": 36,
+        "platform": "LinkedIn",
+        "author": "Kaggle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/kaggle.png",
+        "content": "We are thrilled to announce our upcoming machine learning competition focused on predicting equipment failure in industrial manufacturing settings using sensor time series data. This competition offers a substantial prize pool along with the opportunity for top performers to be featured in our community spotlight and connected with potential employers actively looking for data science talent. We believe competitive challenges like these provide invaluable practical experience that goes beyond theoretical coursework, helping participants build genuinely production relevant skills. Registration opens next week, and we encourage data scientists at every experience level to participate.",
+        "hashtags": [
+            "#Kaggle",
+            "#MachineLearning",
+            "#Competition",
+            "#DataScience"
+        ],
+        "posted_date": "2026-03-14",
+        "likes": 6300,
+        "comments": 380,
+        "shares": 250,
+        "post_url": "https://linkedin.com/post/36"
+    },
+    {
+        "id": 37,
+        "platform": "LinkedIn",
+        "author": "Coursera",
+        "author_type": "Organization",
+        "profile_image": "profile_images/coursera.png",
+        "content": "We are excited to launch a new specialization dedicated entirely to career advice and professional development for early career professionals navigating the modern job market. This program covers essential topics including resume optimization, interview preparation, networking strategies, and salary negotiation techniques taught by career coaches and industry hiring managers. We understand that navigating career decisions can feel overwhelming, especially for those early in their professional journey, and this specialization is designed to provide practical, actionable guidance grounded in real hiring practices across various industries today.",
+        "hashtags": [
+            "#CareerAdvice",
+            "#Coursera",
+            "#Learning",
+            "#ProfessionalDevelopment"
+        ],
+        "posted_date": "2026-03-16",
+        "likes": 5700,
+        "comments": 310,
+        "shares": 230,
+        "post_url": "https://linkedin.com/post/37"
+    },
+    {
+        "id": 38,
+        "platform": "LinkedIn",
+        "author": "Karan Malhotra",
+        "author_type": "HR Manager",
+        "profile_image": "profile_images/karan_malhotra_hr.png",
+        "content": "After reviewing thousands of applications this past year, I wanted to share some career advice for professionals considering a transition into technology roles from non-technical backgrounds. Focus on building a genuine portfolio of projects that demonstrate practical application of your skills rather than solely relying on certifications alone. Networking authentically within communities relevant to your target role often opens doors that applications alone cannot. Finally, be patient with yourself throughout this process, since meaningful career transitions typically take longer than most people initially expect. Wishing everyone currently navigating a career change the very best of luck.",
+        "hashtags": [
+            "#CareerAdvice",
+            "#CareerChange",
+            "#Hiring",
+            "#ProfessionalDevelopment"
+        ],
+        "posted_date": "2026-03-18",
+        "likes": 6800,
+        "comments": 590,
+        "shares": 410,
+        "post_url": "https://linkedin.com/post/38"
+    },
+    {
+        "id": 39,
+        "platform": "LinkedIn",
+        "author": "Google Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_careers.png",
+        "content": "We are proud to announce the launch of our new Cloud Computing Certification track designed specifically for professionals looking to build foundational and advanced skills in cloud architecture, security, and machine learning infrastructure. This certification program combines self paced learning modules with hands-on labs using real cloud environments, culminating in a proctored certification exam recognized across the industry. We have seen certified professionals report significantly improved job prospects and salary outcomes after completing this program. Enrollment is open now, with special pricing available for students and recent graduates entering the workforce.",
+        "hashtags": [
+            "#CloudComputing",
+            "#GoogleCareers",
+            "#Certification",
+            "#CareerAdvice"
+        ],
+        "posted_date": "2026-03-20",
+        "likes": 7900,
+        "comments": 420,
+        "shares": 330,
+        "post_url": "https://linkedin.com/post/39"
+    },
+    {
+        "id": 40,
+        "platform": "LinkedIn",
+        "author": "Microsoft Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_careers.png",
+        "content": "We are hosting our annual global hackathon inviting developers, students, and startups to build innovative solutions using our latest AI and cloud technologies. This year's theme focuses on accessibility and inclusive technology design, encouraging participants to build solutions that genuinely address the needs of underrepresented communities. Winning teams will receive significant cash prizes along with mentorship opportunities from our engineering leadership and potential incubation support for the most promising projects. Registration is now open globally, and we encourage participants of all backgrounds and experience levels to form teams and get involved.",
+        "hashtags": [
+            "#Hackathon",
+            "#MicrosoftCareers",
+            "#AI",
+            "#Innovation"
+        ],
+        "posted_date": "2026-03-22",
+        "likes": 8300,
+        "comments": 470,
+        "shares": 360,
+        "post_url": "https://linkedin.com/post/40"
+    },
+    {
+        "id": 41,
+        "platform": "LinkedIn",
+        "author": "Amazon Jobs",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_jobs.png",
+        "content": "We are hiring experienced Machine Learning Engineers to join our forecasting and supply chain optimization team, working on models that help predict demand and optimize inventory across our global logistics network. This role involves building models that operate at massive scale, handling millions of products across thousands of fulfillment centers worldwide. Strong candidates will have deep expertise in time series forecasting, optimization techniques, and experience deploying models in high stakes production environments. This is a unique opportunity to apply machine learning to solve genuinely complex operational challenges affecting customers around the world every single day.",
+        "hashtags": [
+            "#MachineLearning",
+            "#AmazonJobs",
+            "#Hiring",
+            "#SupplyChain"
+        ],
+        "posted_date": "2026-03-24",
+        "likes": 8700,
+        "comments": 460,
+        "shares": 370,
+        "post_url": "https://linkedin.com/post/41"
+    },
+    {
+        "id": 42,
+        "platform": "LinkedIn",
+        "author": "Meta Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_careers.png",
+        "content": "We are excited to open applications for our AI Research Internship Program for graduate students pursuing advanced degrees in machine learning, computer vision, or natural language processing. Interns will work directly with our research scientists on cutting edge projects, with the opportunity to publish findings at top tier academic conferences. This program includes dedicated mentorship, technical seminars, and networking opportunities with leading researchers across the industry. We are looking for candidates with strong theoretical foundations combined with practical implementation skills demonstrated through prior research projects or publications in relevant academic venues.",
+        "hashtags": [
+            "#AIInternship",
+            "#MetaCareers",
+            "#Research",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-03-26",
+        "likes": 10100,
+        "comments": 540,
+        "shares": 420,
+        "post_url": "https://linkedin.com/post/42"
+    },
+    {
+        "id": 43,
+        "platform": "LinkedIn",
+        "author": "Sunita Iyer",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/sunita_iyer_recruiter.png",
+        "content": "I am excited to be hiring for multiple Data Science positions across our analytics organization, ranging from entry level analyst roles to senior data scientist positions leading complex modeling initiatives. We value candidates who can demonstrate strong analytical thinking combined with the ability to communicate findings clearly to both technical and non-technical audiences. Our interview process includes a take home case study followed by a technical discussion and behavioral interview rounds. If you are passionate about using data to drive meaningful business decisions, please reach out directly or apply through the posting linked in the comments below.",
+        "hashtags": [
+            "#DataScience",
+            "#Hiring",
+            "#Careers",
+            "#Analytics"
+        ],
+        "posted_date": "2026-03-28",
+        "likes": 4600,
+        "comments": 310,
+        "shares": 170,
+        "post_url": "https://linkedin.com/post/43"
+    },
+    {
+        "id": 44,
+        "platform": "LinkedIn",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "We are hiring Research Scientists to join our robotics simulation team, working on developing photorealistic virtual environments used to train autonomous systems before real world deployment. This role involves advancing state of the art simulation techniques, collaborating with hardware teams on sensor modeling accuracy, and publishing research findings at leading robotics and computer vision conferences. Strong candidates will have a PhD or equivalent research experience in robotics, computer graphics, or related fields. We offer access to significant computational resources and the opportunity to shape the future of how robots learn to interact with the physical world.",
+        "hashtags": [
+            "#Research",
+            "#NVIDIA",
+            "#Robotics",
+            "#Hiring"
+        ],
+        "posted_date": "2026-03-30",
+        "likes": 6900,
+        "comments": 340,
+        "shares": 260,
+        "post_url": "https://linkedin.com/post/44"
+    },
+    {
+        "id": 45,
+        "platform": "LinkedIn",
+        "author": "IBM",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm.png",
+        "content": "We are hosting an open source contribution drive this month, inviting developers from around the world to contribute to several of our actively maintained enterprise software projects. This initiative aims to strengthen our open source community while providing valuable hands-on experience for developers looking to build their public contribution portfolio. Experienced maintainers will be available throughout the event to provide guidance and review pull requests promptly. We believe open source collaboration drives meaningful innovation, and we remain committed to actively supporting and growing this community through initiatives like this one.",
+        "hashtags": [
+            "#OpenSource",
+            "#IBM",
+            "#Community",
+            "#Programming"
+        ],
+        "posted_date": "2026-04-01",
+        "likes": 4200,
+        "comments": 220,
+        "shares": 160,
+        "post_url": "https://linkedin.com/post/45"
+    },
+    {
+        "id": 46,
+        "platform": "LinkedIn",
+        "author": "Oracle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/oracle.png",
+        "content": "We are hiring Software Engineers to join our database engineering team, working on core systems that power mission critical applications for enterprises across the globe. This role involves optimizing query performance, ensuring data integrity at massive scale, and contributing to the evolution of our database architecture to meet growing customer demands. Strong candidates will have deep understanding of database internals, strong systems programming skills, and experience working on performance critical software. This is an excellent opportunity to work on foundational technology that underpins some of the largest enterprise systems in operation today.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#Oracle",
+            "#Hiring",
+            "#Database"
+        ],
+        "posted_date": "2026-04-03",
+        "likes": 3800,
+        "comments": 210,
+        "shares": 140,
+        "post_url": "https://linkedin.com/post/46"
+    },
+    {
+        "id": 47,
+        "platform": "LinkedIn",
+        "author": "Intel",
+        "author_type": "Organization",
+        "profile_image": "profile_images/intel.png",
+        "content": "We are pleased to announce our expanded university partnership program offering research grants and hardware donations to academic labs working on advanced semiconductor and AI accelerator research. This initiative reflects our belief that meaningful breakthroughs in computing often emerge from close collaboration between industry and academia. Selected labs will receive not only funding and equipment but also direct mentorship from our senior research engineers. We are also actively recruiting PhD candidates from partner institutions for full time research roles within our organization following graduation, offering a direct pathway from academic research into industry impact.",
+        "hashtags": [
+            "#Research",
+            "#Intel",
+            "#Hiring",
+            "#Semiconductors"
+        ],
+        "posted_date": "2026-04-05",
+        "likes": 3300,
+        "comments": 180,
+        "shares": 120,
+        "post_url": "https://linkedin.com/post/47"
+    },
+    {
+        "id": 48,
+        "platform": "LinkedIn",
+        "author": "Adobe",
+        "author_type": "Organization",
+        "profile_image": "profile_images/adobe.png",
+        "content": "We are hiring UX focused Software Engineers to join our design tools team, working on features that directly shape how millions of designers and creative professionals interact with our products daily. This role requires close collaboration with designers and researchers to translate user feedback into thoughtfully implemented features, balancing performance considerations with intuitive user experience design. Strong candidates will have experience building complex interactive applications along with a genuine appreciation for design principles and user centered development practices. We offer a highly collaborative environment where engineering and design work hand in hand toward shared product goals.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#Adobe",
+            "#Hiring",
+            "#UX"
+        ],
+        "posted_date": "2026-04-07",
+        "likes": 4400,
+        "comments": 230,
+        "shares": 160,
+        "post_url": "https://linkedin.com/post/48"
+    },
+    {
+        "id": 49,
+        "platform": "LinkedIn",
+        "author": "Infosys Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys_careers.png",
+        "content": "We are proud to share that our latest cohort of campus hires has completed their intensive twelve week foundation training program, covering programming fundamentals, cloud technologies, and client engagement best practices. These new employees are now being deployed onto live client projects across banking, healthcare, and manufacturing sectors, applying their newly acquired skills to real world challenges. We remain deeply committed to investing in comprehensive onboarding programs that set our employees up for long term success within our organization. Congratulations to this new cohort as they begin their exciting professional journeys with us.",
+        "hashtags": [
+            "#Training",
+            "#InfosysCareers",
+            "#Careers",
+            "#CampusHiring"
+        ],
+        "posted_date": "2026-04-09",
+        "likes": 5100,
+        "comments": 320,
+        "shares": 220,
+        "post_url": "https://linkedin.com/post/49"
+    },
+    {
+        "id": 50,
+        "platform": "LinkedIn",
+        "author": "TCS Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs_careers.png",
+        "content": "We are excited to share updates on our internal upskilling initiative, which has now trained over one hundred thousand employees in emerging technologies including generative AI, cloud native architecture, and cybersecurity fundamentals this past year alone. This program reflects our belief that continuous learning is essential for both individual career growth and our organization's ability to deliver cutting edge solutions to clients. Employees who complete advanced certification tracks within this program become eligible for specialized project assignments and accelerated career progression opportunities within our organization moving forward.",
+        "hashtags": [
+            "#TCSCareers",
+            "#Upskilling",
+            "#Careers",
+            "#Technology"
+        ],
+        "posted_date": "2026-04-11",
+        "likes": 4700,
+        "comments": 280,
+        "shares": 190,
+        "post_url": "https://linkedin.com/post/50"
+    },
+    {
+        "id": 51,
+        "platform": "LinkedIn",
+        "author": "Accenture",
+        "author_type": "Organization",
+        "profile_image": "profile_images/accenture.png",
+        "content": "We are hiring Prompt Engineering specialists to join our AI innovation practice, helping enterprise clients effectively leverage generative AI capabilities across their business operations. This role involves designing and optimizing prompts for specific business use cases, developing evaluation frameworks to measure output quality, and training client teams on effective prompt design principles. Strong candidates will have hands-on experience working with large language models along with strong analytical and communication skills. This is an emerging and exciting specialization within our organization, offering significant opportunities for professionals looking to be at the forefront of applied generative AI.",
+        "hashtags": [
+            "#PromptEngineering",
+            "#Accenture",
+            "#Hiring",
+            "#AI"
+        ],
+        "posted_date": "2026-04-13",
+        "likes": 5600,
+        "comments": 330,
+        "shares": 240,
+        "post_url": "https://linkedin.com/post/51"
+    },
+    {
+        "id": 52,
+        "platform": "LinkedIn",
+        "author": "PwC",
+        "author_type": "Organization",
+        "profile_image": "profile_images/pwc.png",
+        "content": "We are hiring Cyber Security professionals to join our risk assurance practice, helping clients build resilient security programs capable of withstanding increasingly sophisticated cyber threats. This role involves conducting comprehensive security audits, advising on regulatory compliance requirements, and developing incident response playbooks tailored to each client's unique risk profile. Strong candidates will have relevant industry certifications along with practical experience across various security domains including cloud security, application security, and governance frameworks. We offer significant opportunities for professional growth within our expanding cybersecurity consulting practice serving clients across every major industry sector.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#PwC",
+            "#Hiring",
+            "#Consulting"
+        ],
+        "posted_date": "2026-04-15",
+        "likes": 4000,
+        "comments": 210,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/52"
+    },
+    {
+        "id": 53,
+        "platform": "LinkedIn",
+        "author": "Deloitte",
+        "author_type": "Organization",
+        "profile_image": "profile_images/deloitte.png",
+        "content": "We are proud to launch our new AI Center of Excellence, bringing together specialists across machine learning, prompt engineering, and responsible AI governance to help clients navigate the complexities of enterprise AI adoption. This initiative reflects our commitment to staying at the forefront of technological change while ensuring our clients implement AI responsibly and effectively. We are actively hiring across multiple roles within this new center, including machine learning engineers, AI strategy consultants, and responsible AI specialists. If you are passionate about shaping how enterprises adopt AI thoughtfully, we encourage you to explore these opportunities.",
+        "hashtags": [
+            "#AI",
+            "#Deloitte",
+            "#Hiring",
+            "#Consulting"
+        ],
+        "posted_date": "2026-04-17",
+        "likes": 6100,
+        "comments": 350,
+        "shares": 270,
+        "post_url": "https://linkedin.com/post/53"
+    },
+    {
+        "id": 54,
+        "platform": "LinkedIn",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "We are hiring Cloud Infrastructure Engineers to join our platform engineering team, responsible for building and maintaining the resilient infrastructure that supports our global streaming operations. This role involves designing highly available systems, automating deployment pipelines, and continuously improving our observability tooling to detect and resolve issues before they impact members. Strong candidates will have deep expertise in distributed systems, containerization technologies, and infrastructure automation practices. We offer significant technical ownership and the opportunity to solve infrastructure challenges at a truly massive global scale within a culture that values engineering excellence.",
+        "hashtags": [
+            "#CloudComputing",
+            "#Netflix",
+            "#Hiring",
+            "#Infrastructure"
+        ],
+        "posted_date": "2026-04-19",
+        "likes": 7600,
+        "comments": 390,
+        "shares": 300,
+        "post_url": "https://linkedin.com/post/54"
+    },
+    {
+        "id": 55,
+        "platform": "LinkedIn",
+        "author": "GitHub",
+        "author_type": "Organization",
+        "profile_image": "profile_images/github.png",
+        "content": "We are excited to announce new AI powered features within our platform designed to help developers write better code faster, including improved code review suggestions and automated security vulnerability detection integrated directly into pull request workflows. These features are built to complement developer expertise rather than replace critical thinking, providing suggestions that developers can accept, modify, or dismiss based on their own judgment. We remain committed to building tools that genuinely enhance developer productivity while preserving the collaborative and creative aspects of software development that make our craft so rewarding.",
+        "hashtags": [
+            "#GitHub",
+            "#AI",
+            "#DeveloperTools",
+            "#Programming"
+        ],
+        "posted_date": "2026-04-21",
+        "likes": 8200,
+        "comments": 410,
+        "shares": 330,
+        "post_url": "https://linkedin.com/post/55"
+    },
+    {
+        "id": 56,
+        "platform": "LinkedIn",
+        "author": "Kaggle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/kaggle.png",
+        "content": "We are proud to share the results of our recent survey examining career paths and skill development among practicing data scientists across our global community. Findings reveal that hands-on project experience, whether through competitions, personal projects, or open source contributions, correlates more strongly with career advancement than formal credentials alone in many cases. We also found growing demand for professionals who combine strong technical skills with genuine business domain expertise. Full survey results including detailed breakdowns are now available for community members interested in understanding these broader industry trends in depth.",
+        "hashtags": [
+            "#Kaggle",
+            "#DataScience",
+            "#CareerAdvice",
+            "#Survey"
+        ],
+        "posted_date": "2026-04-23",
+        "likes": 5400,
+        "comments": 290,
+        "shares": 210,
+        "post_url": "https://linkedin.com/post/56"
+    },
+    {
+        "id": 57,
+        "platform": "LinkedIn",
+        "author": "Coursera",
+        "author_type": "Organization",
+        "profile_image": "profile_images/coursera.png",
+        "content": "We are excited to announce our updated Machine Learning specialization curriculum, incorporating the latest advancements in deep learning, transformer architectures, and practical model deployment considerations. This program has already helped over three million learners build foundational and advanced machine learning skills since its initial launch. The updated curriculum includes new hands-on projects using industry standard tools and frameworks, along with career guidance modules designed to help learners translate their new skills into concrete job opportunities. Enrollment is now open, with financial aid available for eligible learners around the world.",
+        "hashtags": [
+            "#MachineLearning",
+            "#Coursera",
+            "#Learning",
+            "#Education"
+        ],
+        "posted_date": "2026-04-25",
+        "likes": 6700,
+        "comments": 340,
+        "shares": 260,
+        "post_url": "https://linkedin.com/post/57"
+    },
+    {
+        "id": 58,
+        "platform": "LinkedIn",
+        "author": "Rohit Kapoor",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/rohit_kapoor_recruiter.png",
+        "content": "I am pleased to share that our team is actively recruiting for multiple Software Engineer positions across our platform engineering and product engineering teams. We are looking for candidates with strong fundamentals in computer science, along with genuine curiosity and a collaborative mindset that thrives in cross functional team environments. Our interview process includes a technical screening call, a coding round, and a final panel interview covering system design and behavioral aspects. If this sounds like a good fit for your background and career goals, please feel free to reach out directly or apply through the link shared in the comments.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#Hiring",
+            "#Careers",
+            "#TechJobs"
+        ],
+        "posted_date": "2026-04-27",
+        "likes": 3500,
+        "comments": 250,
+        "shares": 100,
+        "post_url": "https://linkedin.com/post/58"
+    },
+    {
+        "id": 59,
+        "platform": "LinkedIn",
+        "author": "Google Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_careers.png",
+        "content": "We are excited to open applications for our annual global hackathon inviting university students to build innovative solutions addressing challenges in sustainability, healthcare, and education using our latest cloud and AI technologies. Winning teams will receive substantial cash prizes, mentorship opportunities with our senior engineers, and priority consideration for our internship and full time hiring programs. This event reflects our ongoing commitment to identifying and nurturing exceptional technical talent early in their academic journey while encouraging students to apply technology toward meaningful real world problems affecting communities around the globe.",
+        "hashtags": [
+            "#Hackathon",
+            "#GoogleCareers",
+            "#Students",
+            "#Innovation"
+        ],
+        "posted_date": "2026-04-29",
+        "likes": 9300,
+        "comments": 540,
+        "shares": 410,
+        "post_url": "https://linkedin.com/post/59"
+    },
+    {
+        "id": 60,
+        "platform": "LinkedIn",
+        "author": "Microsoft Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_careers.png",
+        "content": "We are hiring Data Scientists to join our commercial software engineering team, working directly with strategic customers to solve complex analytical challenges using our latest AI and machine learning capabilities. This role involves close collaboration with customer teams, translating business problems into technical solutions, and iterating based on real world deployment feedback. Strong candidates will have experience with statistical modeling, cloud based data platforms, and excellent client facing communication skills. This is a unique opportunity to see the direct impact of your data science work on customer outcomes across diverse industries and use cases.",
+        "hashtags": [
+            "#DataScience",
+            "#MicrosoftCareers",
+            "#Hiring",
+            "#Careers"
+        ],
+        "posted_date": "2026-05-01",
+        "likes": 7100,
+        "comments": 380,
+        "shares": 290,
+        "post_url": "https://linkedin.com/post/60"
+    },
+    {
+        "id": 61,
+        "platform": "LinkedIn",
+        "author": "Amazon Jobs",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_jobs.png",
+        "content": "We are pleased to announce the opening of applications for our Cloud Computing Associate program, designed for recent graduates interested in building foundational expertise in cloud infrastructure, security, and solutions architecture. This eighteen month rotational program includes structured training, hands-on project work across different teams, and dedicated mentorship from senior cloud architects. Participants will gain broad exposure to different aspects of our cloud business before specializing in a specific track based on their interests and strengths. We believe this program provides an excellent foundation for a long and rewarding career in cloud technology.",
+        "hashtags": [
+            "#CloudComputing",
+            "#AmazonJobs",
+            "#Careers",
+            "#Hiring"
+        ],
+        "posted_date": "2026-05-03",
+        "likes": 6400,
+        "comments": 410,
+        "shares": 280,
+        "post_url": "https://linkedin.com/post/61"
+    },
+    {
+        "id": 62,
+        "platform": "LinkedIn",
+        "author": "Meta Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_careers.png",
+        "content": "We are hiring Software Engineers to join our infrastructure team responsible for building the systems that power our family of applications used by billions of people daily. This role involves working on challenges related to scalability, reliability, and efficiency at a scale encountered by very few companies in the world. Strong candidates will have deep expertise in distributed systems, strong coding fundamentals, and a genuine passion for solving complex engineering problems. We offer significant technical ownership and the opportunity to work alongside some of the most talented engineers in the industry on genuinely challenging problems.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#MetaCareers",
+            "#Hiring",
+            "#Infrastructure"
+        ],
+        "posted_date": "2026-05-05",
+        "likes": 9800,
+        "comments": 510,
+        "shares": 390,
+        "post_url": "https://linkedin.com/post/62"
+    },
+    {
+        "id": 63,
+        "platform": "LinkedIn",
+        "author": "Neha Bansal",
+        "author_type": "HR Manager",
+        "profile_image": "profile_images/neha_bansal_hr.png",
+        "content": "As we wrap up this year's campus recruiting season, I wanted to share some reflections on what consistently sets candidates apart during our interview process. Beyond technical competence, we place significant value on candidates who demonstrate genuine curiosity, ask thoughtful questions, and show authentic enthusiasm for our mission rather than generic interest in any available job. Preparation matters immensely, but so does authenticity, since interviewers can often tell when responses feel rehearsed versus genuinely reflective of a candidate's actual experiences and motivations. Congratulations to everyone who received offers this season, and best of luck to those still interviewing.",
+        "hashtags": [
+            "#CareerAdvice",
+            "#Hiring",
+            "#CampusHiring",
+            "#InterviewTips"
+        ],
+        "posted_date": "2026-05-07",
+        "likes": 5200,
+        "comments": 420,
+        "shares": 230,
+        "post_url": "https://linkedin.com/post/63"
+    },
+    {
+        "id": 64,
+        "platform": "LinkedIn",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "We are hiring Software Engineers to join our AI platform team, building the software infrastructure that enables researchers and developers around the world to train and deploy large scale machine learning models efficiently. This role involves working on distributed training frameworks, optimizing performance across our hardware and software stack, and collaborating closely with research teams to understand their evolving infrastructure needs. Strong candidates will have deep systems programming experience along with familiarity with machine learning workflows. We offer the opportunity to build foundational tools that directly accelerate AI research and development globally.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#NVIDIA",
+            "#Hiring",
+            "#AI"
+        ],
+        "posted_date": "2026-05-09",
+        "likes": 7400,
+        "comments": 370,
+        "shares": 280,
+        "post_url": "https://linkedin.com/post/64"
+    },
+    {
+        "id": 65,
+        "platform": "LinkedIn",
+        "author": "IBM",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm.png",
+        "content": "We are hiring Cloud Computing Architects to help enterprise clients design and implement hybrid cloud strategies that balance performance, cost, and regulatory compliance considerations. This role involves working closely with client technical teams to assess existing infrastructure, design migration roadmaps, and ensure successful implementation of complex multi cloud environments. Strong candidates will have extensive experience across major cloud platforms along with strong client facing consulting skills. We offer the opportunity to work on high impact enterprise transformation projects across diverse industries within a globally respected technology and consulting organization.",
+        "hashtags": [
+            "#CloudComputing",
+            "#IBM",
+            "#Hiring",
+            "#Enterprise"
+        ],
+        "posted_date": "2026-05-11",
+        "likes": 4300,
+        "comments": 230,
+        "shares": 170,
+        "post_url": "https://linkedin.com/post/65"
+    },
+    {
+        "id": 66,
+        "platform": "LinkedIn",
+        "author": "Oracle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/oracle.png",
+        "content": "We are hosting a virtual career fair next month specifically targeting experienced professionals interested in cloud engineering, database administration, and enterprise software development roles across our global organization. This event will include live technical sessions from our engineering leadership, networking opportunities with current employees, and expedited interview scheduling for qualified candidates. We encourage professionals with three or more years of relevant experience to register in advance, as space for live sessions is limited. This is an excellent opportunity to learn more about our culture and current openings directly from our team members.",
+        "hashtags": [
+            "#CareerFair",
+            "#Oracle",
+            "#Hiring",
+            "#TechJobs"
+        ],
+        "posted_date": "2026-05-13",
+        "likes": 3900,
+        "comments": 260,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/66"
+    },
+    {
+        "id": 67,
+        "platform": "LinkedIn",
+        "author": "Intel",
+        "author_type": "Organization",
+        "profile_image": "profile_images/intel.png",
+        "content": "We are hiring Machine Learning Engineers to join our edge AI team, focused on optimizing AI models for deployment on resource constrained devices including sensors, cameras, and mobile hardware. This role involves working on model quantization, pruning techniques, and hardware aware optimization strategies to maximize performance while minimizing power consumption. Strong candidates will have experience with deep learning frameworks along with a solid understanding of hardware constraints and embedded systems considerations. We offer the opportunity to work at the intersection of AI research and practical hardware deployment across a wide range of real world applications.",
+        "hashtags": [
+            "#MachineLearning",
+            "#Intel",
+            "#Hiring",
+            "#EdgeAI"
+        ],
+        "posted_date": "2026-05-15",
+        "likes": 4900,
+        "comments": 270,
+        "shares": 200,
+        "post_url": "https://linkedin.com/post/67"
+    },
+    {
+        "id": 68,
+        "platform": "LinkedIn",
+        "author": "Adobe",
+        "author_type": "Organization",
+        "profile_image": "profile_images/adobe.png",
+        "content": "We are proud to announce the winners of our annual creative technology hackathon, where participants built innovative applications combining generative AI with traditional creative tools across photography, video editing, and graphic design workflows. The winning team developed an impressive tool that automatically generates style consistent design variations based on a small set of reference images, dramatically reducing time spent on repetitive design tasks. We remain committed to supporting hackathons and innovation challenges that push the boundaries of how AI can meaningfully augment human creativity rather than replace it entirely.",
+        "hashtags": [
+            "#Hackathon",
+            "#Adobe",
+            "#AI",
+            "#Innovation"
+        ],
+        "posted_date": "2026-05-17",
+        "likes": 5600,
+        "comments": 320,
+        "shares": 230,
+        "post_url": "https://linkedin.com/post/68"
+    },
+    {
+        "id": 69,
+        "platform": "LinkedIn",
+        "author": "Infosys Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys_careers.png",
+        "content": "We are proud to share that our organization has been recognized among the top employers for campus recruits, reflecting our comprehensive onboarding, structured career progression paths, and strong employee satisfaction scores among early career professionals. Our fresh graduate program continues to attract thousands of applications each year from top engineering colleges across the country. We remain committed to providing meaningful career opportunities for young talent, combining extensive technical training with exposure to real client projects from the very beginning of their professional journey with our organization.",
+        "hashtags": [
+            "#InfosysCareers",
+            "#CampusHiring",
+            "#Careers",
+            "#Recognition"
+        ],
+        "posted_date": "2026-05-19",
+        "likes": 4600,
+        "comments": 300,
+        "shares": 190,
+        "post_url": "https://linkedin.com/post/69"
+    },
+    {
+        "id": 70,
+        "platform": "LinkedIn",
+        "author": "TCS Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs_careers.png",
+        "content": "We are excited to share that our internal research division has published several papers this quarter exploring practical applications of generative AI in enterprise software testing, automated documentation generation, and intelligent process automation. These research initiatives directly inform how we integrate emerging technologies into our client delivery methodologies across various industries. We remain committed to fostering a culture of innovation and continuous learning among our technical teams, providing employees with opportunities to contribute to meaningful research alongside their regular client project responsibilities throughout their careers with us.",
+        "hashtags": [
+            "#Research",
+            "#TCSCareers",
+            "#AI",
+            "#Innovation"
+        ],
+        "posted_date": "2026-05-21",
+        "likes": 3800,
+        "comments": 210,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/70"
+    },
+    {
+        "id": 71,
+        "platform": "LinkedIn",
+        "author": "Accenture",
+        "author_type": "Organization",
+        "profile_image": "profile_images/accenture.png",
+        "content": "We are hiring experienced Data Science professionals to join our advanced analytics practice, helping clients across industries build predictive models that drive measurable business impact. This role involves the full lifecycle of model development, from initial data exploration through deployment and ongoing monitoring in production environments. Strong candidates will have strong statistical foundations, programming proficiency in Python or R, and the ability to communicate complex analytical findings to executive stakeholders effectively. We offer significant opportunities for professional growth within our rapidly expanding data and AI consulting practice serving clients globally.",
+        "hashtags": [
+            "#DataScience",
+            "#Accenture",
+            "#Hiring",
+            "#Careers"
+        ],
+        "posted_date": "2026-05-23",
+        "likes": 4200,
+        "comments": 240,
+        "shares": 170,
+        "post_url": "https://linkedin.com/post/71"
+    },
+    {
+        "id": 72,
+        "platform": "LinkedIn",
+        "author": "PwC",
+        "author_type": "Organization",
+        "profile_image": "profile_images/pwc.png",
+        "content": "We are excited to announce our new graduate rotational program specifically designed for students interested in exploring various aspects of technology consulting before committing to a specific specialization. Over two years, participants will rotate across teams focused on cloud transformation, cybersecurity, and data analytics, gaining broad exposure that helps inform their eventual career specialization decision. This program includes structured mentorship, formal training modules, and regular check ins with career advisors dedicated to supporting program participants throughout their rotational journey within our organization.",
+        "hashtags": [
+            "#GraduateProgram",
+            "#PwC",
+            "#Careers",
+            "#Hiring"
+        ],
+        "posted_date": "2026-05-25",
+        "likes": 3700,
+        "comments": 220,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/72"
+    },
+    {
+        "id": 73,
+        "platform": "LinkedIn",
+        "author": "Deloitte",
+        "author_type": "Organization",
+        "profile_image": "profile_images/deloitte.png",
+        "content": "We are hiring Data Scientists to join our AI and analytics practice, working on client engagements spanning fraud detection, customer churn prediction, and operational efficiency optimization across industries including banking, insurance, and healthcare. This role involves close collaboration with client stakeholders to understand business context, followed by hands-on model development and deployment support. Strong candidates will have practical machine learning experience along with strong business acumen and client facing communication skills. We offer significant opportunities to apply data science across diverse industry contexts within our expanding consulting practice.",
+        "hashtags": [
+            "#DataScience",
+            "#Deloitte",
+            "#Hiring",
+            "#Consulting"
+        ],
+        "posted_date": "2026-05-27",
+        "likes": 4100,
+        "comments": 230,
+        "shares": 160,
+        "post_url": "https://linkedin.com/post/73"
+    },
+    {
+        "id": 74,
+        "platform": "LinkedIn",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "We are proud to share insights from our engineering blog detailing how our data science teams design and analyze large scale A/B tests to continuously improve the member experience across every device and region we operate in. Running experiments at our scale requires careful statistical rigor to avoid drawing false conclusions from noisy data, along with robust infrastructure capable of handling millions of concurrent test variants reliably. We remain committed to sharing our engineering practices openly with the broader community, and we are actively hiring data scientists passionate about experimentation at genuinely massive scale.",
+        "hashtags": [
+            "#DataScience",
+            "#Netflix",
+            "#Hiring",
+            "#Experimentation"
+        ],
+        "posted_date": "2026-05-29",
+        "likes": 6800,
+        "comments": 360,
+        "shares": 270,
+        "post_url": "https://linkedin.com/post/74"
+    },
+    {
+        "id": 75,
+        "platform": "LinkedIn",
+        "author": "GitHub",
+        "author_type": "Organization",
+        "profile_image": "profile_images/github.png",
+        "content": "We are hiring Software Engineers to join our platform team responsible for the core infrastructure that supports millions of repositories and billions of code contributions from developers around the world. This role involves working on challenges related to scalability, reliability, and performance at a truly massive scale. Strong candidates will have deep expertise in distributed systems and a genuine passion for building tools that empower the global developer community. We offer the opportunity to work on infrastructure that directly underpins how modern software gets built collaboratively across every industry imaginable today.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#GitHub",
+            "#Hiring",
+            "#Infrastructure"
+        ],
+        "posted_date": "2026-05-31",
+        "likes": 7500,
+        "comments": 390,
+        "shares": 300,
+        "post_url": "https://linkedin.com/post/75"
+    },
+    {
+        "id": 76,
+        "platform": "LinkedIn",
+        "author": "Kaggle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/kaggle.png",
+        "content": "We are excited to announce a new partnership with leading universities to integrate our competition platform directly into machine learning coursework, giving students hands-on practical experience alongside their theoretical studies. Participating professors will have access to specialized educational competition formats along with detailed analytics on student progress and engagement. We believe this integration of practical, competitive learning experiences with formal academic curricula creates a more well rounded educational experience for aspiring data scientists. Universities interested in participating in this partnership program can reach out through the link shared in the comments below.",
+        "hashtags": [
+            "#Kaggle",
+            "#Education",
+            "#DataScience",
+            "#Partnership"
+        ],
+        "posted_date": "2026-06-02",
+        "likes": 4700,
+        "comments": 260,
+        "shares": 190,
+        "post_url": "https://linkedin.com/post/76"
+    },
+    {
+        "id": 77,
+        "platform": "LinkedIn",
+        "author": "Coursera",
+        "author_type": "Organization",
+        "profile_image": "profile_images/coursera.png",
+        "content": "We are pleased to share that our Cyber Security professional certificate program has now helped over one million learners build foundational and advanced skills in this critical and rapidly growing field. The curriculum covers network security fundamentals, ethical hacking techniques, and incident response strategies, taught by industry practitioners with real world security experience. Graduates of this program have gone on to secure roles ranging from security analyst positions to specialized penetration testing roles across various industries. Enrollment remains open, with flexible payment options available to make this program accessible to learners everywhere.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#Coursera",
+            "#Learning",
+            "#Education"
+        ],
+        "posted_date": "2026-06-04",
+        "likes": 5900,
+        "comments": 310,
+        "shares": 240,
+        "post_url": "https://linkedin.com/post/77"
+    },
+    {
+        "id": 78,
+        "platform": "LinkedIn",
+        "author": "Arjun Nair",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/arjun_nair_recruiter.png",
+        "content": "I am pleased to share that we are hiring for multiple Cyber Security Analyst positions across our security operations center, responsible for monitoring, detecting, and responding to security incidents affecting our organization's infrastructure. Ideal candidates will have relevant security certifications along with hands-on experience with security information and event management tools. This role offers the opportunity to work on genuinely high stakes security challenges within a collaborative team environment that values continuous learning and professional certification support. Interested candidates can reach out directly or apply through the posting linked in the comments below.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#Hiring",
+            "#Careers",
+            "#SecurityJobs"
+        ],
+        "posted_date": "2026-06-06",
+        "likes": 3600,
+        "comments": 210,
+        "shares": 130,
+        "post_url": "https://linkedin.com/post/78"
+    },
+    {
+        "id": 79,
+        "platform": "LinkedIn",
+        "author": "Google Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/google_careers.png",
+        "content": "We are excited to share that our Software Engineer University Graduate program is now accepting applications from students graduating this academic year across computer science and related engineering disciplines. This role offers new graduates the opportunity to work on impactful projects from day one, supported by structured onboarding, dedicated mentorship, and a strong community of fellow new graduates navigating similar career stages together. Our interview process assesses coding proficiency, problem solving approach, and collaborative communication skills through a combination of technical and behavioral interview rounds. We encourage all eligible graduating students to apply before positions fill.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#GoogleCareers",
+            "#CampusHiring",
+            "#Hiring"
+        ],
+        "posted_date": "2026-06-08",
+        "likes": 9700,
+        "comments": 580,
+        "shares": 440,
+        "post_url": "https://linkedin.com/post/79"
+    },
+    {
+        "id": 80,
+        "platform": "LinkedIn",
+        "author": "Microsoft Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/microsoft_careers.png",
+        "content": "We are hiring Cyber Security Researchers to join our threat intelligence team, responsible for identifying, analyzing, and responding to emerging security threats affecting our global network of products and services. This role involves reverse engineering malware samples, tracking threat actor behavior patterns, and collaborating with law enforcement and industry partners on coordinated response efforts. Strong candidates will have deep technical expertise in security research along with the ability to communicate findings clearly to both technical and executive audiences. We remain committed to building a world class security team dedicated to protecting our global user base.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#MicrosoftCareers",
+            "#Hiring",
+            "#Research"
+        ],
+        "posted_date": "2026-06-10",
+        "likes": 6500,
+        "comments": 340,
+        "shares": 260,
+        "post_url": "https://linkedin.com/post/80"
+    },
+    {
+        "id": 81,
+        "platform": "LinkedIn",
+        "author": "Amazon Jobs",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_jobs.png",
+        "content": "We are excited to open applications for our AI Internship Program for students pursuing advanced degrees in machine learning, computer science, or related quantitative fields. Interns will work on real production challenges across areas including recommendation systems, natural language processing, and computer vision applications used by millions of customers daily. This program includes dedicated mentorship from senior applied scientists, technical seminars, and the opportunity to convert to a full time offer based on strong performance throughout the internship. We are looking for candidates with strong theoretical foundations combined with practical implementation experience through prior projects or research.",
+        "hashtags": [
+            "#AIInternship",
+            "#AmazonJobs",
+            "#Hiring",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-06-12",
+        "likes": 9100,
+        "comments": 530,
+        "shares": 400,
+        "post_url": "https://linkedin.com/post/81"
+    },
+    {
+        "id": 82,
+        "platform": "LinkedIn",
+        "author": "Meta Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_careers.png",
+        "content": "We are hiring Business Intelligence Analysts to join our internal analytics team, helping business leaders across the organization make data driven decisions through clear, actionable reporting and analysis. This role involves building automated dashboards, conducting ad hoc analyses to answer pressing business questions, and collaborating closely with stakeholders to understand their evolving data needs. Strong candidates will have proficiency in SQL, data visualization tools, and strong business communication skills. We offer the opportunity to directly influence strategic decisions at a company whose products are used by billions of people worldwide every single day.",
+        "hashtags": [
+            "#BusinessIntelligence",
+            "#MetaCareers",
+            "#Hiring",
+            "#Analytics"
+        ],
+        "posted_date": "2026-06-14",
+        "likes": 7300,
+        "comments": 390,
+        "shares": 300,
+        "post_url": "https://linkedin.com/post/82"
+    },
+    {
+        "id": 83,
+        "platform": "LinkedIn",
+        "author": "Deepika Rao",
+        "author_type": "HR Manager",
+        "profile_image": "profile_images/deepika_rao_hr.png",
+        "content": "I wanted to share some career advice for professionals feeling stuck or unfulfilled in their current roles despite outward signs of career success. Sometimes the right move is not necessarily a completely new industry or company, but rather having an honest conversation with your current manager about taking on different responsibilities that better align with your genuine interests and long term goals. Internal mobility is often underutilized simply because employees assume it is not an option, when in reality most organizations, including our own, actively encourage and support internal career transitions across teams and functions.",
+        "hashtags": [
+            "#CareerAdvice",
+            "#ProfessionalDevelopment",
+            "#Careers",
+            "#Motivation"
+        ],
+        "posted_date": "2026-06-16",
+        "likes": 5800,
+        "comments": 460,
+        "shares": 260,
+        "post_url": "https://linkedin.com/post/83"
+    },
+    {
+        "id": 84,
+        "platform": "LinkedIn",
+        "author": "NVIDIA",
+        "author_type": "Organization",
+        "profile_image": "profile_images/nvidia.png",
+        "content": "We are hiring Deep Learning Researchers to join our generative AI team, working on advancing state of the art techniques in image, video, and 3D content generation. This role involves designing novel model architectures, conducting rigorous experimental evaluations, and publishing findings at top tier machine learning conferences. Strong candidates will have a strong publication record in relevant research areas along with hands-on implementation experience using modern deep learning frameworks. We offer access to significant computational resources and the opportunity to collaborate with some of the leading researchers in generative AI within a highly research focused environment.",
+        "hashtags": [
+            "#DeepLearning",
+            "#NVIDIA",
+            "#Research",
+            "#Hiring"
+        ],
+        "posted_date": "2026-06-18",
+        "likes": 8400,
+        "comments": 410,
+        "shares": 330,
+        "post_url": "https://linkedin.com/post/84"
+    },
+    {
+        "id": 85,
+        "platform": "LinkedIn",
+        "author": "IBM",
+        "author_type": "Organization",
+        "profile_image": "profile_images/ibm.png",
+        "content": "We are hiring Prompt Engineering specialists to join our AI solutions team, helping enterprise clients design effective prompting strategies for integrating large language models into their business workflows. This role involves collaborating closely with client teams to understand specific use cases, iteratively refining prompts to improve output quality and consistency, and developing evaluation frameworks to measure performance against business objectives. Strong candidates will have hands-on experience working with language models along with strong analytical and communication skills. We offer the opportunity to work at the forefront of applied generative AI across diverse enterprise contexts globally.",
+        "hashtags": [
+            "#PromptEngineering",
+            "#IBM",
+            "#Hiring",
+            "#AI"
+        ],
+        "posted_date": "2026-06-20",
+        "likes": 5300,
+        "comments": 290,
+        "shares": 210,
+        "post_url": "https://linkedin.com/post/85"
+    },
+    {
+        "id": 86,
+        "platform": "LinkedIn",
+        "author": "Oracle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/oracle.png",
+        "content": "We are hiring Data Scientists to join our healthcare analytics division, working on solutions that help hospitals and healthcare providers improve patient outcomes through predictive analytics and clinical decision support tools. This role involves collaborating closely with clinical stakeholders to ensure models are both statistically robust and practically usable within real world healthcare workflows. Strong candidates will have experience with healthcare data along with a genuine passion for applying data science to improve patient care outcomes. We offer the opportunity to work on meaningful projects that directly impact healthcare delivery across diverse patient populations and care settings.",
+        "hashtags": [
+            "#DataScience",
+            "#Oracle",
+            "#Hiring",
+            "#Healthcare"
+        ],
+        "posted_date": "2026-06-22",
+        "likes": 4100,
+        "comments": 230,
+        "shares": 170,
+        "post_url": "https://linkedin.com/post/86"
+    },
+    {
+        "id": 87,
+        "platform": "LinkedIn",
+        "author": "Intel",
+        "author_type": "Organization",
+        "profile_image": "profile_images/intel.png",
+        "content": "We are hosting a technical webinar series covering advanced topics in AI accelerator design, open to students, researchers, and industry professionals interested in deepening their understanding of specialized hardware for machine learning workloads. Sessions will be led by our senior hardware architects and will cover topics ranging from fundamental chip design principles to cutting edge research in energy efficient AI computing. This series reflects our ongoing commitment to knowledge sharing within the broader technical community, and we encourage anyone interested in this rapidly evolving field to register for upcoming sessions through the link provided below.",
+        "hashtags": [
+            "#Intel",
+            "#AI",
+            "#Webinar",
+            "#Technology"
+        ],
+        "posted_date": "2026-06-24",
+        "likes": 3400,
+        "comments": 190,
+        "shares": 130,
+        "post_url": "https://linkedin.com/post/87"
+    },
+    {
+        "id": 88,
+        "platform": "LinkedIn",
+        "author": "Adobe",
+        "author_type": "Organization",
+        "profile_image": "profile_images/adobe.png",
+        "content": "We are hiring Cloud Computing Engineers to join our infrastructure team responsible for the systems that power our creative cloud services used by millions of subscribers worldwide. This role involves designing scalable storage solutions, optimizing content delivery performance, and ensuring high availability across our global infrastructure footprint. Strong candidates will have deep expertise in distributed systems and cloud native architecture patterns. We offer the opportunity to work on infrastructure challenges that directly support the creative workflows of designers, photographers, and video editors around the world within a collaborative and innovation focused engineering culture.",
+        "hashtags": [
+            "#CloudComputing",
+            "#Adobe",
+            "#Hiring",
+            "#Infrastructure"
+        ],
+        "posted_date": "2026-06-26",
+        "likes": 4600,
+        "comments": 250,
+        "shares": 180,
+        "post_url": "https://linkedin.com/post/88"
+    },
+    {
+        "id": 89,
+        "platform": "LinkedIn",
+        "author": "Infosys Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/infosys_careers.png",
+        "content": "We are excited to share that our specialized AI and Machine Learning fresher recruitment track has received an overwhelming response this year, with applications up significantly compared to last year's cycle. This track is specifically designed for candidates with strong academic foundations in machine learning, offering fast tracked technical interviews and direct placement into our AI center of excellence upon successful selection. We remain committed to identifying and nurturing exceptional AI talent early in their careers, providing structured mentorship and exposure to enterprise scale AI implementation projects from the very beginning of their professional journey.",
+        "hashtags": [
+            "#AI",
+            "#InfosysCareers",
+            "#CampusHiring",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-06-28",
+        "likes": 5400,
+        "comments": 370,
+        "shares": 250,
+        "post_url": "https://linkedin.com/post/89"
+    },
+    {
+        "id": 90,
+        "platform": "LinkedIn",
+        "author": "TCS Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/tcs_careers.png",
+        "content": "We are proud to announce a new strategic partnership with leading engineering institutions to offer specialized research fellowships for graduate students working on applied AI research relevant to enterprise use cases. Selected fellows will receive funding support along with mentorship from our senior research scientists, and the opportunity to co-author publications exploring practical applications of AI in areas including natural language processing and computer vision. This initiative reflects our belief that strong academic and industry collaboration accelerates meaningful innovation, and we look forward to seeing the research contributions from this inaugural fellowship cohort.",
+        "hashtags": [
+            "#Research",
+            "#TCSCareers",
+            "#AI",
+            "#Fellowship"
+        ],
+        "posted_date": "2026-06-30",
+        "likes": 4200,
+        "comments": 240,
+        "shares": 170,
+        "post_url": "https://linkedin.com/post/90"
+    },
+    {
+        "id": 91,
+        "platform": "LinkedIn",
+        "author": "Accenture",
+        "author_type": "Organization",
+        "profile_image": "profile_images/accenture.png",
+        "content": "We are hiring Software Engineers to join our technology innovation lab, working on prototyping emerging technology solutions before they are scaled into full client engagements. This role involves rapid experimentation with new technologies including generative AI, blockchain, and extended reality applications, collaborating closely with client stakeholders to validate potential use cases before larger scale investment decisions are made. Strong candidates will have strong fundamentals combined with genuine curiosity about emerging technology trends. We offer the opportunity to work on cutting edge experimentation within a structured consulting environment that values both innovation and practical business impact for clients.",
+        "hashtags": [
+            "#SoftwareEngineer",
+            "#Accenture",
+            "#Hiring",
+            "#Innovation"
+        ],
+        "posted_date": "2026-07-01",
+        "likes": 3900,
+        "comments": 220,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/91"
+    },
+    {
+        "id": 92,
+        "platform": "LinkedIn",
+        "author": "PwC",
+        "author_type": "Organization",
+        "profile_image": "profile_images/pwc.png",
+        "content": "We are hiring Machine Learning Engineers to join our emerging technology practice, helping clients across financial services and insurance industries deploy predictive models for fraud detection and risk assessment applications. This role involves the full model development lifecycle, from data exploration through production deployment and ongoing performance monitoring within regulated industry environments. Strong candidates will have practical machine learning experience combined with an understanding of regulatory and compliance considerations relevant to these highly regulated industries. We offer significant opportunities for professional growth within our expanding AI and analytics consulting practice serving global financial institutions.",
+        "hashtags": [
+            "#MachineLearning",
+            "#PwC",
+            "#Hiring",
+            "#FinancialServices"
+        ],
+        "posted_date": "2026-07-02",
+        "likes": 3600,
+        "comments": 200,
+        "shares": 140,
+        "post_url": "https://linkedin.com/post/92"
+    },
+    {
+        "id": 93,
+        "platform": "LinkedIn",
+        "author": "Deloitte",
+        "author_type": "Organization",
+        "profile_image": "profile_images/deloitte.png",
+        "content": "We are proud to share the results of our latest workforce trends survey examining how professionals across industries are adapting their skill sets in response to advancing AI capabilities. Findings reveal that professionals proactively upskilling in areas complementing AI, such as complex problem solving and interpersonal communication, report significantly higher job satisfaction and career confidence compared to peers who have not adapted their skill development strategies. Our consulting teams continue to help organizations design effective workforce transformation strategies that support employees through this significant period of technological change across every major industry sector.",
+        "hashtags": [
+            "#FutureOfWork",
+            "#Deloitte",
+            "#CareerAdvice",
+            "#AI"
+        ],
+        "posted_date": "2026-07-03",
+        "likes": 4800,
+        "comments": 320,
+        "shares": 230,
+        "post_url": "https://linkedin.com/post/93"
+    },
+    {
+        "id": 94,
+        "platform": "LinkedIn",
+        "author": "Netflix Tech",
+        "author_type": "Organization",
+        "profile_image": "profile_images/netflix_tech.png",
+        "content": "We are hiring Research Scientists to join our applied science team, working on advancing the state of the art in personalization algorithms that help hundreds of millions of members discover content tailored to their unique preferences. This role involves designing novel modeling approaches, running rigorous experiments to validate improvements, and collaborating closely with engineering teams to bring research innovations into production systems at scale. Strong candidates will have a strong research background combined with practical implementation skills. We offer the opportunity to work on genuinely challenging problems at the intersection of research and real world product impact.",
+        "hashtags": [
+            "#Research",
+            "#Netflix",
+            "#Hiring",
+            "#MachineLearning"
+        ],
+        "posted_date": "2026-07-04",
+        "likes": 6900,
+        "comments": 360,
+        "shares": 280,
+        "post_url": "https://linkedin.com/post/94"
+    },
+    {
+        "id": 95,
+        "platform": "LinkedIn",
+        "author": "GitHub",
+        "author_type": "Organization",
+        "profile_image": "profile_images/github.png",
+        "content": "We are excited to share results from our annual open source survey, revealing that project maintainers who actively engage with first time contributors through clear documentation and welcoming communication see significantly higher long term contributor retention rates. This finding reinforces our belief that fostering inclusive, well documented open source communities directly strengthens the health and sustainability of software projects over time. We remain committed to building tools and resources that help maintainers create genuinely welcoming environments for contributors of every experience level, and we encourage project owners to review our updated community health guidelines available on our platform.",
+        "hashtags": [
+            "#OpenSource",
+            "#GitHub",
+            "#Community",
+            "#Programming"
+        ],
+        "posted_date": "2026-07-05",
+        "likes": 5100,
+        "comments": 270,
+        "shares": 200,
+        "post_url": "https://linkedin.com/post/95"
+    },
+    {
+        "id": 96,
+        "platform": "LinkedIn",
+        "author": "Kaggle",
+        "author_type": "Organization",
+        "profile_image": "profile_images/kaggle.png",
+        "content": "We are excited to announce our upcoming AI Internship focused challenge series, specifically designed to give students hands-on experience with problems similar to those they might encounter during real world machine learning internships. Each challenge in this series will simulate an authentic business scenario, requiring participants to navigate ambiguous requirements, communicate their approach clearly, and iterate based on simulated stakeholder feedback. We believe this format better prepares students for the practical realities of applied data science roles compared to purely academic competition formats. Registration for the first challenge in this series opens next week.",
+        "hashtags": [
+            "#Kaggle",
+            "#AIInternship",
+            "#DataScience",
+            "#Learning"
+        ],
+        "posted_date": "2026-02-01",
+        "likes": 4400,
+        "comments": 230,
+        "shares": 180,
+        "post_url": "https://linkedin.com/post/96"
+    },
+    {
+        "id": 97,
+        "platform": "LinkedIn",
+        "author": "Coursera",
+        "author_type": "Organization",
+        "profile_image": "profile_images/coursera.png",
+        "content": "We are pleased to announce a new specialization covering advanced business intelligence techniques, designed for professionals looking to build expertise in data warehousing, dashboard design, and stakeholder communication strategies. This program includes hands-on projects using industry standard business intelligence tools, along with case studies drawn from real enterprise scenarios across retail, finance, and healthcare industries. We believe strong business intelligence skills remain highly valuable across virtually every industry as organizations increasingly rely on data driven decision making. Enrollment is now open, with a completion certificate available upon finishing all required coursework and projects.",
+        "hashtags": [
+            "#BusinessIntelligence",
+            "#Coursera",
+            "#Learning",
+            "#DataAnalytics"
+        ],
+        "posted_date": "2026-03-15",
+        "likes": 3900,
+        "comments": 200,
+        "shares": 150,
+        "post_url": "https://linkedin.com/post/97"
+    },
+    {
+        "id": 98,
+        "platform": "LinkedIn",
+        "author": "Meera Subramaniam",
+        "author_type": "Recruiter",
+        "profile_image": "profile_images/meera_subramaniam_recruiter.png",
+        "content": "I am excited to share that we are hiring Python Developers with experience in Flask and Django frameworks to join our fast growing engineering team building enterprise SaaS solutions. Ideal candidates will have strong experience designing RESTful APIs, working with relational and non-relational databases, and writing clean, well tested code. This role offers significant ownership over feature development in a collaborative, fast paced startup environment where your contributions will directly shape our product roadmap. If this opportunity interests you or someone in your network, please feel free to reach out or apply through the link shared in the comments.",
+        "hashtags": [
+            "#PythonDeveloper",
+            "#Flask",
+            "#Hiring",
+            "#Careers"
+        ],
+        "posted_date": "2026-04-30",
+        "likes": 3300,
+        "comments": 210,
+        "shares": 100,
+        "post_url": "https://linkedin.com/post/98"
+    },
+    {
+        "id": 99,
+        "platform": "LinkedIn",
+        "author": "Amazon Jobs",
+        "author_type": "Organization",
+        "profile_image": "profile_images/amazon_jobs.png",
+        "content": "We are hiring experienced Cyber Security Engineers to join our cloud security team, responsible for ensuring the security of infrastructure services relied upon by millions of businesses worldwide. This role involves conducting security architecture reviews, developing automated security tooling, and responding to security incidents with urgency and precision. Strong candidates will have deep expertise across cloud security domains along with relevant industry certifications. We offer the opportunity to work on security challenges at a truly massive scale, protecting infrastructure that underpins businesses across virtually every industry around the globe today.",
+        "hashtags": [
+            "#CyberSecurity",
+            "#AmazonJobs",
+            "#Hiring",
+            "#CloudComputing"
+        ],
+        "posted_date": "2026-05-28",
+        "likes": 6200,
+        "comments": 330,
+        "shares": 250,
+        "post_url": "https://linkedin.com/post/99"
+    },
+    {
+        "id": 100,
+        "platform": "LinkedIn",
+        "author": "Meta Careers",
+        "author_type": "Organization",
+        "profile_image": "profile_images/meta_careers.png",
+        "content": "As we close out another year of significant growth and innovation, we want to extend our sincere gratitude to every employee, partner, and community member who has contributed to our mission of building technology that helps people connect and build community. Looking ahead, we remain focused on investing in emerging areas including artificial intelligence, mixed reality, and next generation communication tools, while continuing to prioritize the safety and wellbeing of the billions of people who use our products daily. We are excited about the opportunities ahead and look forward to continuing to grow our talented team in the coming year.",
+        "hashtags": [
+            "#MetaCareers",
+            "#Careers",
+            "#Technology",
+            "#Hiring"
+        ],
+        "posted_date": "2026-01-01",
+        "likes": 8600,
+        "comments": 470,
+        "shares": 360,
+        "post_url": "https://linkedin.com/post/100"
+    }
+]
