@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SocialMind AI</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    <div class="container">
+
+        <div class="hero">
+
+            <h1>SocialMind AI</h1>
+
+            <p class="subtitle">
+                AI-Powered Social Media Post Search & Filtering
+            </p>
+
+            <form action="/search" method="POST">
+
+                <div class="input-group input-group-lg mt-4">
+
+                    <input
+                        type="text"
+                        class="form-control"
+                        name="query"
+                        placeholder="Search AI Internship, Machine Learning, Python..."
+                        required>
+
+                    <button class="btn btn-primary" type="submit">
+
+                        Search
+
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+        <div class="features mt-5">
+
+            <div class="row">
+
+                <div class="col-md-4">
+
+                    <div class="card feature-card">
+
+                        <h4>Instagram</h4>
+
+                        <p>
+                            Search AI-filtered Instagram posts.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4">
+
+                    <div class="card feature-card">
+
+                        <h4>Facebook</h4>
+
+                        <p>
+                            Search relevant Facebook posts.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4">
+
+                    <div class="card feature-card">
+
+                        <h4>LinkedIn</h4>
+
+                        <p>
+                            Discover professional opportunities and posts.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,154 @@
+/* ===============================
+   SocialMind AI
+   style.css
+================================ */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:linear-gradient(135deg,#0f172a,#1e293b,#334155);
+    min-height:100vh;
+    color:white;
+}
+
+.container{
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+.hero{
+    text-align:center;
+}
+
+.hero h1{
+    font-size:60px;
+    font-weight:bold;
+    margin-bottom:15px;
+}
+
+.subtitle{
+    font-size:20px;
+    color:#cbd5e1;
+}
+
+.input-group{
+    max-width:850px;
+    margin:auto;
+}
+
+.form-control{
+    border-radius:12px 0 0 12px !important;
+    padding:16px;
+    font-size:18px;
+    border:none;
+}
+
+.form-control:focus{
+    box-shadow:0 0 15px rgba(59,130,246,.5);
+}
+
+.btn-primary{
+    border-radius:0 12px 12px 0 !important;
+    background:#2563eb;
+    border:none;
+    padding:0 35px;
+    font-size:18px;
+}
+
+.btn-primary:hover{
+    background:#1d4ed8;
+}
+
+.feature-card{
+    background:rgba(255,255,255,.08);
+    backdrop-filter:blur(10px);
+    border:none;
+    border-radius:18px;
+    color:white;
+    text-align:center;
+    padding:30px;
+    margin-top:25px;
+    transition:.3s;
+}
+
+.feature-card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 12px 25px rgba(0,0,0,.35);
+}
+
+.card{
+    background:white;
+    color:#1e293b;
+    border:none;
+    border-radius:20px;
+}
+
+.card-body{
+    padding:30px;
+}
+
+.badge{
+    font-size:14px;
+    margin-left:10px;
+}
+
+img{
+    border:3px solid #2563eb;
+}
+
+hr{
+    margin:18px 0;
+}
+
+.col strong{
+    display:block;
+    margin-top:5px;
+    font-size:18px;
+}
+
+.alert{
+    border-radius:15px;
+}
+
+.btn-outline-primary{
+    border-radius:10px;
+}
+
+@media(max-width:768px){
+
+.hero h1{
+    font-size:40px;
+}
+
+.subtitle{
+    font-size:16px;
+}
+
+.input-group{
+    flex-direction:column;
+}
+
+.form-control{
+    border-radius:12px !important;
+    margin-bottom:10px;
+}
+
+.btn-primary{
+    border-radius:12px !important;
+    width:100%;
+}
+
+.card-body{
+    text-align:center;
+}
+
+img{
+    margin-bottom:20px;
+}
+
+}
