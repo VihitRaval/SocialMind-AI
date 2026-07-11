@@ -10,107 +10,158 @@ Project: SocialMind AI
 
 from flask import Flask, render_template, request
 from services.search_service import SearchService
+import time
 
-# ---------------------------------------------------
+# =====================================================
 # Flask Application
-# ---------------------------------------------------
+# =====================================================
 
 app = Flask(__name__)
 
-print("=" * 60)
-print("Starting SocialMind AI...")
-print("=" * 60)
+print("=" * 70)
+print("🚀 Starting SocialMind AI...")
+print("=" * 70)
 
-# ---------------------------------------------------
-# Initialize AI Search Service
-# ---------------------------------------------------
+# =====================================================
+# Initialize Search Service
+# =====================================================
 
 search_service = SearchService()
 
-print("SocialMind AI is Ready!")
-print("=" * 60)
+print("✅ Search Service Initialized Successfully")
+print("=" * 70)
 
 
-# ---------------------------------------------------
+# =====================================================
 # Home Page
-# ---------------------------------------------------
+# =====================================================
 
 @app.route("/")
 def home():
-    """
-    Display the homepage.
-    """
-    return render_template("index.html")
+
+    stats = search_service.platform_statistics()
+
+    total_posts = search_service.total_posts()
+
+    model_info = search_service.search_engine_information()
+
+    return render_template(
+        "index.html",
+        total_posts=total_posts,
+        platform_stats=stats,
+        model_info=model_info
+    )
 
 
-# ---------------------------------------------------
-# Search Route
-# ---------------------------------------------------
+# =====================================================
+# Search Page
+# =====================================================
 
 @app.route("/search", methods=["POST"])
 def search():
 
-    # Get search query
     query = request.form.get("query", "").strip()
 
-    # Empty query
     if not query:
+
         return render_template(
             "results.html",
-            query=query,
+            query="",
             results=[],
-            total_results=0
+            total_results=0,
+            search_time=0,
+            model_name="all-MiniLM-L6-v2"
         )
 
-    # AI Semantic Search
-    results = search_service.search(query)
+    start_time = time.perf_counter()
+
+    try:
+
+        results = search_service.search(query)
+
+    except Exception as error:
+
+        print(f"Search Error : {error}")
+
+        results = []
+
+    end_time = time.perf_counter()
+
+    search_time = round(end_time - start_time, 4)
 
     return render_template(
+
         "results.html",
+
         query=query,
+
         results=results,
-        total_results=len(results)
+
+        total_results=len(results),
+
+        search_time=search_time,
+
+        model_name="all-MiniLM-L6-v2"
+
     )
 
 
-# ---------------------------------------------------
-# About Page (Optional)
-# ---------------------------------------------------
+# =====================================================
+# About API
+# =====================================================
 
 @app.route("/about")
 def about():
 
-    info = search_service.search_engine_information()
+    model = search_service.search_engine_information()
 
     return {
+
         "Project": "SocialMind AI",
+
+        "Description": "AI-Powered Social Media Search Engine",
+
         "AI Model": "Sentence Transformers",
-        "Embedding Dimension": info["embedding_dimension"],
-        "Indexed Posts": info["total_posts"]
+
+        "Embedding Dimension": model["embedding_dimension"],
+
+        "Indexed Posts": model["total_posts"]
+
     }
 
 
-# ---------------------------------------------------
-# Health Check
-# ---------------------------------------------------
+# =====================================================
+# Health Check API
+# =====================================================
 
 @app.route("/health")
 def health():
 
     return {
+
         "status": "Running",
-        "project": "SocialMind AI"
+
+        "application": "SocialMind AI",
+
+        "database": "SQLite",
+
+        "ai_model": "all-MiniLM-L6-v2"
+
     }
 
 
-# ---------------------------------------------------
+# =====================================================
 # Run Flask
-# ---------------------------------------------------
+# =====================================================
 
 if __name__ == "__main__":
 
     app.run(
+
         host="0.0.0.0",
+
         port=5001,
+
         debug=True
+
     )

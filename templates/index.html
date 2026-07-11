@@ -16,84 +16,102 @@
 </head>
 
 <body>
-    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
-    <div class="container">
+<div class="container">
 
-        <div class="hero">
+    <!-- Hero Section -->
 
-            <h1>SocialMind AI</h1>
+    <section class="hero">
 
-            <p class="subtitle">
-                AI-Powered Social Media Post Search & Filtering
-            </p>
+        <h1>🚀 SocialMind AI</h1>
 
-            <form action="/search" method="POST">
+        <p class="subtitle">
 
-                <div class="input-group input-group-lg mt-4">
+            AI-Powered Social Media Search & Intelligent Filtering System
 
-                    <input
-                        type="text"
-                        class="form-control"
-                        name="query"
-                        placeholder="Search AI Internship, Machine Learning, Python..."
-                        required>
+        </p>
 
-                    <button class="btn btn-primary" type="submit">
+        <p class="description">
 
-                        Search
+            Search across Instagram, Facebook, and LinkedIn using
+            Semantic Search powered by Sentence Transformers.
 
-                    </button>
+        </p>
 
-                </div>
+        <form action="/search" method="POST">
 
-            </form>
+            <div class="input-group input-group-lg mt-4">
 
-        </div>
+                <input
+                    type="text"
+                    class="form-control"
+                    name="query"
+                    placeholder="Search AI Internship, Machine Learning, Python..."
+                    required>
 
-        <div class="features mt-5">
+                <button
+                    class="btn btn-primary"
+                    type="submit">
 
-            <div class="row">
+                    🔍 Search
 
-                <div class="col-md-4">
+                </button>
 
-                    <div class="card feature-card">
+            </div>
 
-                        <h4>Instagram</h4>
+        </form>
 
-                        <p>
-                            Search AI-filtered Instagram posts.
-                        </p>
+    </section>
 
-                    </div>
+    <!-- Statistics -->
 
-                </div>
+    <section class="mt-5">
 
-                <div class="col-md-4">
+        <div class="row g-4">
 
-                    <div class="card feature-card">
+            <div class="col-md-3">
 
-                        <h4>Facebook</h4>
+                <div class="card feature-card">
 
-                        <p>
-                            Search relevant Facebook posts.
-                        </p>
+                    <h2>{{ total_posts }}</h2>
 
-                    </div>
+                    <p>Total Posts</p>
 
                 </div>
 
-                <div class="col-md-4">
+            </div>
 
-                    <div class="card feature-card">
+            <div class="col-md-3">
 
-                        <h4>LinkedIn</h4>
+                <div class="card feature-card">
 
-                        <p>
-                            Discover professional opportunities and posts.
-                        </p>
+                    <h2>3</h2>
 
-                    </div>
+                    <p>Platforms</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-3">
+
+                <div class="card feature-card">
+
+                    <h2>{{ model_info.embedding_dimension }}</h2>
+
+                    <p>Embedding Size</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-3">
+
+                <div class="card feature-card">
+
+                    <h2>AI</h2>
+
+                    <p>Semantic Search</p>
 
                 </div>
 
@@ -101,7 +119,129 @@
 
         </div>
 
-    </div>
+    </section>
+
+    <!-- Platform Cards -->
+
+    <section class="mt-5">
+
+        <h2 class="text-center mb-4">
+
+            Supported Platforms
+
+        </h2>
+
+        <div class="row g-4">
+
+            <div class="col-md-4">
+
+                <div class="card feature-card">
+
+                    <h3>📸 Instagram</h3>
+
+                    <h4>{{ platform_stats["Instagram"] }}</h4>
+
+                    <p>
+
+                        AI-powered search through Instagram posts.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card feature-card">
+
+                    <h3>📘 Facebook</h3>
+
+                    <h4>{{ platform_stats["Facebook"] }}</h4>
+
+                    <p>
+
+                        Discover relevant Facebook content instantly.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card feature-card">
+
+                    <h3>💼 LinkedIn</h3>
+
+                    <h4>{{ platform_stats["LinkedIn"] }}</h4>
+
+                    <p>
+
+                        Find professional opportunities and posts.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Technology Stack -->
+
+    <section class="mt-5">
+
+        <h2 class="text-center mb-4">
+
+            Technology Stack
+
+        </h2>
+
+        <div class="text-center">
+
+            <span class="badge bg-primary m-1">Python</span>
+
+            <span class="badge bg-success m-1">Flask</span>
+
+            <span class="badge bg-danger m-1">SQLite</span>
+
+            <span class="badge bg-warning text-dark m-1">Sentence Transformers</span>
+
+            <span class="badge bg-info text-dark m-1">Scikit-learn</span>
+
+            <span class="badge bg-secondary m-1">Bootstrap 5</span>
+
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+
+    <footer class="text-center mt-5 mb-4">
+
+        <hr>
+
+        <p>
+
+            SocialMind AI • AI/ML Internship Project
+
+        </p>
+
+        <p>
+
+            Developed by <strong>Vihit Raval</strong>
+
+        </p>
+
+    </footer>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
 </body>
 
