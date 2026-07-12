@@ -54,7 +54,7 @@ def import_posts():
                                     post["platform"],
                                     post["author"],
                                     post["author_type"],
-                                    post["profile_image"],
+                                    f"https://ui-avatars.com/api/?name={post['author'].replace(' ', '+')}&background=2563eb&color=ffffff",
                                     post["content"],
                                     ",".join(post["hashtags"]),
                                     post["posted_date"],
