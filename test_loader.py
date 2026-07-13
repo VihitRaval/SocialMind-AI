@@ -1,4 +1,4 @@
-from utils.data_loader import *
+from utils.data_loader import get_all_posts, get_posts_by_platform, search_posts, get_top_liked_posts
 
 print("=" * 60)
 

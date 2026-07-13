@@ -223,21 +223,27 @@ http://127.0.0.1:5001
 
 ---
 
-# 📸 Application Screenshots
+## 📸 Application Screenshots
 
-> Add screenshots here after completing the project.
+### 🏠 Home Page
 
-Example:
+![Home](screenshots/homepage.png)
 
-```
-screenshots/
+### 🔍 Search Results
 
-homepage.png
+![Results](screenshots/search_results.png)
 
-search_results.png
+### ❌ No Results
 
-statistics.png
-```
+![No Results](screenshots/no_results.png)
+
+### ℹ️ About API
+
+![About](screenshots/about_api.png)
+
+### ❤️ Health API
+
+![Health](screenshots/health_api.png)
 
 ---
 

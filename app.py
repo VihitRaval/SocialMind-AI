@@ -62,28 +62,55 @@ def search():
 
     query = request.form.get("query", "").strip()
 
+    # Empty Search
     if not query:
 
         return render_template(
+
             "results.html",
+
             query="",
+
             results=[],
+
             total_results=0,
+
             search_time=0,
-            model_name="all-MiniLM-L6-v2"
+
+            model_name="all-MiniLM-L6-v2",
+
+            error_message="Please enter a valid search query."
+
         )
 
     start_time = time.perf_counter()
+
+    error_message = None
 
     try:
 
         results = search_service.search(query)
 
+        if len(results) == 0:
+
+            error_message = (
+                f'No matching posts were found for "{query}". '
+                "Try searching for AI Internship, Machine Learning, or Python."
+            )
+
     except Exception as error:
 
-        print(f"Search Error : {error}")
+        print("=" * 60)
+        print("SEARCH ERROR")
+        print(error)
+        print("=" * 60)
 
         results = []
+
+        error_message = (
+            "Something went wrong while processing your search. "
+            "Please try again."
+        )
 
     end_time = time.perf_counter()
 
@@ -101,10 +128,11 @@ def search():
 
         search_time=search_time,
 
-        model_name="all-MiniLM-L6-v2"
+        model_name="all-MiniLM-L6-v2",
+
+        error_message=error_message
 
     )
-
 
 # =====================================================
 # About API
@@ -115,18 +143,51 @@ def about():
 
     model = search_service.search_engine_information()
 
+    stats = search_service.platform_statistics()
+
     return {
 
-        "Project": "SocialMind AI",
+        "project": "SocialMind AI",
 
-        "Description": "AI-Powered Social Media Search Engine",
+        "version": "1.0.0",
 
-        "AI Model": "Sentence Transformers",
+        "description": "AI-Powered Social Media Post Fetching and Filtering System",
 
-        "Embedding Dimension": model["embedding_dimension"],
+        "author": "Vihit Raval",
 
-        "Indexed Posts": model["total_posts"]
+        "internship_domain": "Artificial Intelligence & Machine Learning",
 
+        "backend": "Flask",
+
+        "database": "SQLite",
+
+        "ai_model": "Sentence Transformers (all-MiniLM-L6-v2)",
+
+        "embedding_dimension": model["embedding_dimension"],
+
+        "total_posts": model["total_posts"],
+
+        "platforms": stats,
+
+        "supported_platforms": [
+            "Instagram",
+            "Facebook",
+            "LinkedIn"
+        ],
+
+        "technologies": [
+            "Python",
+            "Flask",
+            "SQLite",
+            "Sentence Transformers",
+            "Scikit-learn",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript"
+        ],
+
+        "status": "Running"
     }
 
 
@@ -137,17 +198,66 @@ def about():
 @app.route("/health")
 def health():
 
-    return {
+    try:
 
-        "status": "Running",
+        # Get project statistics
+        total_posts = search_service.total_posts()
 
-        "application": "SocialMind AI",
+        platform_stats = search_service.platform_statistics()
 
-        "database": "SQLite",
+        model_info = search_service.search_engine_information()
 
-        "ai_model": "all-MiniLM-L6-v2"
+        return {
 
-    }
+            "status": "Healthy",
+
+            "application": "SocialMind AI",
+
+            "version": "1.0.0",
+
+            "database": {
+
+                "status": "Connected",
+
+                "type": "SQLite"
+
+            },
+
+            "ai_model": {
+
+                "name": "Sentence Transformers (all-MiniLM-L6-v2)",
+
+                "embedding_dimension": model_info["embedding_dimension"],
+
+                "status": "Loaded"
+
+            },
+
+            "posts": {
+
+                "total": total_posts,
+
+                "platforms": platform_stats
+
+            },
+
+            "server": {
+
+                "status": "Running"
+
+            }
+
+        }
+
+    except Exception as error:
+
+        return {
+
+            "status": "Unhealthy",
+
+            "error": str(error)
+
+        }, 500
 @app.errorhandler(404)
 def page_not_found(error):
     return render_template("404.html"), 404
