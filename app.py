@@ -273,13 +273,13 @@ def internal_server_error(error):
 # =====================================================
 
 if __name__ == "__main__":
-
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    # Disable debug mode in production (only enable if FLASK_DEBUG=1/true)
+    debug_mode = os.environ.get("FLASK_DEBUG", "false").lower() in ("true", "1")
+    
     app.run(
-
         host="0.0.0.0",
-
-        port=5001,
-
-        debug=True
-
+        port=port,
+        debug=debug_mode
     )

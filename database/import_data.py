@@ -1,16 +1,19 @@
+import os
 import sqlite3
 import json
 from pathlib import Path
 
+# Base directory
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Database path
-DATABASE_PATH = "database/socialmind.db"
+DATABASE_PATH = os.path.join(BASE_DIR, "database", "socialmind.db")
 
 # JSON dataset paths
 DATA_FILES = [
-    "data/instagram.json",
-    "data/facebook.json",
-    "data/linkedin.json"
+    os.path.join(BASE_DIR, "data", "instagram.json"),
+    os.path.join(BASE_DIR, "data", "facebook.json"),
+    os.path.join(BASE_DIR, "data", "linkedin.json")
 ]
 
 

@@ -1,6 +1,10 @@
+import os
 import sqlite3
 
-DATABASE_PATH = "database/socialmind.db"
+# Dynamically resolve absolute path to database relative to the project root
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATABASE_PATH = os.path.join(BASE_DIR, "database", "socialmind.db")
+
 
 
 def get_connection():

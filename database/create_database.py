@@ -1,10 +1,14 @@
+import os
 import sqlite3
 
 
 def create_database():
     # Connect to the SQLite database
     # If the database does not exist, it will be created automatically.
-    connection = sqlite3.connect("database/socialmind.db")
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    db_path = os.path.join(base_dir, "database", "socialmind.db")
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
+    connection = sqlite3.connect(db_path)
 
     # Create a cursor object
     cursor = connection.cursor()

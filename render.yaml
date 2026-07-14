@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: socialmind-ai
+    env: python
+    plan: free
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn app:app"
+    envVars:
+      - key: FLASK_DEBUG
+        value: "false"
+      - key: PYTHON_VERSION
+        value: "3.10.14"
