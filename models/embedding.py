@@ -9,6 +9,10 @@ Author: Vihit Raval
 Project: SocialMind AI
 """
 
+import torch
+# Limit PyTorch CPU threads to 1 to prevent memory spikes and OOM crashes on Render
+torch.set_num_threads(1)
+
 from sentence_transformers import SentenceTransformer
 
 
