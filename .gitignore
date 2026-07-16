@@ -5,3 +5,5 @@ __pycache__/
 .env
 .DS_Store
 database/socialmind.db
+models/all-MiniLM-L6-v2/
+database/embeddings.npy

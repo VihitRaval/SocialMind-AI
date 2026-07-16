@@ -9,6 +9,8 @@ Author: Vihit Raval
 Project: SocialMind AI
 """
 
+import os
+import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 from models.embedding import EmbeddingModel
@@ -32,11 +34,23 @@ class SemanticSearch:
         # Load embedding model only once
         self.embedding_model = EmbeddingModel()
 
-        print("Generating embeddings for all posts...")
+        # Check if precomputed embeddings exist
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        embeddings_path = os.path.join(base_dir, "database", "embeddings.npy")
 
-        self.embeddings = self.embedding_model.generate_post_embeddings(posts)
+        if os.path.exists(embeddings_path):
+            print(f"Loading precomputed embeddings from {embeddings_path}...")
+            self.embeddings = np.load(embeddings_path)
+            # Verify that the loaded embeddings shape matches the posts list length
+            if self.embeddings.shape[0] != len(posts):
+                print(f"⚠️ Warning: Precomputed embeddings count ({self.embeddings.shape[0]}) "
+                      f"does not match posts count ({len(posts)}). Re-generating embeddings...")
+                self.embeddings = self.embedding_model.generate_post_embeddings(posts)
+        else:
+            print("Precomputed embeddings not found. Generating embeddings for all posts...")
+            self.embeddings = self.embedding_model.generate_post_embeddings(posts)
 
-        print(f"Successfully generated embeddings for {len(posts)} posts.\n")
+        print(f"Successfully loaded/generated embeddings for {len(posts)} posts.\n")
 
     def search(self, query, top_k=10, similarity_threshold=0.40):
         """

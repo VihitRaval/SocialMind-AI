@@ -22,6 +22,13 @@ def import_posts():
     connection = sqlite3.connect(DATABASE_PATH)
     cursor = connection.cursor()
 
+    # Clear existing posts to avoid duplicates on rebuilds
+    cursor.execute("DELETE FROM posts")
+    try:
+        cursor.execute("UPDATE sqlite_sequence SET seq = 0 WHERE name = 'posts'")
+    except sqlite3.OperationalError:
+        pass
+
     total_posts = 0
 
     for file_path in DATA_FILES:

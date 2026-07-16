@@ -9,6 +9,7 @@ Author: Vihit Raval
 Project: SocialMind AI
 """
 
+import os
 import torch
 # Limit PyTorch CPU threads to 1 to prevent memory spikes and OOM crashes on Render
 torch.set_num_threads(1)
@@ -32,7 +33,16 @@ class EmbeddingModel:
 
         print("Loading Sentence Transformer model...")
 
-        self.model = SentenceTransformer(model_name)
+        # Resolve path to local model if available
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        local_model_path = os.path.join(base_dir, "models", model_name)
+
+        if os.path.exists(local_model_path):
+            print(f"Loading model from local path: {local_model_path}")
+            self.model = SentenceTransformer(local_model_path)
+        else:
+            print(f"Local path not found. Loading model from Hugging Face Hub: {model_name}")
+            self.model = SentenceTransformer(model_name)
 
         print("Model loaded successfully.")
 

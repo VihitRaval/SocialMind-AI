@@ -22,7 +22,7 @@ def get_all_posts():
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    cursor.execute("SELECT * FROM posts")
+    cursor.execute("SELECT * FROM posts ORDER BY id ASC")
     posts = [dict(row) for row in cursor.fetchall()]
 
     conn.close()
