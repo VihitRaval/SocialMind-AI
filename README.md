@@ -2,6 +2,8 @@
 
 > **AI-Powered Social Media Post Fetching and Filtering System**
 
+**Live Website:** [https://socialmind-ai-nmwg.onrender.com](https://socialmind-ai-nmwg.onrender.com)
+
 An AI-powered web application that intelligently searches and filters social media posts from **Instagram**, **Facebook**, and **LinkedIn** using **Natural Language Processing (NLP)**, **Sentence Transformers**, and **Semantic Search** instead of traditional keyword matching.
 
 ---
