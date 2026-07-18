@@ -279,3 +279,196 @@ if (navbarToggler && navbarCollapse) {
         }
     });
 }
+
+/* ==========================================
+   Technical Interview Guide Interactions
+   ========================================== */
+document.addEventListener("DOMContentLoaded", () => {
+    const searchInput = document.getElementById("guide-search-input");
+    const pills = document.querySelectorAll(".category-pill-btn");
+    const sections = document.querySelectorAll(".category-section-wrapper");
+    const zeroState = document.getElementById("zero-results-card");
+    const backToTopBtn = document.getElementById("back-to-top");
+    const sidebarLinks = document.querySelectorAll(".sidebar-nav-link");
+
+    if (!searchInput && pills.length === 0) {
+        // Not on the interview guide page, skip guide logic
+        return;
+    }
+
+    let activeCategory = "all";
+
+    // 1. Category Pill click handler
+    pills.forEach(pill => {
+        pill.addEventListener("click", () => {
+            const category = pill.getAttribute("data-category");
+            
+            // Toggle active pill classes
+            pills.forEach(p => p.classList.remove("active-pill"));
+            pill.classList.add("active-pill");
+
+            // Sync sidebar links active state
+            sidebarLinks.forEach(link => {
+                if (link.getAttribute("data-section") === category) {
+                    link.classList.add("active");
+                } else {
+                    link.classList.remove("active");
+                }
+            });
+
+            activeCategory = category;
+            applyFilter();
+        });
+    });
+
+    // 2. Sidebar Navigation click handler
+    sidebarLinks.forEach(link => {
+        link.addEventListener("click", (e) => {
+            const sectionId = link.getAttribute("data-section");
+            
+            if (sectionId === "all") {
+                e.preventDefault();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+                
+                // Trigger 'all' pill click
+                const allPill = document.querySelector('.category-pill-btn[data-category="all"]');
+                if (allPill) allPill.click();
+                return;
+            }
+
+            // Sync pills active state
+            const targetPill = document.querySelector(`.category-pill-btn[data-category="${sectionId}"]`);
+            if (targetPill) {
+                pills.forEach(p => p.classList.remove("active-pill"));
+                targetPill.classList.add("active-pill");
+                activeCategory = sectionId;
+            }
+
+            sidebarLinks.forEach(l => l.classList.remove("active"));
+            link.classList.add("active");
+            
+            applyFilter();
+        });
+    });
+
+    // 3. Live search query handler
+    if (searchInput) {
+        searchInput.addEventListener("input", () => {
+            applyFilter();
+        });
+    }
+
+    // 4. Combined Filter and Search Function
+    function applyFilter() {
+        const query = searchInput ? searchInput.value.toLowerCase().trim() : "";
+        let visibleOverall = 0;
+
+        sections.forEach(section => {
+            const catId = section.getAttribute("data-category");
+            const isCategoryMatch = (activeCategory === "all" || activeCategory === catId);
+            const sectionCards = section.querySelectorAll(".question-card");
+            let visibleInSection = 0;
+
+            sectionCards.forEach(card => {
+                const cardText = card.getAttribute("data-question-text") || "";
+                const isSearchMatch = query === "" || cardText.includes(query);
+
+                if (isCategoryMatch && isSearchMatch) {
+                    card.classList.remove("d-none");
+                    visibleInSection++;
+                    visibleOverall++;
+                } else {
+                    card.classList.add("d-none");
+                }
+            });
+
+            // Toggle category section visibility based on cards match
+            if (isCategoryMatch && visibleInSection > 0) {
+                section.classList.remove("d-none");
+            } else {
+                section.classList.add("d-none");
+            }
+        });
+
+        // Toggle zero state
+        if (visibleOverall === 0) {
+            zeroState.classList.remove("d-none");
+        } else {
+            zeroState.classList.add("d-none");
+        }
+    }
+
+    // 5. Back to Top behavior
+    if (backToTopBtn) {
+        window.addEventListener("scroll", () => {
+            if (window.scrollY > 300) {
+                backToTopBtn.style.display = "block";
+            } else {
+                backToTopBtn.style.display = "none";
+            }
+        });
+
+        backToTopBtn.addEventListener("click", () => {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+    }
+
+    // Expand All / Collapse All button handlers
+    const expandAllBtn = document.getElementById("btn-expand-all");
+    const collapseAllBtn = document.getElementById("btn-collapse-all");
+
+    if (expandAllBtn) {
+        expandAllBtn.addEventListener("click", () => {
+            const collapses = document.querySelectorAll(".accordion-collapse");
+            collapses.forEach(el => {
+                const card = el.closest(".question-card");
+                if (card && !card.classList.contains("d-none") && !el.classList.contains("show")) {
+                    el.classList.add("show");
+                    const button = document.querySelector(`[data-bs-target="#${el.id}"]`);
+                    if (button) {
+                        button.classList.remove("collapsed");
+                        button.setAttribute("aria-expanded", "true");
+                    }
+                }
+            });
+        });
+    }
+
+    if (collapseAllBtn) {
+        collapseAllBtn.addEventListener("click", () => {
+            const collapses = document.querySelectorAll(".accordion-collapse");
+            collapses.forEach(el => {
+                if (el.classList.contains("show")) {
+                    el.classList.remove("show");
+                    const button = document.querySelector(`[data-bs-target="#${el.id}"]`);
+                    if (button) {
+                        button.classList.add("collapsed");
+                        button.setAttribute("aria-expanded", "false");
+                    }
+                }
+            });
+        });
+    }
+
+    // 6. ScrollSpy implementation to highlight active sidebar item on scroll
+    window.addEventListener("scroll", () => {
+        if (activeCategory !== "all") return; // Only highlight based on scroll position when "All Topics" is active
+
+        let currentSectionId = "all";
+        
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop - 120;
+            if (window.scrollY >= sectionTop) {
+                currentSectionId = section.getAttribute("data-category");
+            }
+        });
+
+        sidebarLinks.forEach(link => {
+            if (link.getAttribute("data-section") === currentSectionId) {
+                link.classList.add("active");
+            } else {
+                link.classList.remove("active");
+            }
+        });
+    });
+});

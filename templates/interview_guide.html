@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Technical Interview Guide | SocialMind AI</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link
+    rel="icon"
+    type="image/png"
+    href="{{ url_for('static', filename='images/logo.png') }}">
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg fixed-top custom-navbar">
+    <div class="container-fluid px-md-5">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="SocialMind AI Logo" class="navbar-logo me-2">
+            <span class="navbar-brand-text">SocialMind AI</span>
+        </a>
+        <button class="navbar-toggler custom-toggler collapsed" type="button" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="custom-toggler-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">🏠 Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/about">ℹ️ About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/health">❤️ Health</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/interview-guide">📝 Interview Guide</a>
+                </li>
+                <li class="nav-item ms-lg-2">
+                    <a class="nav-link github-btn" href="https://github.com/VihitRaval/SocialMind-AI" target="_blank" rel="noopener noreferrer">
+                        <span>📖 GitHub</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container main-content-wrapper py-5" style="margin-top: 80px;">
+
+    <!-- SECTION 1: Page Header -->
+    <section class="text-center mb-5 position-relative">
+        <div class="hero-glow"></div>
+        <div class="text-center mb-4 position-relative">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="SocialMind AI Logo" class="logo img-fluid mb-2" style="max-height: 80px;">
+        </div>
+        <h1 class="hero-title display-4 fw-extrabold mb-3">Technical Interview Guide</h1>
+        <p class="subtitle lead mb-4">Master the Artificial Intelligence, Database, and Web Architecture concepts behind SocialMind AI</p>
+    </section>
+
+    <!-- SECTION 2: Search & Filter Panel -->
+    <section class="row mb-5 justify-content-center">
+        <div class="col-lg-10">
+            <div class="card glass-card p-4 shadow-sm border-0">
+                <div class="row g-3 align-items-center">
+                    <!-- Search Input -->
+                    <div class="col-md-5">
+                        <div class="input-group search-input-group m-0" style="max-width: 100%;">
+                            <span class="input-group-text bg-transparent border-end-0 border-light-subtle text-secondary" style="border-radius: 15px 0 0 15px !important;">
+                                <i class="bi bi-search"></i>
+                            </span>
+                            <input type="text" id="guide-search-input" class="form-control bg-transparent border-start-0 border-light-subtle text-white py-2" placeholder="Search questions, keywords..." style="border-radius: 0 15px 15px 0 !important; font-size: 16px;">
+                        </div>
+                    </div>
+                    <!-- Categories filter pills -->
+                    <div class="col-md-7">
+                        <div class="d-flex flex-wrap gap-2 justify-content-md-end justify-content-start" id="category-pills">
+                            <button class="btn btn-sm btn-outline-light active-pill category-pill-btn px-3 py-1.5" data-category="all">
+                                All
+                            </button>
+                            {% for cat in categories %}
+                            <button class="btn btn-sm btn-outline-light category-pill-btn px-3 py-1.5" data-category="{{ cat.id }}">
+                                <i class="bi {{ cat.icon }} me-1"></i> {{ cat.name }}
+                            </button>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <hr class="border-light-subtle my-3">
+                <div class="d-flex justify-content-between align-items-center flex-wrap gap-2">
+                    <span class="text-secondary small"><i class="bi bi-info-circle me-1"></i> Click on any question to view its detailed explanations and tips.</span>
+                    <div class="d-flex gap-2">
+                        <button class="btn btn-sm btn-primary px-3 py-1.5" id="btn-expand-all" style="border-radius: 10px !important; font-size: 0.85rem;">
+                            <i class="bi bi-arrows-expand me-1"></i> Expand All
+                        </button>
+                        <button class="btn btn-sm btn-outline-secondary px-3 py-1.5 text-light" id="btn-collapse-all" style="border-radius: 10px !important; border-color: rgba(255,255,255,0.15); font-size: 0.85rem;">
+                            <i class="bi bi-arrows-collapse me-1"></i> Collapse All
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 3: Main Guide Interface -->
+    <section class="row g-4">
+        <!-- Sidebar Navigation (Sticky on desktop, hidden on mobile/tablets) -->
+        <div class="col-lg-3 d-none d-lg-block">
+            <div class="sticky-sidebar card glass-card p-3 border-0">
+                <h5 class="text-white fw-bold mb-3 px-2 border-bottom border-light-subtle pb-2">
+                    <i class="bi bi-compass-fill text-primary me-2"></i>Categories
+                </h5>
+                <ul class="nav flex-column sidebar-nav" id="sidebar-nav-list">
+                    <li class="nav-item mb-1">
+                        <a class="sidebar-nav-link active" href="#" data-section="all">
+                            <i class="bi bi-grid-fill me-2"></i> All Topics
+                        </a>
+                    </li>
+                    {% for cat in categories %}
+                    <li class="nav-item mb-1">
+                        <a class="sidebar-nav-link" href="#section-{{ cat.id }}" data-section="{{ cat.id }}">
+                            <i class="bi {{ cat.icon }} me-2"></i> {{ cat.name }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <!-- Questions Accordions -->
+        <div class="col-lg-9 col-md-12">
+            <div id="questions-container">
+                {% for cat in categories %}
+                <div class="category-section-wrapper mb-5" id="section-{{ cat.id }}" data-category="{{ cat.id }}">
+                    <div class="d-flex align-items-center mb-4 pb-2 border-bottom border-light-subtle">
+                        <div class="category-section-icon bg-primary-gradient text-white rounded-3 me-3 d-flex align-items-center justify-content-center" style="width: 40px; height: 40px; font-size: 1.2rem;">
+                            <i class="bi {{ cat.icon }}"></i>
+                        </div>
+                        <h3 class="text-white fw-bold m-0" style="font-size: 1.5rem;">{{ cat.name }}</h3>
+                    </div>
+
+                    <!-- Accordion -->
+                    <div class="accordion custom-accordion" id="accordion-{{ cat.id }}">
+                        {% for q in questions if q.category_id == cat.id %}
+                        <div class="accordion-item glass-card mb-3 border-0 overflow-hidden question-card" 
+                             data-question-text="{{ q.question | lower }} {{ q.easy_explanation | lower }} {{ q.technical_explanation | lower }} {{ q.project_example | lower }} {{ q.real_world_usage | lower }} {{ q.best_practices | lower }} {{ q.interview_tip | lower }}" 
+                             data-category-id="{{ cat.id }}">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed bg-transparent text-white fw-semibold border-0 py-3 px-4 d-flex gap-3 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-q-{{ q.id }}" aria-expanded="false" aria-controls="collapse-q-{{ q.id }}">
+                                    <span class="question-number text-primary font-monospace fs-5">Q{{ q.id }}</span>
+                                    <span class="question-text text-start">{{ q.question }}</span>
+                                </button>
+                            </h2>
+                            <div id="collapse-q-{{ q.id }}" class="accordion-collapse collapse" data-bs-parent="#accordion-{{ cat.id }}">
+                                <div class="accordion-body p-4 bg-dark-subtle border-top border-light-subtle">
+                                    
+                                    <!-- Answers grids -->
+                                    <div class="answer-container d-flex flex-column gap-4">
+                                        <!-- Easy Explanation -->
+                                        <div class="answer-section p-3 rounded-3" style="background: rgba(255,255,255,0.01); border-left: 4px solid #3b82f6;">
+                                            <h6 class="text-primary fw-bold mb-2"><i class="bi bi-chat-left-dots-fill me-2"></i>Easy Explanation</h6>
+                                            <p class="text-secondary mb-0" style="font-size: 15px; line-height: 1.6;">{{ q.easy_explanation }}</p>
+                                        </div>
+
+                                        <!-- Technical Explanation -->
+                                        <div class="answer-section p-3 rounded-3" style="background: rgba(255,255,255,0.01); border-left: 4px solid #10b981;">
+                                            <h6 class="text-success fw-bold mb-2"><i class="bi bi-gear-fill me-2"></i>Technical Explanation</h6>
+                                            <p class="text-secondary mb-0" style="font-size: 15px; line-height: 1.6;">{{ q.technical_explanation }}</p>
+                                        </div>
+
+                                        <!-- Project Example -->
+                                        <div class="answer-section p-3 rounded-3" style="background: rgba(0, 0, 0, 0.15); border-left: 4px solid #a855f7;">
+                                            <h6 class="text-purple fw-bold mb-2"><i class="bi bi-file-earmark-code-fill me-2"></i>SocialMind AI Implementation</h6>
+                                            <p class="text-secondary mb-0 font-monospace" style="font-size: 14.5px; line-height: 1.6;">{{ q.project_example }}</p>
+                                        </div>
+
+                                        <!-- Real World Usage -->
+                                        <div class="answer-section p-3 rounded-3" style="background: rgba(255,255,255,0.01); border-left: 4px solid #f59e0b;">
+                                            <h6 class="text-warning fw-bold mb-2"><i class="bi bi-globe me-2"></i>Real-World Usage</h6>
+                                            <p class="text-secondary mb-0" style="font-size: 15px; line-height: 1.6;">{{ q.real_world_usage }}</p>
+                                        </div>
+
+                                        <!-- Best Practices -->
+                                        <div class="answer-section p-3 rounded-3" style="background: rgba(255,255,255,0.01); border-left: 4px solid #ef4444;">
+                                            <h6 class="text-danger fw-bold mb-2"><i class="bi bi-check-circle-fill me-2"></i>Best Practices</h6>
+                                            <p class="text-secondary mb-0" style="font-size: 15px; line-height: 1.6;">{{ q.best_practices }}</p>
+                                        </div>
+
+                                        <!-- Interview Tip -->
+                                        <div class="answer-section p-3 rounded-3 bg-primary-glow" style="border: 1px dashed rgba(37,99,235,0.25); border-radius: 12px !important;">
+                                            <h6 class="text-primary fw-bold mb-2"><i class="bi bi-lightbulb-fill me-2"></i>Interview Tip</h6>
+                                            <p class="text-secondary mb-0" style="font-size: 15px; line-height: 1.6; font-style: italic;">{{ q.interview_tip }}</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- Zero Search Results State -->
+                <div class="text-center py-5 d-none" id="zero-results-card">
+                    <div class="fs-1 text-secondary mb-3"><i class="bi bi-emoji-frown"></i></div>
+                    <h4 class="text-white fw-bold">No Questions Found</h4>
+                    <p class="text-secondary">Try searching for keywords like "embeddings", "SQLite", "Flask", or "Gunicorn".</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 4: Professional Footer -->
+    <footer class="site-footer mt-5 pt-5 pb-4">
+        <div class="row g-4 justify-content-between">
+            <!-- Brand & Description -->
+            <div class="col-lg-5 col-md-6">
+                <h5 class="fw-bold text-white mb-3 d-flex align-items-center">
+                    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="SocialMind Logo" height="30" class="me-2 site-footer-logo">
+                    SocialMind AI
+                </h5>
+                <p class="text-secondary text-sm mb-4" style="max-width: 360px;">
+                    AI-Powered Social Media Search & Intelligent Filtering System for Instagram, Facebook, and LinkedIn.
+                </p>
+                <div class="footer-social-links d-flex gap-3">
+                    <a href="https://github.com/VihitRaval/SocialMind-AI" target="_blank" rel="noopener noreferrer" class="social-icon-link" title="GitHub">
+                        <i class="bi bi-github fs-5"></i>
+                    </a>
+                    <a href="https://linkedin.com/in/vihit-raval" target="_blank" rel="noopener noreferrer" class="social-icon-link" title="LinkedIn">
+                        <i class="bi bi-linkedin fs-5"></i>
+                    </a>
+                    <a href="mailto:vihit.raval@example.com" class="social-icon-link" title="Email">
+                        <i class="bi bi-envelope-fill fs-5"></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Internship & Developer Info -->
+            <div class="col-lg-4 col-md-6 text-md-end">
+                <h6 class="text-white fw-bold mb-3">Project Credentials</h6>
+                <p class="text-secondary text-sm mb-1">Developed by <strong class="text-white">Vihit Raval</strong></p>
+                <p class="text-secondary text-sm mb-1">Bachelor of Engineering in Information Technology</p>
+                <p class="text-secondary text-sm mb-3">Artificial Intelligence & Machine Learning Internship</p>
+                <span class="badge bg-primary-gradient px-3 py-1.5 rounded-pill text-xs fw-bold">Class of 2026</span>
+            </div>
+        </div>
+
+        <hr class="footer-divider my-4">
+
+        <div class="row align-items-center justify-content-between">
+            <div class="col-md-6 text-center text-md-start">
+                <p class="text-secondary text-sm mb-0">© 2026 SocialMind AI. All Rights Reserved.</p>
+            </div>
+            <div class="col-md-6 text-center text-md-end mt-2 mt-md-0">
+                <p class="text-secondary text-xs mb-0">Engineered with Flask & Sentence Transformers</p>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<!-- Back to Top Button -->
+<button type="button" id="back-to-top" class="btn btn-primary rounded-circle shadow-lg" style="position: fixed; bottom: 30px; right: 30px; z-index: 1050; display: none; width: 50px; height: 50px; border-radius: 50% !important; padding: 0;">
+    <i class="bi bi-arrow-up fs-4"></i>
+</button>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+</body>
+
+</html>

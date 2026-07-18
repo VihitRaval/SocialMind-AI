@@ -831,3 +831,148 @@ body {
     border-color: rgba(255, 255, 255, 0.08);
     opacity: 1;
 }
+
+/* ==========================================
+   Technical Interview Guide Custom Styles
+   ========================================== */
+
+/* Hero Glow */
+.hero-glow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(37, 99, 235, 0.1) 0%, rgba(37, 99, 235, 0) 70%);
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* Category pills filtering */
+.category-pill-btn {
+    border-radius: 20px !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    background: rgba(255, 255, 255, 0.02);
+    color: #cbd5e1 !important;
+    transition: all 0.25s ease;
+    font-size: 0.85rem !important;
+}
+
+.category-pill-btn:hover {
+    background: rgba(255, 255, 255, 0.08) !important;
+    border-color: rgba(255, 255, 255, 0.3) !important;
+    transform: translateY(-1px);
+}
+
+.category-pill-btn.active-pill {
+    background: #2563eb !important;
+    border-color: #2563eb !important;
+    color: #ffffff !important;
+    box-shadow: 0 0 12px rgba(37, 99, 235, 0.4);
+}
+
+/* Sticky Sidebar Navigation */
+.sticky-sidebar {
+    position: sticky;
+    top: 100px;
+    z-index: 100;
+}
+
+.sidebar-nav-link {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    color: #94a3b8;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: all 0.25s ease;
+    font-size: 0.9rem;
+}
+
+.sidebar-nav-link:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.04);
+    transform: translateX(3px);
+}
+
+.sidebar-nav-link.active {
+    color: #ffffff;
+    background: rgba(37, 99, 235, 0.15) !important;
+    border-left: 3px solid #2563eb;
+    font-weight: 600;
+}
+
+/* Accordion Custom Styling */
+.custom-accordion .accordion-item {
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    margin-bottom: 12px;
+}
+
+.custom-accordion .accordion-button {
+    font-size: 1.05rem;
+    box-shadow: none !important;
+    transition: all 0.3s ease;
+}
+
+.custom-accordion .accordion-button::after {
+    filter: invert(1) grayscale(1) brightness(1.5);
+    transition: transform 0.3s ease;
+}
+
+.custom-accordion .accordion-button:not(.collapsed) {
+    background: rgba(37, 99, 235, 0.05) !important;
+    color: #3b82f6 !important;
+    box-shadow: none !important;
+}
+
+.custom-accordion .accordion-button:not(.collapsed)::after {
+    filter: invert(47%) sepia(87%) saturate(1750%) hue-rotate(205deg) brightness(98%) contrast(93%);
+}
+
+.question-number {
+    font-weight: 700;
+    min-width: 35px;
+}
+
+/* Colors and custom alerts inside answers */
+.text-purple {
+    color: #c084fc;
+}
+
+.bg-primary-glow {
+    background: rgba(37, 99, 235, 0.04) !important;
+}
+
+.answer-section {
+    transition: transform 0.25s ease, background 0.25s ease;
+}
+
+.answer-section:hover {
+    background: rgba(255, 255, 255, 0.03) !important;
+    transform: translateX(3px);
+}
+
+/* Category Icons */
+.bg-primary-gradient {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8) !important;
+}
+
+/* Back to top button styling */
+#back-to-top {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    background: #2563eb;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4), 0 0 10px rgba(37, 99, 235, 0.3);
+}
+
+#back-to-top:hover {
+    background: #1d4ed8;
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5), 0 0 15px rgba(37, 99, 235, 0.5);
+}
+
+/* Scroll margin for category section wrappers to offset fixed navbar */
+.category-section-wrapper {
+    scroll-margin-top: 100px;
+}

@@ -135,6 +135,22 @@ def search():
     )
 
 # =====================================================
+# Technical Interview Guide Page
+# =====================================================
+
+@app.route("/interview-guide")
+def interview_guide():
+    from utils.interview_questions import get_interview_questions, get_categories
+    questions = get_interview_questions()
+    categories = get_categories()
+    return render_template(
+        "interview_guide.html",
+        questions=questions,
+        categories=categories
+    )
+
+
+# =====================================================
 # About API
 # =====================================================
 
