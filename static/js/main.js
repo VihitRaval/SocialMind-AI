@@ -115,24 +115,12 @@ document.addEventListener("DOMContentLoaded", () => {
     ];
 
     if (searchInput) {
-
-        searchInput.addEventListener("focus", function () {
-
-            const randomSuggestion = suggestions[
-                Math.floor(Math.random() * suggestions.length)
-            ];
-
-            searchInput.placeholder = `Try: ${randomSuggestion}`;
-
-        });
-
-        searchInput.addEventListener("blur", function () {
-
-            searchInput.placeholder =
-                "Search AI Internship, Machine Learning, Python...";
-
-        });
-
+        // Set a random suggestion placeholder once at page load to prevent input repaint
+        // and cursor-reset/text-reversal bugs on mobile virtual keyboards
+        const randomSuggestion = suggestions[
+            Math.floor(Math.random() * suggestions.length)
+        ];
+        searchInput.placeholder = `Try: ${randomSuggestion}`;
     }
 
     // ------------------------------------
