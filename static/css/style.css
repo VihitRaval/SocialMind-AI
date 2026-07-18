@@ -976,3 +976,17 @@ body {
 .category-section-wrapper {
     scroll-margin-top: 100px;
 }
+
+/* Prevent search-input-group from stacking on mobile */
+@media(max-width:768px) {
+    .search-input-group {
+        flex-direction: row !important;
+    }
+    .search-input-group .form-control {
+        margin-bottom: 0 !important;
+        border-radius: 0 15px 15px 0 !important;
+    }
+    .search-input-group .input-group-text {
+        border-radius: 15px 0 0 15px !important;
+    }
+}
