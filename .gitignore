@@ -1,9 +1,41 @@
-.venv/
-venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
-.env
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Flask/Flask-specific
+instance/
+.env
+.flaskenv
+
+# Pytest / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases and precomputed embeddings
 database/socialmind.db
-models/all-MiniLM-L6-v2/
 database/embeddings.npy
+models/all-MiniLM-L6-v2/
+*.sqlite3
+*.db-journal
+*.db

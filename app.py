@@ -169,9 +169,29 @@ def about():
 
         "description": "AI-Powered Social Media Post Fetching and Filtering System",
 
-        "author": "Vihit Raval",
+        "project_overview": "An AI-powered Social Media Search & Intelligent Filtering System that performs semantic search on social media posts using natural language processing.",
 
-        "internship_domain": "Artificial Intelligence & Machine Learning",
+        "project_goal": "To demonstrate the application of Semantic Search and Sentence Transformers in retrieving and filtering social media data with high relevance and speed.",
+
+        "build_date": "2026-07-19",
+
+        "github_repository": "https://github.com/VihitRaval/SocialMind-AI",
+
+        "live_demo": "https://socialmind-ai.onrender.com",
+
+        "developer": {
+            "name": "Vihit Raval",
+            "role": "Artificial Intelligence & Machine Learning Intern",
+            "education": "Bachelor of Engineering in Information Technology",
+            "email": "vihit.raval@example.com",
+            "github": "https://github.com/VihitRaval"
+        },
+
+        "internship_information": {
+            "domain": "Artificial Intelligence & Machine Learning",
+            "duration": "Summer 2026",
+            "status": "Completed"
+        },
 
         "backend": "Flask",
 
